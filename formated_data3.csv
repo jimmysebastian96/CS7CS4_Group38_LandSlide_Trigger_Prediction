@@ -1,0 +1,1708 @@
+event_date,landslide_category,landslide_trigger,landslide_size,landslide_setting,fatality_count,injury_count,country_code,admin_division_name,admin_division_population,longitude,latitude,temp,humidity,wind
+17-05-2015 00:00,landslide,rain,medium,urban,0,0,MX,Baja California,1173,-117.0898,32.5196,16.4,74,13.6
+01-10-2016 00:00,landslide,downpour,medium,bluff,0,0,GB,England,2565,0.8546,51.4216,12.3,88,11.3
+02-04-2015 00:00,landslide,continuous_rain,medium,natural_slope,0,0,IN,Kashmir,14965,74.4725,34.1587,5.2,92,4.3
+19-07-2015 00:00,landslide,downpour,small,above_road,0,0,US,California,20292,-116.9029,33.0742,21.3,93,11.8
+21-10-2015 00:00,landslide,rain,medium,above_road,0,0,MX,Chiapas,19092,-92.2523,15.3482,18.2,92,3.6
+03-03-2016 00:00,landslide,flooding,unknown,above_road,0,0,PH,Mimaropa,32739,121.6979,14.2282,24.3,89,15.5
+23-01-2014 00:00,landslide,downpour,unknown,below_road,0,0,PH,Ilocos,4945,120.8221,18.5875,20,77,33.5
+13-03-2016 00:00,mudslide,downpour,small,above_road,0,0,US,California,6871,-120.4218,38.7987,2.9,88,18.9
+12-05-2015 00:00,mudslide,no_apparent_trigger,small,urban,0,0,GB,Wales,1726,-3.3002,53.3297,11.2,76,27.9
+16-03-2015 14:30,landslide,rain,small,above_road,0,0,US,Washington,53007,-122.376,47.7166,6.8,91,5.1
+01-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Manipur,30418,94.1078,24.1419,19.3,100,5.4
+03-06-2015 12:30,landslide,no_apparent_trigger,medium,mine,3,0,ID,Bali,0,115.5442,-8.7401,26.8,90,12.2
+15-10-2014 00:00,landslide,continuous_rain,medium,other,0,0,SV,San Miguel,6393,-88.0843,13.293,26,92,10.5
+01-11-2014 05:05,debris_flow,rain,small,above_road,0,0,US,California,3371,-117.6767,34.2008,13.5,86,15.8
+16-08-2015 13:00,landslide,rain,medium,above_road,0,0,NP,Western Region,23296,83.6182,28.2576,27,83,4.2
+22-08-2015 04:30,landslide,downpour,medium,above_road,0,0,IN,Himachal Pradesh,2467,77.1213,31.0365,19.2,89,3.8
+26-09-2014 10:00,landslide,continuous_rain,small,above_road,0,0,US,Washington,1035,-122.3657,47.9918,14.7,83,18.5
+12-12-2014 00:00,mudslide,downpour,small,burned_area,0,0,US,California,50073,-117.7994,34.2062,13.6,65,6.2
+18-04-2013 00:00,landslide,rain,small,urban,0,0,US,Illinois,23402,-89.5567,40.6545,14.1,95,18.8
+17-09-2016 00:00,mudslide,downpour,large,mine,2,1,CN,Guangdong,10358381,114.0945,22.6194,27.8,74,13.7
+03-04-2015 00:00,mudslide,downpour,small,other,0,0,US,Kentucky,6903,-82.4939,37.4264,20.3,59,20.9
+11-08-2016 23:00,unknown,downpour,medium,above_road,0,0,SA,Jizan,0,43.1066,17.2635,19.8,93,4.7
+05-01-2015 00:00,mudslide,rain,small,above_road,0,0,US,Washington,1637,-123.7858,46.6689,11.8,93,32.8
+08-09-2008 07:40,complex,dam_embankment_collapse,very_large,mine,277,33,CN,Shanxi Sheng,0,111.5837,35.8853,18.2,75,9.2
+12-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Kashmir,7317,75.2845,33.2049,23.4,84,6.4
+05-01-2013 14:00,rock_fall,earthquake,small,natural_slope,0,0,NZ,Canterbury,1187,170.1797,-43.5698,17.2,86,9.2
+24-06-2015 18:40,landslide,continuous_rain,medium,above_river,1,5,CN,Sichuan,0,109.8971,31.0918,27.1,96,3.7
+29-07-2016 22:00,landslide,continuous_rain,medium,above_road,0,0,JM,Saint Catherine,12797,-77.0428,18.2031,29.7,54,11.6
+15-06-2016 00:00,mudslide,downpour,medium,above_river,0,0,CA,British Columbia,2587,-121.8022,56.1127,11.7,87,6.6
+01-10-2015 00:00,unknown,mining,unknown,mine,4,1,KE,Meru,47226,37.6538,0.0487,18.5,74,7.2
+20-10-2016 00:00,landslide,tropical_cyclone,medium,below_road,0,0,PH,Cordillera,0,121.3267,17.5291,26.2,84,37.2
+23-05-2015 00:00,landslide,rain,medium,below_road,0,0,MX,Chiapas,3796,-92.1124,15.0337,25.8,88,4
+11-01-2014 00:00,landslide,continuous_rain,medium,natural_slope,0,0,ID,West Java,276414,106.9272,-6.9197,26.9,89,1.3
+08-06-2016 22:00,landslide,downpour,medium,above_road,0,0,IN,Kashmir,7750,75.3226,34.2952,4.7,87,9.4
+02-10-2016 00:00,landslide,rain,small,below_road,0,0,AU,Victoria,3356,143.4041,-37.8145,17.6,55,34.8
+07-12-2014 09:00,rock_fall,rain,medium,above_river,0,0,CA,British Columbia,48000,-123.0023,49.3418,6.8,93,8.1
+18-02-2014 09:00,mudslide,continuous_rain,medium,above_road,0,0,US,Washington,9173,-122.373,47.2473,6.5,91,15.2
+12-12-2014 02:00,debris_flow,rain,small,above_road,0,0,US,California,3249,-118.9774,34.0615,17.9,79,16.9
+23-07-2015 00:00,landslide,rain,medium,above_road,0,0,NI,Ogun State,16056,-84.778,13.7484,26.5,86,5.8
+11-10-2016 02:30,landslide,downpour,small,urban,0,0,CA,Newfoundland and Labrador,18693,-58.1315,49.0099,5,89,28.6
+19-01-1997 00:00,landslide,downpour,medium,above_road,0,0,US,Washington,5233,-122.6172,47.6495,9.3,90,17.2
+02-08-2015 00:00,landslide,downpour,small,retaining_wall,0,0,TH,Phuket,14797,98.2879,7.874,,,
+28-01-2015 23:00,landslide,continuous_rain,small,below_road,0,0,CR,San José,34877,-83.9498,9.7962,15,93,10
+09-02-2015 09:00,landslide,downpour,small,above_road,0,0,US,California,29926,-122.1367,37.2524,10.6,94,10.4
+16-04-2016 00:00,rock_fall,earthquake,small,above_road,0,0,JP,Kumamoto,26677,130.8266,32.9778,18,70,5.6
+20-10-2016 00:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Cordillera,3370,120.8036,16.7693,16.3,95,13.1
+19-07-2015 08:00,landslide,continuous_rain,small,above_road,0,0,NP,Western Region,23296,83.6117,28.2658,29.6,63,1.1
+14-10-2016 00:00,landslide,rain,small,above_road,0,0,US,Oregon,1286,-123.9047,45.5469,16,97,23.1
+05-11-2015 00:00,landslide,rain,medium,above_road,0,0,CR,San José,5467,-83.5565,9.3496,18.4,96,1.8
+02-08-2016 22:30,rock_fall,monsoon,medium,above_road,0,0,IN,Maharashtra,25997,73.7735,19.3421,22.4,99,13
+12-12-2014 09:00,riverbank_collapse,rain,small,above_river,0,0,US,California,42039,-121.9995,37.8237,10.2,86,1.5
+10-05-2016 00:00,other,downpour,small,retaining_wall,0,0,PA,Panamá,69102,-79.4974,9.077,27.6,79,13.2
+29-01-2016 00:00,landslide,rain,small,above_road,0,0,CO,Huila,8044,-75.074,2.7664,20.1,58,6.1
+31-03-2015 00:00,landslide,construction,medium,above_road,4,0,IN,Uttarakhand,13865,79.8102,30.6145,1.5,78,3.7
+29-08-2016 00:00,rock_fall,downpour,medium,above_road,0,0,US,New Mexico,1392,-105.785,35.5722,20.1,26,14.3
+05-01-2015 01:00,landslide,rain,medium,above_road,0,0,US,Washington,8726,-123.8975,46.9959,11.9,95,27.3
+28-06-2016 00:00,landslide,downpour,small,mine,0,0,IN,Goa,16311,73.8976,15.3455,25.7,93,16
+21-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,PH,Cordillera,0,120.8246,16.5132,19.6,97,15.9
+06-07-2015 00:00,landslide,downpour,medium,above_road,0,0,IN,Uttarakhand,42309,79.4525,29.393,16.2,96,1.8
+26-08-2015 00:00,landslide,continuous_rain,medium,below_road,0,0,PA,Chiriquí,0,-82.8232,8.5772,23.9,90,3.2
+17-12-2015 00:00,landslide,mining,large,mine,1,0,MM,Sagain,182011,95.5488,22.1306,19.5,86,7.4
+28-05-2016 17:00,mudslide,downpour,medium,above_road,0,0,KG,Batken,0,71.5193,40.0076,14.7,70,7.2
+27-09-2016 23:00,rock_fall,continuous_rain,medium,deforested_slope,0,0,GH,Eastern,96266,-0.279,6.1699,23.8,92,4.7
+14-06-2016 15:00,landslide,downpour,medium,above_road,0,0,GB,England,10830,-1.9953,52.5008,15.3,83,7.2
+15-10-2014 00:00,landslide,continuous_rain,medium,above_river,0,0,SV,La Paz,2654,-89.0401,13.5461,25.3,89,4.7
+15-09-2015 09:00,mudslide,downpour,small,above_road,0,0,US,California,9083,-117.5833,33.7474,20.7,82,3.1
+27-09-2015 00:00,landslide,rain,medium,above_road,0,0,NI,Madriz,1257,-86.6146,13.3864,23,91,1.1
+29-09-2016 00:00,landslide,rain,medium,below_road,0,0,CA,British Columbia,2324,-121.859,50.8267,17.1,35,3.5
+25-08-2014 09:00,riverbank_collapse,downpour,small,other,3,0,NP,Western Region,200000,83.9557,28.2134,27.5,76,0.4
+03-12-2015 00:00,landslide,downpour,large,natural_slope,18,0,ID,Bengkulu,0,101.9801,-3.0414,20.6,95,2.6
+13-05-2014 09:30,landslide,rain,small,above_road,0,0,US,Pennsylvania,305704,-80.0017,40.4301,18.4,95,8.7
+15-05-2014 09:00,landslide,rain,medium,above_road,0,0,US,New York,1183,-74.4086,42.1633,15.2,90,9.8
+09-06-2015 00:00,landslide,continuous_rain,medium,above_road,2,2,IN,Arunachal Pradesh,44971,93.816,27.0987,24.4,96,6.3
+12-12-2014 02:00,debris_flow,downpour,medium,burned_area,0,0,US,California,3249,-118.9801,34.1965,17.7,79,16.9
+12-03-2016 20:30,rock_fall,rain,medium,above_road,0,0,US,California,11310,-121.4519,39.7958,8.2,89,26.3
+06-01-2016 00:00,debris_flow,rain,medium,above_road,0,0,US,California,65201,-119.0169,34.2157,13.4,82,18.6
+11-12-2014 09:00,landslide,downpour,small,above_road,0,0,US,California,3353,-122.8275,38.9608,13.1,95,18
+21-09-2015 00:00,landslide,downpour,medium,above_road,0,0,CA,British Columbia,2192,-122.6205,50.479,15.1,91,4.1
+14-02-2015 09:00,landslide,rain,medium,natural_slope,0,0,US,Hawaii,34597,-157.8224,21.4007,21.7,82,32.9
+20-03-2016 00:00,landslide,downpour,medium,natural_slope,3,0,PK,Khyber Pakhtunkhwa,66486,73.202,34.3331,12.1,67,7.9
+31-07-2015 09:30,mudslide,downpour,small,deforested_slope,0,0,MY,Penang,140849,100.249,5.2923,30.8,70,3.1
+19-01-2014 00:00,riverbank_collapse,tropical_cyclone,medium,below_road,0,0,PH,Caraga,2033,125.9825,9.2424,25,93,34
+19-12-2014 15:00,landslide,continuous_rain,small,above_road,0,0,US,California,1620,-122.691,37.9327,15,90,21.7
+03-08-2014 09:00,landslide,continuous_rain,small,above_road,0,0,IN,State of Odisha,22264,83.6299,19.1497,25.6,88,2.2
+14-12-2015 00:00,landslide,rain,medium,natural_slope,0,0,KE,Vihiga,216479,34.7222,0.0482,17.4,88,5.2
+18-10-2016 09:00,mudslide,rain,small,above_road,0,0,US,Washington,6606,-122.2625,47.267,11,93,12.6
+20-03-2016 15:00,landslide,downpour,medium,natural_slope,2,0,PK,Khyber Pakhtunkhwa,0,71.7854,36.2063,-16.8,92,1.8
+24-11-2015 10:00,rock_fall,mining,small,above_road,0,0,BZ,Cayo,13381,-88.8519,17.2183,23.2,98,4.6
+15-05-2014 00:00,landslide,continuous_rain,medium,deforested_slope,0,0,BA,Federation of Bosnia and Herzegovina,5783,17.9324,44.3551,8.2,85,21.9
+27-10-2014 09:00,rock_fall,downpour,medium,above_road,0,0,IN,Tamil Nadu,14190,77.6377,10.2379,25.5,76,3.8
+21-01-2013 14:00,rock_fall,earthquake,medium,natural_slope,0,0,NZ,West Coast,1187,170.1794,-43.5586,13.9,96,3.2
+14-06-2016 00:00,landslide,downpour,medium,above_road,0,0,NP,Eastern Region,17491,87.9125,26.8823,22.6,97,4.8
+23-06-2015 23:00,landslide,continuous_rain,small,above_road,0,0,MU,Pamplemousses,3097,57.5716,-20.1999,21.6,93,20.9
+01-01-1997 00:00,debris_flow,downpour,medium,above_road,0,0,US,Washington,608660,-122.3807,47.5876,8.1,88,13.9
+16-12-2015 00:00,riverbank_collapse,flooding,medium,below_road,0,0,MX,Tabasco,1732,-92.8901,18.2341,29.1,83,7.1
+28-09-2016 00:00,mudslide,tropical_cyclone,medium,natural_slope,0,0,CN,Zhejiang,865672,120.6434,27.9547,26.3,92,35.7
+14-08-2014 15:00,debris_flow,downpour,small,natural_slope,0,0,US,Nevada,15023,-114.8324,36.0026,29.1,41,16
+24-02-2016 04:00,rock_fall,rain,small,above_road,0,0,US,Ohio,1560,-81.9082,38.9519,10,73,13.6
+27-12-2014 00:00,landslide,downpour,medium,above_road,0,0,ID,Aceh,24519,95.2701,5.8498,25.1,91,5.8
+10-05-2016 00:00,mudslide,rain,small,urban,0,0,PA,Colón,1216,-79.7975,9.3147,27.4,79,10.8
+21-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Kashmir,37475,77.7559,33.7403,12.1,83,1.3
+29-08-2013 09:00,landslide,continuous_rain,medium,mine,1,3,PH,Davao,42563,126.1419759,7.704271157,27.9,84,9.4
+01-10-2016 00:00,landslide,earthquake,medium,above_road,0,0,PK,Khyber Pakhtunkhwa,0,73.5206,34.785,8.1,96,5.3
+28-12-1998 00:00,debris_flow,downpour,small,above_road,0,0,US,Oregon,1661,-123.6046,45.2419,9.8,98,29.3
+25-12-2015 18:00,landslide,mining,medium,mine,5,0,MM,Kachin,90894,97.3668,26.0746,12.2,83,7.9
+20-07-2016 14:30,mudslide,downpour,medium,above_road,0,0,US,Colorado,1320,-108.0216,37.9939,16.9,77,3.1
+28-01-2016 00:00,landslide,continuous_rain,small,natural_slope,0,0,US,Washington,3036,-123.3754,48.1136,12.9,90,14.8
+10-08-2015 23:00,landslide,monsoon,small,above_road,0,0,TH,Phuket,0,98.3819,7.825,,,
+20-03-2015 08:00,other,volcano,medium,natural_slope,0,0,CR,Cartago,6784,-83.8542,9.9786,0.9,86,3
+11-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Kashmir,80447,75.1447,32.9262,22.9,85,5.4
+23-02-2016 23:00,mudslide,downpour,small,above_road,0,0,US,Ohio,5338,-84.4488,39.1224,12.2,62,12.5
+03-03-2014 09:00,mudslide,snowfall_snowmelt,large,above_road,0,0,US,Kentucky,6903,-82.5745,37.4285,-1.6,91,16.5
+03-10-2016 00:00,landslide,tropical_cyclone,small,urban,2,0,DO,Nacional,8576,-69.9047,18.5084,25.3,99,3.4
+31-12-2014 18:00,landslide,rain,medium,mine,0,0,MY,Selangor,69302,101.7342,3.0651,23.5,94,4.9
+21-08-2014 23:00,debris_flow,downpour,medium,burned_area,0,0,US,Washington,2370,-120.0646,48.2873,26,38,4.3
+29-12-2014 00:00,landslide,tropical_cyclone,medium,below_road,0,0,PH,Central Visayas,2163,123.763,10.4775,25.2,91,34.2
+22-05-2016 00:00,unknown,rain,medium,above_road,0,0,CR,San José,0,-83.9717,10.1557,21.5,92,5.5
+26-06-2014 23:00,landslide,continuous_rain,medium,above_road,0,0,IN,Arunachal Pradesh,0,95.3429,28.9205,3.5,93,3.5
+12-06-2016 23:00,landslide,downpour,medium,above_road,0,0,IN,Arunachal Pradesh,13893,93.871,27.6438,19,89,0.7
+25-02-2015 00:00,landslide,snowfall_snowmelt,medium,above_road,0,0,PK,Khyber Pakhtunkhwa,0,72.0406,36.0739,4.6,79,1.3
+27-12-2014 00:00,landslide,downpour,medium,above_road,0,0,ID,Aceh,24519,95.3103,5.8305,24.8,91,5.8
+10-06-2016 15:00,landslide,construction,large,above_road,5,0,CO,Chocó,75104,-76.3187,5.7216,24.8,91,4.5
+19-09-2014 00:00,landslide,downpour,large,natural_slope,0,0,US,Alaska,8881,-135.3549,57.1225,15,91,17.4
+17-11-2015 00:00,landslide,rain,medium,natural_slope,5,0,KE,Narok,36061,35.8736,-1.1161,13.5,99,4.9
+17-05-2014 00:00,other,rain,medium,above_river,8,0,GE,Mtskheta-Mtianeti,2628,44.5015,42.7204,-5.4,72,5.4
+14-05-2015 09:00,landslide,downpour,small,above_road,0,0,IN,Kashmir,3857,74.4838,33.6303,11.8,87,0.5
+16-06-2016 23:00,mudslide,downpour,medium,above_road,0,0,KG,Jalal-Abad,23594,72.3374,41.485,18.8,84,7.9
+18-08-2015 09:00,landslide,continuous_rain,medium,urban,0,0,IN,Meghalaya,63645,90.2023,25.5145,28.2,86,11.3
+13-07-2015 23:00,landslide,continuous_rain,small,above_road,1,0,IN,Himachal Pradesh,8341,78.037,32.2473,6.2,97,3.2
+11-06-2015 00:00,landslide,downpour,large,natural_slope,53,8,NP,Eastern Region,22903,87.6681,27.36,18.3,99,3.3
+03-01-2014 01:00,rock_fall,downpour,medium,above_road,0,0,US,Hawaii,1341,-158.2278,21.52,25.7,81,27.6
+09-04-2015 00:00,landslide,rain,small,above_road,0,0,US,California,63522,-117.6454,33.4418,18.7,38,23.5
+09-07-2016 00:00,landslide,monsoon,unknown,other,0,0,PH,Central Luzon,221178,120.2652,14.8489,26.5,90,21.9
+22-08-2014 22:30,other,downpour,medium,above_road,0,0,IN,Tamil Nadu,20436,77.571,11.683,24.5,92,3.1
+18-06-2016 00:00,mudslide,downpour,medium,above_road,0,0,IN,Goa,12444,74.1623,15.0275,25.4,91,9.8
+30-08-2011 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Maharashtra,51437,73.5097,17.4303,25,92,16.6
+14-12-2015 09:00,rock_fall,snowfall_snowmelt,small,above_road,0,0,US,Washington,1018,-121.4332,47.4186,0.7,93,5.1
+22-05-2016 00:00,landslide,earthquake,small,above_road,0,0,TW,Taiwan,0,120.685,22.7496,23.6,93,8
+08-04-2015 00:00,landslide,continuous_rain,small,above_road,0,3,IN,Kashmir,0,73.9593,34.6609,5.4,84,1.8
+06-04-2016 09:00,mudslide,other,medium,urban,0,0,US,California,57065,-117.0727241,32.76766801,15.9,73,4.9
+10-05-2014 10:00,mudslide,rain,medium,above_river,0,0,US,Washington,22684,-122.0488,47.413,8.3,89,8.7
+02-07-2016 09:00,landslide,downpour,small,mine,1,0,TH,Phrae,38538,100.2433,18.1639,28.7,89,1.8
+08-12-2015 00:00,mudslide,rain,small,above_road,0,0,US,Washington,1993,-121.9257,47.5871,9,93,8.7
+01-11-2014 00:00,landslide,downpour,medium,urban,1,0,HT,Nord,134815,-72.2152,19.745,29.5,66,3.7
+23-03-2016 00:00,unknown,downpour,medium,above_road,0,0,PK,Khyber Pakhtunkhwa,0,73.2113,35.2538,11,44,2.5
+21-01-2016 09:20,mudslide,rain,small,above_road,0,0,US,Washington,2826,-122.3348,47.8603,7.3,89,14.4
+04-01-2015 00:00,landslide,continuous_rain,small,below_road,0,0,FJ,Central,77366,178.068,-18.089,25.1,81,10.2
+21-07-2015 18:00,mudslide,continuous_rain,small,above_road,0,0,US,California,1204,-119.8577,37.6603,30.2,39,10
+24-01-2016 09:30,landslide,mining,medium,mine,3,0,MM,Yangon,4477638,96.1433,16.8686,34.1,44,5.2
+11-12-2014 00:00,debris_flow,continuous_rain,medium,natural_slope,0,0,CA,British Columbia,1385,-123.235,49.4736,10.1,94,14.5
+28-02-2014 05:00,mudslide,downpour,medium,above_road,0,0,US,California,13769,-118.7002,34.0633,14.6,69,10.4
+08-02-2015 00:00,landslide,downpour,medium,below_road,0,0,CA,British Columbia,2732,-119.1813,50.9749,7.4,76,5
+11-03-2015 15:00,mudslide,continuous_rain,small,natural_slope,0,0,US,West Virginia,3191,-82.2719,37.676,13,87,7.9
+15-03-2015 23:00,landslide,snowfall_snowmelt,medium,above_road,0,0,IN,Kashmir,1242,75.2966,33.0809,2.5,89,4.3
+16-06-2016 23:00,mudslide,downpour,medium,above_road,0,0,KG,Jalal-Abad,23594,72.3077,41.48,18.7,84,7.9
+07-08-2016 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Kashmir,48551,75.5807,32.4298,24.8,97,8.1
+28-12-1998 00:00,landslide,downpour,small,above_road,0,0,US,Oregon,2045,-123.9725,44.8383,11.3,91,53.5
+24-06-2015 00:00,landslide,downpour,medium,above_road,0,0,CN,Tibet Autonomous Region,86280,97.2296,31.2025,13.3,76,2.4
+08-05-2014 00:00,mudslide,rain,medium,above_road,0,0,IN,Arunachal Pradesh,14927,96.174,27.9032,20,96,3.9
+21-08-2015 00:00,rock_fall,tropical_cyclone,medium,above_road,0,0,PH,Cagayan Valley,0,120.6087,16.3668,21.6,95,15.4
+16-02-2016 04:00,rock_fall,freeze_thaw,small,above_road,0,0,US,Kentucky,777,-82.8518,37.4698,2.7,90,7
+07-08-2016 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Kashmir,20553,75.7964,33.1457,26.7,97,1.3
+31-05-2015 23:00,landslide,downpour,medium,natural_slope,2,0,KE,Mombasa,799668,39.7476,-3.9636,23.1,94,15.7
+17-02-2013 18:00,mudslide,downpour,small,above_road,0,0,US,Washington,103019,-122.2489,47.9582,5.3,85,10.6
+14-01-2014 09:00,landslide,downpour,medium,above_road,0,0,US,Alaska,8050,-131.7228,55.4119,7.7,94,29.8
+07-06-2016 00:00,rock_fall,downpour,medium,above_road,0,0,PH,Cordillera,2132,120.9527,17.0898,22.6,88,2.3
+16-07-2016 23:00,landslide,downpour,medium,above_road,0,0,PK,Khyber Pakhtunkhwa,14047,73.3461,34.5396,23.6,81,2.5
+27-05-2016 08:00,mudslide,downpour,small,above_road,0,0,AU,Queensland,0,151.8718,-28.8648,12.6,57,17
+10-06-2015 00:00,landslide,continuous_rain,medium,below_road,0,0,US,Alabama,23330,-87.5506,33.2907,26.6,81,4.5
+10-02-2014 00:00,landslide,flooding,medium,above_road,0,0,GB,Wales,0,-3.1414,51.7026,1.8,88,8.7
+21-07-2015 00:00,mudslide,continuous_rain,small,above_road,0,0,US,California,8544,-120.0177,39.9213,32.8,14,6.9
+26-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Himachal Pradesh,21502,76.1206,32.5606,24.3,89,3.8
+05-08-2016 00:00,landslide,tropical_cyclone,small,above_road,0,0,MX,Puebla,1986,-97.1295,18.6101,20.3,55,11.1
+12-08-2014 00:00,other,rain,small,mine,2,4,PK,Punjab,601600,73.0399,33.6941,28.7,77,4.6
+28-03-2016 00:00,rock_fall,rain,small,mine,0,0,GB,Northern Ireland,18421,-5.7647,54.81,4.8,88,15.5
+12-12-2014 23:00,landslide,monsoon,medium,deforested_slope,108,14,ID,Central Java,92990,109.7189,-7.2964,26.4,91,3.3
+15-08-2009 00:00,rock_fall,downpour,medium,above_road,0,0,US,Washington,3036,-123.4048,48.0265,14,67,8
+20-12-2014 00:00,landslide,rain,small,retaining_wall,0,0,US,Oregon,8466,-124.1248,44.138,10.2,86,21
+17-05-2016 15:00,landslide,continuous_rain,large,natural_slope,13,0,LK,Central,24730,80.4548,7.1306,23,95,13.8
+28-04-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Uttarakhand,13865,79.5765,30.5631,12.5,83,4.3
+14-12-2008 23:00,mudslide,rain,medium,above_road,2,2,GT,Izabal,18994,-90.5316,15.3796,19.3,83,5.9
+10-03-2014 00:00,landslide,downpour,unknown,above_road,0,0,US,Washington,9834,-123.1316,47.4174,12.2,89,8.9
+29-11-2014 12:00,other,rain,small,above_road,0,0,US,California,1963,-120.9641,39.0718,10.2,93,15
+07-12-2015 18:00,mudslide,rain,medium,above_road,0,0,US,Washington,53007,-122.3746,47.7339,9.8,92,16.6
+25-02-2016 13:00,landslide,mining,small,mine,1,0,BD,Sylhet,237000,92.0104,25.1622,24.7,81,3.8
+03-10-2016 00:00,landslide,downpour,small,above_road,0,0,AU,Tasmania,19972,145.9144,-41.1349,12.1,84,28.3
+25-10-2015 00:00,rock_fall,earthquake,large,above_road,0,0,PK,Gilgit-Baltistan,0,74.6006,36.2792,2.4,91,2.8
+11-03-2010 18:30,rock_fall,downpour,medium,above_road,0,2,HR,Splitsko-Dalmatinska,2169,16.6114,43.4574,8.5,82,1.1
+12-02-2014 00:00,rock_fall,snowfall_snowmelt,medium,above_road,0,0,US,Oregon,583776,-122.6652,45.5278,8.9,90,13.3
+05-10-2016 09:30,landslide,rain,medium,above_road,0,0,US,Wyoming,1847,-107.9215,44.7947,-7.6,87,5.4
+25-09-2016 07:00,landslide,downpour,large,deforested_slope,1,0,ID,Central Java,92990,109.8148,-7.2454,30.3,80,8.4
+05-04-2016 00:00,landslide,downpour,small,above_road,0,0,FJ,Central,77366,178.5253,-17.9785,28.5,82,12.6
+15-06-2015 15:15,landslide,downpour,large,natural_slope,0,0,MY,Sabah,19294,116.5887854,6.067357382,5.5,98,2.6
+15-03-2014 00:00,landslide,tropical_cyclone,large,above_road,3,0,VU,Sanma,1951,166.9182,-15.3004,28.3,71,13.4
+07-01-2016 05:55,rock_fall,rain,medium,above_road,0,0,US,California,1035,-119.7269,37.6954,3.3,89,9.5
+30-05-2015 15:00,landslide,continuous_rain,small,natural_slope,0,0,US,Utah,112488,-111.6324,40.2506,18.7,45,8.7
+21-06-2016 23:00,debris_flow,downpour,medium,above_road,0,0,US,California,1204,-119.7826,37.6745,36.1,10,11.4
+27-09-2015 00:00,landslide,downpour,medium,above_road,0,0,NI,Madriz,1257,-86.6122,13.4058,23.1,91,1.1
+22-05-2010 18:00,landslide,downpour,medium,above_road,0,3,CR,Alajuela,14448,-84.4428,9.929,26.9,85,5.9
+05-01-2015 06:35,mudslide,rain,medium,above_road,0,0,US,Washington,8726,-123.939,46.9838,11.6,95,22.8
+30-07-2014 00:00,landslide,construction,medium,mine,0,0,IN,Maharashtra,35461,73.5036,19.678,23.8,97,9.2
+21-06-2015 00:00,landslide,continuous_rain,small,natural_slope,0,0,IN,Maharashtra,58562,73.4703,18.7833,22.7,96,12.5
+19-12-2014 15:00,landslide,continuous_rain,small,above_road,0,0,US,California,1620,-122.6271,37.8868,14.1,90,21.7
+26-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Himachal Pradesh,28217,76.9297,31.7085,25.5,86,3.6
+07-07-2015 00:00,creep,continuous_rain,small,natural_slope,0,0,US,West Virginia,2676,-82.5201,38.384,26.2,73,7.1
+28-10-2015 11:00,landslide,no_apparent_trigger,medium,above_road,0,0,US,Pennsylvania,6303,-79.8506,40.5305,12.5,91,24.7
+12-10-2016 00:00,landslide,downpour,medium,below_road,0,0,IN,West Bengal,10109,88.1704,26.8861,18.3,87,5.3
+06-02-2016 00:00,landslide,flooding,medium,other,7,0,ID,West Sumatra,0,101.086,-1.463,23.5,97,0.7
+30-11-2014 15:00,mudslide,downpour,medium,burned_area,0,0,US,California,3249,-118.9962,34.0666,16.6,82,16.2
+16-08-2016 00:00,debris_flow,rain,medium,above_road,0,0,PH,Cordillera,0,120.8333,16.6319,20.4,98,5.9
+18-12-2015 00:00,landslide,continuous_rain,medium,natural_slope,3,0,PH,Bicol,3119,123.6452,12.1512,25.7,88,22.4
+28-05-2015 17:30,mudslide,downpour,medium,natural_slope,0,0,US,Washington,2370,-120.1105,48.2452,23.5,39,3.7
+27-08-2015 15:00,mudslide,tropical_cyclone,large,above_road,20,0,DM,Saint Patrick,2608,-61.269,15.2546,,,
+03-04-2015 00:00,landslide,continuous_rain,small,other,0,0,IN,Kashmir,14711,74.4203,34.0604,3,97,4.8
+10-05-2015 00:00,landslide,downpour,small,above_road,0,0,US,Arkansas,1012,-93.6821,35.5008,20,93,11.3
+01-07-2015 23:00,landslide,monsoon,medium,above_river,0,0,VN,Ho Chi Minh City,0,106.7188,10.8549,28.1,85,10.2
+04-12-2015 00:00,landslide,downpour,unknown,natural_slope,0,0,US,North Carolina,83393,-82.5517,35.5867,3.6,56,8.9
+05-08-2014 06:00,landslide,downpour,medium,urban,0,0,US,Utah,16322,-111.9024,40.8269,20.1,68,7
+07-08-2015 03:30,rock_fall,continuous_rain,small,above_road,0,0,IN,Maharashtra,64460,73.347,18.7631,24.1,95,8.7
+24-06-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Nagaland,29499,94.5466,26.0319,19.9,96,3.1
+24-07-2015 00:00,rock_fall,downpour,small,above_river,0,0,US,Washington,2868,-120.5182,47.93,26.4,23,12.1
+11-08-2015 23:00,landslide,rain,medium,above_road,0,0,IN,Himachal Pradesh,19540,76.3194,32.1967,22.9,92,2.5
+04-10-2015 23:00,mudslide,rain,medium,above_road,0,0,US,California,62979,-117.7431,33.5006,21.4,60,7.9
+14-12-2006 00:00,mudslide,downpour,small,below_road,0,0,US,Washington,1001,-122.2199,47.6416,8.6,75,24.4
+20-07-2015 00:00,mudslide,continuous_rain,medium,natural_slope,0,0,US,California,5172,-118.6257,35.0629,20.7,72,4
+16-07-2016 15:00,debris_flow,downpour,medium,above_road,0,0,IN,Uttarakhand,25753,78.0973,30.4554,20.2,80,1.8
+09-12-2015 15:00,mudslide,rain,medium,above_road,0,0,US,Washington,5509,-122.7759,45.942,10.7,81,11.1
+20-05-2016 00:00,landslide,downpour,medium,above_road,0,0,SB,Malaita,6811,160.8362,-8.6974,28.1,87,7.7
+12-06-2016 00:00,landslide,continuous_rain,unknown,above_road,0,0,IN,Nagaland,54010,94.2442,26.1677,25,89,2.9
+22-01-2015 00:00,rock_fall,continuous_rain,small,above_road,0,0,HN,Yoro,2188,-87.8164,15.1754,24.5,89,4.5
+20-04-2014 23:00,landslide,rain,small,above_river,0,0,CA,Quebec,1634,-73.9024,45.8168,11.4,34,4.9
+05-08-2014 00:00,mudslide,tropical_cyclone,small,below_road,1,0,JP,Tokushima,55421,134.6991,33.8474,28.8,81,17.3
+01-08-2016 07:00,landslide,rain,medium,above_road,0,0,NP,Central Region,107157,84.8423,27.8009,29.2,87,3.6
+15-02-2014 00:00,landslide,downpour,medium,above_road,0,0,BM,Hamilton city,902,-64.7792,32.3032,,,
+11-09-2014 00:00,landslide,downpour,medium,above_road,0,0,IN,Uttarakhand,2571,79.0478,30.688,12.8,86,2.7
+22-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Manipur,92113,94.0489,25.4477,20.9,96,2.8
+04-12-2014 01:00,mudslide,downpour,medium,above_road,0,0,US,California,44199,-116.9746,33.8294,15.8,95,3.1
+26-06-2015 18:00,landslide,continuous_rain,medium,above_river,0,0,NP,Western Region,0,84.8711,28.1881,23.8,80,1.8
+30-06-2014 15:00,landslide,continuous_rain,medium,above_road,0,0,PH,Soccsksargen,2266,125.0676,6.4737,17.4,96,1.9
+01-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Manipur,30418,94.1016,24.1988,18.3,100,5.4
+12-08-2015 09:00,landslide,monsoon,medium,above_road,0,0,IN,Himachal Pradesh,19540,76.3075,32.1764,24.2,85,1.9
+10-06-2015 15:00,landslide,continuous_rain,medium,natural_slope,0,0,MY,Sabah,19294,116.5515647,6.050341784,9.8,94,4.6
+01-05-2015 00:00,landslide,earthquake,small,above_road,16,0,CN,Tibet Autonomous Region,0,85.9623,27.9715,14.1,72,4
+13-08-2014 12:30,debris_flow,downpour,small,natural_slope,0,11,CH,Grisons,244,9.6947,46.6723,13.4,96,3.1
+17-06-2016 00:00,rock_fall,monsoon,large,above_river,0,0,IN,Himachal Pradesh,1495,78.1181,31.5124,15.9,86,6
+07-11-2014 00:00,mudslide,downpour,medium,other,0,0,IN,Kashmir,80447,75.0922,32.9411,15.2,70,3.5
+20-04-2015 00:00,landslide,construction,medium,above_river,0,0,US,New York,8195,-73.8216,42.6404,13.4,52,5.4
+20-05-2015 00:00,rock_fall,downpour,small,natural_slope,0,0,US,Wyoming,1271,-110.4966,44.7184,5.4,62,12.7
+28-12-1998 00:00,debris_flow,downpour,small,above_road,0,0,US,Oregon,2033,-123.8345,44.392,11.5,93,52.7
+26-12-1996 00:00,debris_flow,freeze_thaw,small,above_river,0,0,US,Oregon,1144,-122.0991,45.5775,2,78,16.3
+10-01-2014 18:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Caraga,309709,125.5319,8.9458,25,89,6.2
+30-05-2014 18:00,mudslide,downpour,small,natural_slope,6,7,GT,Huehuetenango,3554,-91.7671,15.4918,23.5,78,4.2
+19-09-2014 15:00,landslide,rain,small,above_road,0,0,CR,Alajuela,9687,-84.252,9.9643,25.1,86,2.9
+21-12-2015 00:00,mudslide,rain,small,above_road,0,0,PA,Bocas del Toro,0,-82.1825,8.8543,25,87,12.9
+05-01-2015 00:00,rock_fall,rain,small,above_road,0,0,US,Washington,1018,-121.4248,47.4294,0,89,9.5
+14-07-2014 15:00,landslide,downpour,small,mine,0,1,TH,Chon Buri,219164,100.9953,13.3703,27.4,89,10.3
+03-04-2016 00:00,rock_fall,snowfall_snowmelt,small,above_road,0,0,US,Nevada,12361,-115.3703,40.6319,2.6,72,6.9
+11-03-2016 00:00,landslide,rain,medium,above_road,0,0,US,California,1227,-123.7976,39.6942,15.1,72,8.6
+04-01-2015 23:00,landslide,downpour,medium,above_road,0,0,US,Washington,16896,-123.796,46.978,10.4,96,17.7
+08-10-2015 00:00,rock_fall,flooding,medium,above_road,0,0,US,Texas,1201,-103.911,30.6025,19.3,79,14.5
+13-08-2015 09:40,debris_flow,snowfall_snowmelt,medium,other,0,0,US,Washington,2758,-121.8046,46.8212,6.5,71,2.6
+21-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,PH,Cordillera,28407,120.6852,16.3798,23.4,92,15.5
+27-02-2016 15:30,rock_fall,rain,small,above_road,0,1,US,Idaho,485,-116.0033,44.104,6.2,82,10
+27-09-2015 00:00,landslide,rain,medium,above_road,0,0,GT,Sololá,2605,-91.1344,14.744,17.2,90,1.5
+06-09-2016 09:00,mudslide,downpour,medium,urban,1,0,NG,Lagos,0,3.3561,6.6265,25,91,4.2
+02-06-2014 00:00,mudslide,rain,medium,above_road,0,0,RU,Karachayevo-Cherkesiya,21117,41.5897,43.8608,12.6,99,6.4
+03-01-2014 18:00,landslide,downpour,medium,above_road,0,0,GB,England,0,0.134,51.4635,6.6,76,32.6
+02-08-2015 21:00,landslide,downpour,medium,deforested_slope,3,5,VN,Cao B?ng,0,105.9839,22.7672,22.9,97,7.7
+08-05-2016 00:00,landslide,mining,medium,mine,0,0,VN,Qu?ng Ninh,135477,107.2772,21.0552,26.2,93,9.7
+02-10-2016 00:00,landslide,downpour,medium,above_road,0,0,NZ,Auckland,3441,174.7033,-36.5438,17.3,90,16.5
+09-12-2015 00:00,rock_fall,flooding,medium,above_road,0,0,US,Washington,7850,-122.6573,45.7326,16,91,22.2
+11-12-2014 00:00,debris_flow,continuous_rain,medium,natural_slope,0,0,CA,British Columbia,1385,-123.2257,49.4567,8.7,94,6.9
+22-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Manipur,92113,93.9827,25.4538,17.7,97,2.8
+15-10-2016 00:00,mudslide,rain,medium,above_road,0,0,US,Washington,2868,-120.2137,47.919,14.3,67,16.3
+21-06-2016 00:00,landslide,downpour,large,natural_slope,1,0,JP,Kumamoto,39234,130.5807,32.6848,23.7,94,9.2
+15-08-2015 23:00,landslide,downpour,medium,urban,3,1,NP,Mid Western,20908,81.7097,28.8425,20.4,95,3.4
+17-06-2014 00:00,landslide,rain,small,above_road,0,0,GE,Khashuris Raioni,10091,43.5285,42.0291,13,90,6.1
+26-12-2014 00:00,other,downpour,medium,other,2,0,LK,Uva,4721,80.9514,6.754,18.2,97,7.6
+28-06-2016 00:00,mudslide,downpour,small,above_road,0,0,NP,Central Region,1442271,85.2178,28.0336,17.7,96,2.1
+26-06-2015 14:00,landslide,monsoon,medium,natural_slope,1,4,BD,Chittagong,253788,92.0074,21.4409,27.1,95,25.6
+25-09-2015 00:00,landslide,rain,small,above_road,0,0,HN,Ocotepeque,1416,-89.0537,14.481,17.5,95,1.9
+09-01-2013 00:00,rock_fall,downpour,medium,natural_slope,0,0,NZ,Canterbury,1187,170.159,-43.643,19.5,90,17.6
+09-05-2016 12:10,landslide,construction,small,mine,1,3,IN,Tamil Nadu,90353,76.9592,10.3316,25.9,76,1.8
+16-04-2016 09:00,earth_flow,earthquake,medium,deforested_slope,5,0,JP,Kumamoto,27978,131.0054,32.8853,17.3,56,16.1
+16-09-2015 00:00,landslide,downpour,medium,above_road,0,0,IN,Odisha,6895,83.2414,19.316,23.2,94,5.7
+21-12-2014 02:00,rock_fall,rain,small,above_road,0,0,US,California,2666,-122.5012,37.8595,15.3,84,6.3
+24-07-2015 00:00,mudslide,monsoon,medium,other,0,0,IN,Manipur,7176,93.5142,24.9818,20.1,95,0.8
+05-03-2015 23:00,mudslide,rain,medium,below_road,0,0,US,West Virginia,9318,-80.6061,39.838,-7.9,63,8.8
+27-12-2015 00:00,rock_fall,downpour,medium,above_road,0,0,US,Oklahoma,15753,-94.9213,36.0281,17.6,96,6.3
+16-11-2015 00:00,mudslide,rain,large,above_road,0,0,US,Oregon,14095,-122.1529,45.5737,7.8,87,10.1
+12-01-2014 18:00,mudslide,downpour,medium,above_road,0,0,US,Washington,103019,-122.2019,47.98,5,91,21.5
+03-04-2015 09:00,mudslide,downpour,small,above_road,0,0,US,Kentucky,3255,-82.7776,37.6824,15.2,92,23.8
+31-07-2016 11:00,mudslide,downpour,medium,above_road,0,0,IN,Maharashtra,100000,73.02,19.1869,26.1,91,12.1
+04-08-2016 00:00,debris_flow,continuous_rain,medium,above_road,0,0,IN,Uttarakhand,13865,79.4954,30.7386,12.8,82,3.5
+31-07-2016 00:00,landslide,continuous_rain,medium,above_road,0,5,IN,Uttarakhand,17123,78.4375,30.9753,16.6,83,1.1
+08-10-2016 09:00,mudslide,downpour,medium,above_road,0,0,TW,Taiwan,109584,121.0217,22.6522,26.1,92,14.2
+02-03-2014 18:00,landslide,continuous_rain,large,above_road,4,0,ID,West Java,800000,106.8,-6.6,25.1,93,3.8
+20-06-2014 00:00,mudslide,rain,medium,below_road,0,0,US,Minnesota,6661,-93.8457,44.5768,21.5,92,15.6
+20-09-2015 00:00,riverbank_collapse,flooding,small,retaining_wall,0,0,HN,Francisco Morazán,850848,-87.226,14.1003,23.1,90,2.1
+01-07-2014 04:00,mudslide,rain,medium,above_road,0,0,CN,Tibet Autonomous Region,0,95.8044,29.7929,16,71,3.6
+27-12-2014 00:00,landslide,downpour,medium,above_road,0,0,ID,Aceh,24519,95.3576,5.8597,25.5,91,5.8
+20-08-2014 22:45,mudslide,downpour,large,natural_slope,2,0,GE,Ingushetiya,1174,44.511,42.7234,-1.1,94,3.6
+06-03-2015 09:00,mudslide,snowfall_snowmelt,medium,mine,0,0,US,Kentucky,2237,-82.8934,36.9822,-15.3,97,6.6
+08-05-2016 08:00,landslide,downpour,medium,natural_slope,54,0,RW,Kigali,86685,29.8033,-1.7101,25,80,4.8
+20-06-2016 17:00,mudslide,downpour,medium,above_road,0,0,KG,Osh,0,73.4746,40.2209,16.2,71,5.5
+11-07-2015 18:00,mudslide,continuous_rain,small,above_road,0,0,CA,British Columbia,3667,-114.7462,49.8607,20,48,5.3
+07-01-2014 17:23,landslide,downpour,large,above_road,0,0,MY,Kuala Lumpur,1453975,101.6805,3.1556,24.6,96,3.6
+09-12-2015 00:00,landslide,snowfall_snowmelt,medium,above_road,0,0,US,Washington,2132,-121.6707,47.4427,11.8,88,13.7
+10-09-2015 00:00,landslide,downpour,large,urban,0,0,PA,Panamá,321501,-79.4487,9.0417,26.5,90,9.2
+05-10-2016 17:00,landslide,downpour,medium,deforested_slope,0,0,UG,Eastern Region,0,34.3427,1.0529,20,84,5.4
+13-09-2014 00:00,landslide,rain,small,below_road,0,0,CR,Cartago,26594,-83.9316,9.8895,17.2,97,2.2
+28-02-2006 09:00,landslide,downpour,small,above_road,0,0,US,Washington,15645,-122.2374,47.5309,5.9,92,13
+02-10-2016 00:00,landslide,downpour,small,above_road,0,0,NZ,Waikato,7136,175.6348,-37.1577,14.7,94,24.4
+04-03-2015 00:00,mudslide,rain,medium,above_road,0,0,US,West Virginia,3191,-82.0927,37.6322,13.2,90,18.9
+31-07-2016 00:00,landslide,rain,small,above_road,0,0,IN,Uttar Pradesh,78568,82.5725,25.4941,27.6,94,7.1
+09-11-2014 00:00,landslide,construction,small,below_road,0,0,US,Ohio,49138,-82.4314,38.4476,10.8,54,11.6
+09-02-2015 00:00,mudslide,rain,small,above_road,0,0,CA,British Columbia,125109,-119.4471,49.9745,7.4,84,5.4
+05-01-2015 05:56,mudslide,rain,medium,above_road,0,0,US,Washington,1649,-123.762,46.9483,12,96,24.4
+16-02-2016 15:00,rock_fall,rain,medium,above_road,0,0,US,Oregon,7810,-123.5684,43.433,8.6,94,3.8
+24-04-2016 05:00,landslide,rain,medium,bluff,0,0,GB,England,163600,-1.8649,50.7181,5.3,80,21.1
+25-06-2016 09:00,landslide,downpour,large,natural_slope,0,0,CA,Manitoba,1134,-95.2098,49.8063,17.1,96,20.9
+28-12-1998 00:00,mudslide,downpour,small,above_road,0,0,US,Washington,7126,-122.5584,47.3462,9.6,98,28.7
+13-09-2015 00:00,rock_fall,construction,small,above_road,0,0,US,North Carolina,1171,-83.09,35.7735,16.6,73,8.7
+15-10-2016 23:00,rock_fall,tropical_cyclone,medium,above_road,0,0,PH,Cordillera,0,121.1548,17.3064,21.2,96,22.3
+14-08-2014 18:00,creep,downpour,medium,above_road,0,0,US,Wyoming,1176,-110.9541,43.1888,22.2,59,7.3
+20-10-2016 00:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Central Luzon,3462,120.9766,15.954,24.6,94,22.3
+03-04-2015 15:00,landslide,continuous_rain,medium,natural_slope,0,0,IN,Kashmir,77276,74.4016,34.0978,9.4,81,1.4
+18-06-2015 06:45,landslide,tropical_cyclone,small,above_road,0,0,US,Oklahoma,2683,-97.128,34.4406,22.4,97,20.6
+19-07-2015 15:00,landslide,continuous_rain,small,above_road,3,4,IN,Maharashtra,64460,73.347,18.7632,24.7,94,11.4
+26-10-2015 00:00,landslide,earthquake,medium,natural_slope,0,0,PK,Gilgit-Baltistan,2100,75.6271,35.2685,0.8,91,2.2
+19-07-2016 00:00,translational_slide,continuous_rain,large,natural_slope,0,0,IN,Meghalaya,79016,90.5573,25.203,25.8,99,10.2
+20-10-2014 19:33,rock_fall,earthquake,small,above_road,0,0,EC,Carchi,15112,-77.7404,0.6194,16.3,60,7.9
+15-01-1997 22:30,debris_flow,downpour,large,below_road,0,0,US,Washington,1307,-122.3876,47.7968,4.6,59,4.8
+28-05-2016 17:00,mudslide,downpour,medium,above_road,0,0,KG,Batken,0,71.4913,40.0042,14.2,70,7.2
+11-08-2015 00:00,landslide,downpour,medium,above_road,0,0,IN,Himachal Pradesh,14037,76.7622,31.3237,26.5,88,3.2
+22-03-2015 23:00,landslide,snowfall_snowmelt,medium,above_road,0,0,IN,Kashmir,3278,75.1969,33.3343,9.8,72,4.6
+18-05-2016 08:00,landslide,continuous_rain,medium,natural_slope,5,0,IN,Assam,10942,92.4943,24.4638,27,83,8.6
+02-10-2016 00:00,landslide,rain,small,below_road,0,0,AU,Victoria,9089,143.4171,-38.0195,18,52,36
+23-10-2016 19:30,rock_fall,continuous_rain,small,above_road,0,0,US,California,10770,-117.2997,34.2304,19.1,29,10.5
+28-12-1998 00:00,landslide,downpour,small,above_road,0,0,US,Oregon,2025,-123.5676,45.2231,8.3,99,28.8
+28-09-2015 09:00,rock_fall,rain,small,above_road,0,0,HN,Santa Bárbara,1811,-88.2072,15.0909,24.5,99,3.6
+15-09-2015 18:00,rock_fall,downpour,medium,above_road,0,0,IN,Odisha,41170,82.8555,18.7734,21.7,99,13.5
+20-05-2015 11:30,landslide,downpour,medium,urban,8,0,CN,Guizhou Sheng,1171633,106.657,26.6017,20.3,86,9.8
+08-09-2015 11:45,mudslide,rain,medium,above_road,0,0,US,Wisconsin,60411,-88.0271,43.024,21.3,95,7.4
+04-03-2015 00:00,other,rain,small,above_road,0,0,US,West Virginia,1631,-81.6267,38.2942,13.9,88,20.8
+31-08-2015 00:00,landslide,downpour,medium,urban,0,0,PA,Panamá,321501,-79.4882,9.0772,25.4,93,1.1
+15-03-2015 00:01,landslide,snowfall_snowmelt,medium,deforested_slope,0,0,BG,Khaskovo,51000,25.2549,41.683,3.5,89,8.9
+19-01-2016 00:00,rock_fall,rain,small,above_road,0,0,US,California,4952,-119.7531,37.0937,16.4,66,2.1
+31-08-2015 00:00,landslide,downpour,medium,urban,0,0,PA,Panamá,321501,-79.4944,9.0688,25.7,93,1.1
+21-01-2016 09:20,mudslide,rain,medium,above_road,0,0,US,Washington,53007,-122.3856,47.7651,7.3,89,7.9
+05-06-2016 00:00,rock_fall,downpour,medium,bluff,0,0,AU,New South Wales,6120,151.2694,-33.9096,15.3,90,39.7
+04-08-2015 23:00,landslide,downpour,medium,natural_slope,3,0,IT,Veneto,1548,12.2186,46.4891,10.5,92,4.3
+31-05-2016 10:30,landslide,downpour,small,above_road,0,0,GB,England,2894,0.4609,51.3734,11.6,97,29
+22-08-2014 21:30,mudslide,downpour,small,deforested_slope,0,0,US,Kentucky,1706,-82.6473,37.5715,30,75,8.9
+10-07-2016 00:00,landslide,downpour,medium,above_road,0,0,IN,Nagaland,92113,94.1318,25.7902,21.6,93,2.8
+02-04-2014 00:00,landslide,rain,medium,mine,8,0,ID,West Java,0,106.5464,-6.6687,26.2,93,4
+03-03-2015 00:00,landslide,downpour,large,above_river,0,0,PK,Khyber Pakhtunkhwa,0,72.0903,36.1575,-1.6,91,1.6
+24-05-2015 23:30,mudslide,rain,medium,above_road,0,0,PA,Bocas del Toro,918,-82.3808,9.2279,23.6,95,5.9
+10-01-2006 09:00,mudslide,downpour,small,above_road,0,0,US,Washington,53007,-122.3786,47.7573,8.1,87,18
+18-10-2014 15:00,landslide,downpour,small,urban,0,1,PH,Mimaropa,22496,122.1009,13.9176,26.1,91,12.1
+20-07-2016 14:30,mudslide,downpour,medium,above_road,0,0,US,Colorado,1320,-108.0336,37.9979,17.1,77,3.1
+20-06-2016 17:00,mudslide,downpour,medium,above_road,0,0,KG,Osh,0,73.3757,40.247,13.8,72,5.8
+08-07-2016 00:00,landslide,downpour,small,above_river,0,0,GE,Ajaria,0,41.9385,41.5951,23.1,91,9.7
+21-08-2014 23:00,mudslide,downpour,medium,above_road,0,0,US,Washington,3890,-120.0968,47.7619,29.7,24,7.2
+26-09-2016 23:00,mudslide,downpour,medium,below_road,0,0,US,Minnesota,39309,-94.026,44.1476,19,29,25.2
+03-06-2016 00:00,landslide,rain,medium,above_road,0,0,US,Montana,4688,-113.7718,48.7489,12.9,65,25
+07-04-2015 00:00,landslide,continuous_rain,medium,urban,0,1,IN,Kashmir,77276,74.3279,34.2088,8,69,2.3
+25-10-2014 23:00,mudslide,rain,small,above_road,0,0,CA,British Columbia,58549,-122.8714,49.2336,11.5,92,15.9
+01-07-2015 09:00,landslide,downpour,medium,above_road,0,0,NP,Eastern Region,10109,88.0839,26.8366,21.8,87,4
+13-07-2015 00:00,landslide,downpour,small,above_road,0,0,US,West Virginia,1009,-80.4138,38.4807,22.8,88,2.9
+11-03-2011 12:00,mudslide,downpour,medium,mine,1,5,PH,Davao,3243,126.1513837,7.217953309,20.2,95,4.3
+26-08-2015 00:00,landslide,continuous_rain,medium,above_road,1,0,IN,Mizoram,5963,92.7878,23.3572,19,97,2.9
+10-01-2006 09:00,mudslide,downpour,small,above_road,0,0,US,Washington,2826,-122.3263,47.8961,7.1,88,19.7
+08-02-2015 09:00,mudslide,rain,small,above_road,0,0,CA,British Columbia,9813,-117.4965,49.4635,7.2,96,6.6
+19-10-2015 00:00,landslide,tropical_cyclone,medium,urban,1,0,PH,Cordillera,2126,120.687,16.8237,17.8,95,5.1
+25-06-2015 00:00,landslide,downpour,medium,above_road,0,0,IN,Uttarakhand,2571,79.0479,30.6838,13.7,84,5.2
+02-07-2014 16:30,landslide,mining,small,mine,8,3,HN,Choluteca,75872,-87.0325,13.2875,28.7,62,14
+28-02-2014 00:00,mudslide,downpour,large,above_road,0,0,US,California,46361,-117.8879,34.1469,18.5,51,7.9
+07-03-2015 15:00,mudslide,rain,medium,above_road,0,0,US,Virginia,5614,-82.7256,36.9186,2.2,48,12.6
+05-10-2014 00:00,mudslide,monsoon,medium,above_road,0,0,TH,Ranong,24561,98.7176,9.9771,24,97,8.8
+10-10-2015 15:00,mudslide,downpour,small,above_road,0,0,US,Washington,198397,-122.4471,47.2671,18,77,15.3
+01-08-2014 00:00,debris_flow,downpour,medium,above_road,0,0,US,Alaska,2369,-132.3459,56.2908,19.8,53,6.7
+18-07-2014 00:00,landslide,continuous_rain,small,above_road,0,0,NP,Central Region,107157,84.8051,27.8126,25.1,91,4.6
+20-07-2016 14:30,mudslide,downpour,medium,above_road,0,0,US,Colorado,1320,-108.0294,37.9948,17,77,3.1
+22-11-2015 00:00,landslide,rain,medium,above_road,0,0,PA,Chiriquí,0,-82.4569,8.7463,19.7,96,0.7
+14-01-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,ID,North Sumatra,0,98.9765,2.9523,21.3,88,4.7
+11-10-2016 09:00,other,monsoon,medium,above_road,0,0,PH,Cordillera,0,120.6158,16.3105,25,89,3
+26-10-2015 00:00,landslide,earthquake,medium,above_river,1,0,PK,Gilgit-Baltistan,2005,74.6712,36.3079,2.9,93,2.2
+01-08-2016 22:00,rock_fall,rain,small,above_road,0,2,PH,Central Visayas,9652,123.8257,10.2813,28.2,82,7.8
+06-01-2015 19:05,other,downpour,medium,mine,4,0,MM,Kachin,90894,96.3005,25.6172,14.5,92,5.1
+05-03-2014 21:00,landslide,continuous_rain,medium,above_road,0,0,US,Oregon,4584,-123.4802,44.4722,13.9,93,15.7
+03-08-2014 15:30,mudslide,continuous_rain,large,above_road,0,0,US,California,6362,-116.9765,34.0548,20.4,84,4.4
+26-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Uttarakhand,2571,78.9014,30.2411,26.2,93,3.6
+21-08-2014 23:00,debris_flow,downpour,medium,burned_area,0,0,US,Washington,2552,-119.9688,48.3729,18.4,71,6.3
+16-10-2016 00:00,debris_flow,tropical_cyclone,medium,above_road,0,0,PH,Cordillera,11742,120.8222,16.8052,16.1,100,24.8
+29-06-2014 05:00,mudslide,rain,small,above_road,0,0,CA,British Columbia,1385,-123.3589,49.9537,5.2,90,4.2
+12-07-2014 15:00,mudslide,rain,small,above_road,0,0,US,Colorado,416427,-104.8618,38.8416,22.8,50,4
+23-09-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Assam,17516,91.7042,26.1666,25.5,96,10.5
+08-02-2014 11:10,rock_fall,snowfall_snowmelt,medium,above_road,2,20,FR,Provence-Alpes-Côte d'Azur,1073,6.699,43.9585,5,86,4.4
+19-07-2015 00:00,landslide,downpour,small,above_road,0,0,US,California,1502,-116.6468,33.098,17.6,98,6.2
+19-10-2015 00:00,mudslide,tropical_cyclone,small,above_road,0,0,GT,Guatemala,67994,-90.53,14.5572,20.7,83,4.8
+10-07-2016 09:00,landslide,downpour,large,above_river,0,0,NP,Eastern Region,22903,87.6909,27.4159,27.6,80,3.6
+06-03-2015 22:00,mudslide,rain,small,natural_slope,0,0,US,Washington,1035,-122.363,47.9896,12.5,60,7.2
+16-10-2016 00:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Cordillera,2842,120.9099,16.9433,17.4,100,24.8
+07-02-2015 07:00,mudslide,rain,medium,above_road,0,0,US,Washington,20254,-122.3152,47.9194,11.9,83,17.9
+17-01-2014 00:00,landslide,continuous_rain,medium,above_road,0,2,IT,Liguria,1773,8.1243,43.9266,8.5,92,8.8
+27-08-2015 00:00,landslide,rain,medium,above_road,5,6,NP,Central Region,44632,85.1287,27.8569,25,97,3.3
+27-07-2015 00:00,landslide,monsoon,small,above_road,0,0,PK,Khyber Pakhtunkhwa,0,73.0428,34.6758,22.3,90,5.2
+03-01-2015 15:30,landslide,tropical_cyclone,medium,above_road,0,0,PH,Eastern Visayas,0,125.2603,11.1302,25.6,88,19.4
+22-09-2015 00:00,landslide,downpour,medium,urban,0,0,PA,Panamá,76815,-79.6336,8.9496,26.1,95,2.2
+05-09-2015 00:00,landslide,continuous_rain,small,above_road,0,0,ZA,Gauteng,233386,28.0851,-25.8451,10.8,87,14
+21-02-2015 00:00,mudslide,downpour,small,urban,0,0,AU,Queensland,15228,153.0551,-26.6913,24.8,94,17.8
+23-06-2014 00:00,mudslide,downpour,medium,above_road,0,0,US,Minnesota,6661,-93.8473,44.594,23.3,81,5.1
+31-01-2014 15:00,landslide,downpour,medium,below_road,0,0,GB,England,2562,-1.2827,50.9115,7.1,92,31
+19-06-2014 19:00,mudslide,continuous_rain,medium,above_road,0,0,US,Minnesota,382578,-93.2365,44.9683,21.8,85,26.6
+25-07-2016 12:30,landslide,continuous_rain,medium,above_road,0,1,IN,Manipur,92113,94.1383,25.48,17.7,97,2.5
+29-10-2015 00:00,landslide,rain,medium,above_road,0,0,CR,San José,26047,-84.0879,9.9574,20.2,95,1.5
+03-06-2016 08:00,riverbank_collapse,rain,medium,retaining_wall,0,0,US,Texas,7978,-97.7881,32.4399,20.1,98,4.7
+15-08-2015 00:00,riverbank_collapse,downpour,small,above_river,0,0,VN,Ha N?i,0,105.5845,20.8938,29.7,92,3.7
+10-04-2015 00:00,landslide,continuous_rain,small,above_road,0,0,US,West Virginia,1482,-80.6534,40.2278,19.6,93,13.6
+20-10-2016 00:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Cordillera,0,120.9878,16.7133,18.8,95,13.1
+13-03-2016 00:00,landslide,rain,small,above_road,0,0,US,California,1224,-121.1358,38.8758,11.3,82,20
+22-02-2015 20:30,mudslide,mining,medium,mine,4,0,BD,Sylhet,39218,91.7483,25.1472,18.4,91,3.9
+22-07-2015 00:00,landslide,continuous_rain,medium,urban,5,0,IN,Assam,12871,92.9974,24.7979,27.1,93,0.8
+27-02-2015 15:00,complex,downpour,medium,above_road,0,0,FR,Midi-Pyrénées,3516,0.0161,43.0204,4.1,70,12.9
+15-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Uttarakhand,7725,78.3299,30.9085,19.7,86,2.6
+23-03-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Kashmir,6755,74.0357,34.0796,9.5,63,6.4
+12-08-2014 15:15,debris_flow,downpour,medium,above_road,0,0,US,Washington,1191,-121.0489,46.6752,22,42,5.2
+30-08-2015 00:00,debris_flow,downpour,medium,natural_slope,0,0,US,Utah,1520,-111.3112067,37.11344851,34.4,14,4.4
+30-04-2014 00:00,debris_flow,rain,medium,above_river,0,0,CA,British Columbia,2830,-118.8419,50.6082,20.1,26,3.6
+28-12-2015 09:00,landslide,continuous_rain,small,above_road,0,0,US,Texas,12355,-97.2405,32.6791,2.6,96,22.3
+26-07-2015 00:00,landslide,rain,small,bluff,0,0,GB,Northern Ireland,5566,-6.2546,55.2115,10.9,89,13.4
+14-06-2016 10:00,rock_fall,downpour,medium,natural_slope,0,0,HR,Dubrova?ko-Neretvanska,28428,18.1014,42.6493,24.7,59,4.4
+18-02-2012 00:00,landslide,tropical_cyclone,medium,above_road,0,0,MG,Alaotra Mangoro,29212,48.3774,-18.9481,20.9,97,2.4
+27-07-2015 18:00,landslide,downpour,small,urban,7,3,ID,North Sumatra,100561,99.2454,1.3994,22.7,97,4.3
+12-07-2015 13:00,landslide,continuous_rain,small,above_road,0,0,US,West Virginia,1036,-80.5741,40.21,19.5,89,4.2
+24-02-2016 23:00,landslide,rain,medium,above_road,0,0,US,Pennsylvania,5951,-80.0813,40.4372,11.8,90,7.7
+02-06-2016 02:00,rock_fall,downpour,small,natural_slope,1,1,IN,Andhra Pradesh,874587,80.6526,16.5145,27.7,74,14.3
+31-03-2014 15:00,landslide,rain,small,above_road,0,0,AF,Panjshir,65000,69.5546,35.3047,5.5,63,5.4
+06-09-2015 00:00,landslide,continuous_rain,medium,urban,0,0,HN,Copán,27753,-88.7731,14.7698,20,96,1.6
+14-01-2014 00:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Eastern Visayas,8303,124.980934,10.3863054,25.5,94,11.2
+14-04-2015 00:00,rock_fall,downpour,small,above_road,0,0,US,Kentucky,486,-83.4667,37.9951,21,78,10
+28-09-2011 00:00,landslide,rain,medium,below_road,0,0,IN,West Bengal,46427,88.3372,26.8545,20.8,95,2.1
+23-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,US,California,4525,-117.8098,34.3618,15.3,47,10
+04-07-2015 00:00,landslide,rain,small,urban,0,0,US,Colorado,416427,-104.8538,38.8117,24.5,54,4.4
+01-07-2014 23:00,landslide,downpour,medium,mine,13,2,ID,Papua,0,136.3632,-3.814,28.1,90,2.9
+13-05-2016 00:00,mudslide,downpour,small,above_road,1,0,CH,Glarus,1080,8.9745,46.8598,4.7,95,3.4
+16-12-2014 09:00,mudslide,rain,small,urban,0,0,US,California,8962,-122.4614,37.8893,10.4,96,3.8
+04-01-2015 15:39,translational_slide,rain,medium,above_road,3,1,CN,Guizhou Sheng,1110,106.2055,28.14,8.6,94,7.4
+11-11-2015 00:00,landslide,downpour,small,above_road,0,0,PA,Chiriquí,2823,-82.8014,8.833,19.1,98,4.3
+11-04-2015 08:30,landslide,continuous_rain,small,above_road,0,0,US,West Virginia,1860,-81.1495,39.4396,11.1,58,14.2
+30-07-2014 09:00,mudslide,continuous_rain,large,deforested_slope,151,0,IN,Maharashtra,25997,73.6873,19.162,22.1,90,21.3
+17-06-2014 23:00,landslide,downpour,small,above_road,0,0,NP,Far Western,23416,80.7651,29.2983,23.4,97,3.3
+28-02-2014 00:00,mudslide,downpour,large,above_road,0,0,US,California,1027,-118.5585,34.6218,16.3,47,10.1
+14-02-2016 00:00,rock_fall,freeze_thaw,small,above_road,0,0,US,Colorado,16887,-107.8717,37.072,4.5,62,11.4
+27-09-2015 00:00,landslide,rain,medium,urban,0,0,GT,Guatemala,994938,-90.5352,14.6429,18.6,93,3.8
+19-01-2014 00:00,landslide,downpour,medium,bluff,0,0,IT,Liguria,3656,9.0563,44.3804,5.2,98,1.9
+25-02-2007 14:30,landslide,downpour,small,above_road,0,0,US,Oregon,583776,-122.7066,45.5259,5.3,87,13.6
+05-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,PH,Soccsksargen,4815,125.2242,7.0225,19.7,91,8.1
+24-03-2016 18:00,landslide,construction,small,other,0,0,US,New Jersey,18411,-74.4478,40.8044,13.4,55,16
+16-06-2016 23:00,mudslide,downpour,medium,above_road,0,0,KG,Jalal-Abad,23594,72.3313,41.4873,18.8,84,7.9
+19-12-2015 00:00,landslide,continuous_rain,medium,natural_slope,0,0,MY,Sabah,73653,115.2203,5.3149,26.1,88,4.8
+07-07-2016 00:00,landslide,monsoon,large,above_road,0,0,IN,Manipur,223523,94.3136,25.0118,21.3,93,0.7
+24-02-2016 09:00,rock_fall,freeze_thaw,small,above_road,0,0,CA,Ontario,519949,-79.8324,43.2372,0,93,19.9
+05-08-2016 00:00,landslide,downpour,medium,above_road,5,8,IN,Kashmir,9106,74.9455,33.0068,22.8,87,3.6
+27-07-2015 00:00,landslide,downpour,small,above_road,0,0,IN,Kashmir,20553,75.7702,33.2706,23,98,3.5
+16-02-2016 23:00,rock_fall,mining,small,mine,1,1,BD,Sylhet,237000,91.8644,24.9007,15.8,94,2.9
+03-10-2016 00:00,landslide,tropical_cyclone,medium,above_road,0,0,HT,Sud,3054,-74.3853,18.3153,28.5,80,12.8
+11-09-2015 00:00,rock_fall,rain,medium,above_road,0,0,US,Alaska,2369,-132.6394,56.6215,14.6,96,17.8
+20-06-2016 00:00,landslide,continuous_rain,medium,above_road,0,0,TW,Taiwan,350468,121.7755,24.3504,28.9,80,7.4
+10-01-2006 09:00,mudslide,downpour,medium,above_road,0,0,US,Washington,8199,-122.7007,47.0708,8.3,92,22.8
+12-03-2015 11:50,landslide,rain,medium,mine,0,0,US,West Virginia,51400,-81.6026,38.3686,3.8,92,7.6
+09-02-2014 18:00,mudslide,downpour,large,above_road,4,0,BO,Potosí,141251,-65.948,-19.366,11,74,3.9
+17-12-2009 00:00,rock_fall,rain,medium,above_road,1,2,GR,Thessaly,2113,22.5703077,39.875223,11.7,90,7.1
+19-08-2015 15:00,landslide,continuous_rain,medium,above_road,0,0,IN,Nagaland,92113,94.1051,25.6278,19.5,97,5.1
+06-03-2015 00:00,mudslide,rain,medium,above_road,0,0,US,Kentucky,717,-82.4895,37.9176,-6.3,73,10.3
+20-12-2015 00:00,landslide,no_apparent_trigger,large,urban,0,3,CN,Guangdong,11071424,113.2685,23.1321,14.2,63,10.9
+10-06-2015 15:00,landslide,downpour,medium,natural_slope,4,7,FR,Corsica,1882,8.9095,42.3749,14.2,52,1
+11-01-2014 00:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Central Luzon,41235,121.0246,14.923,23.9,78,17.6
+03-01-2015 00:34,rock_fall,earthquake,medium,above_road,0,0,US,Idaho,1081,-114.2346,44.5072,-10.4,68,7.7
+30-04-2016 00:00,rock_fall,downpour,small,above_road,0,0,PA,Veraguas,0,-80.8605,8.4408,25.5,87,2.6
+20-06-2015 00:00,landslide,continuous_rain,small,other,0,0,BG,Plovdiv,340494,24.7502,42.1436,15,94,6.2
+11-06-2015 00:00,landslide,continuous_rain,small,above_road,0,0,JP,Kumamoto,26163,130.6507,32.664,23.3,97,11.6
+01-08-2014 16:30,mudslide,rain,small,above_road,0,0,US,Colorado,5236,-106.1009,38.4316,13.7,71,0.5
+01-07-2014 00:00,mudslide,continuous_rain,small,above_road,0,0,TH,Ranong,24561,98.6937,9.9077,24,97,11.3
+03-03-2015 22:00,mudslide,rain,small,bluff,0,0,US,Washington,1035,-122.3631,47.9897,8.9,33,11.3
+12-01-2014 18:00,mudslide,downpour,medium,above_road,0,0,US,Washington,20254,-122.3039,47.9459,5.1,91,21.5
+01-12-2015 00:00,landslide,rain,small,above_road,0,0,JM,Saint Catherine,12873,-76.9429,18.0918,22.5,82,7
+12-10-2014 14:00,riverbank_collapse,continuous_rain,small,above_river,0,0,MY,Sabah,71585,116.1465,5.9122,26.5,87,6.6
+05-07-2016 00:00,landslide,downpour,medium,above_road,0,0,TH,Chiang Mai,0,99.2853,18.7723,24.3,95,3.9
+12-12-2014 09:00,debris_flow,downpour,small,burned_area,0,0,US,California,50073,-117.8178,34.1647,13,90,10
+19-03-2016 00:00,landslide,construction,medium,mine,6,1,CN,Yunnan,0,101.453,21.7254,13.1,74,1
+07-05-2014 17:30,landslide,rain,small,above_road,0,0,IN,Maharashtra,10866,73.1822,18.5158,28.7,84,8.7
+11-09-2014 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Rajasthan,16557,73.703,24.1965,23.3,96,3.4
+07-04-2015 00:00,landslide,rain,small,above_road,0,0,RS,Central Serbia,0,22.0726,43.3215,1.8,100,5.4
+27-10-2015 00:00,mudslide,rain,small,above_road,0,0,CR,Alajuela,5745,-84.1841,10.06,17.6,95,2.3
+20-07-2016 14:30,mudslide,downpour,medium,above_road,0,0,US,Colorado,1320,-108.012,37.9933,16.8,77,3.1
+19-01-1997 00:00,debris_flow,downpour,small,above_road,0,0,US,Washington,5138,-122.5337,47.4296,10.1,82,16
+12-06-2015 00:00,landslide,rain,medium,above_road,0,0,NI,Managua,1902,-86.0418,12.5769,24.3,88,3.1
+25-07-2016 00:00,rock_fall,mining,medium,natural_slope,1,0,US,Tennessee,1350,-88.166,35.2507,30.2,71,6.4
+17-11-2015 00:00,mudslide,rain,medium,above_road,0,0,US,Washington,2075,-121.225,47.717,3.7,84,7.4
+06-11-2015 15:00,rock_fall,no_apparent_trigger,small,natural_slope,2,1,BG,Lovech,3528,25.0328,43.2436,13.9,63,3.7
+12-04-2016 09:00,rock_fall,rain,small,above_road,0,0,CO,Valle del Cauca,2392877,-76.6104,3.4856,17,99,2.3
+30-12-2014 04:30,landslide,rain,small,other,2,1,MY,Pahang,7000,101.3947,4.4982,16.8,83,8.5
+12-03-2016 00:00,landslide,rain,medium,above_road,0,0,US,California,1305,-123.3792,38.6498,11.1,81,4.7
+16-06-2015 06:15,landslide,downpour,medium,urban,4,0,IN,Meghalaya,63645,90.215,25.5114,26.8,86,6.1
+20-10-2016 00:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Ilocos,2083,120.4201,16.5857,26.2,91,45.5
+16-08-2015 00:00,landslide,rain,small,deforested_slope,0,0,PH,Central Visayas,798634,123.8842,10.3607,25.5,89,0.4
+03-03-2015 23:00,mudslide,rain,medium,above_road,0,0,US,West Virginia,2406,-81.7889,37.4076,13,89,19.2
+07-07-2016 00:00,landslide,continuous_rain,medium,retaining_wall,2,2,IN,Assam,4713,91.3681,25.9611,27.2,90,4.5
+14-03-2015 00:00,landslide,flooding,small,below_road,0,0,US,Ohio,2620,-84.2361,39.1537,9.9,93,11.8
+26-10-2015 00:00,rock_fall,earthquake,small,above_road,4,0,PK,Gilgit-Baltistan,0,73.6075,36.2556,4.8,95,0.4
+05-01-2012 03:30,landslide,downpour,very_large,mine,41,16,PH,Davao,2221,125.9690316,7.192836513,25.7,84,9.9
+13-12-2015 17:46,debris_flow,rain,small,above_road,0,0,US,California,5287,-122.2577,37.4053,11.5,92,20.5
+20-06-2016 17:00,mudslide,downpour,medium,above_road,0,0,KG,Osh,0,73.3043,40.2598,12.2,75,4.1
+01-10-2016 00:00,landslide,rain,medium,above_road,0,0,PH,Central Luzon,221178,120.2683,14.8435,26.8,88,3.3
+18-03-2015 23:00,landslide,continuous_rain,small,above_road,0,0,EC,Loja,13035,-79.7811,-4.3313,21.9,99,3.6
+08-07-2015 15:00,mudslide,continuous_rain,medium,above_road,0,0,US,New Mexico,1770,-105.4304,36.7069,13.2,74,9.2
+09-12-2015 00:00,mudslide,flooding,medium,above_road,0,0,US,Washington,1965,-120.6271,47.5881,9.9,90,7.1
+31-07-2015 09:00,landslide,continuous_rain,medium,below_road,0,0,IN,Manipur,8797,94.3551,24.819,16.8,100,6.2
+21-03-2015 00:00,rock_fall,rain,medium,above_road,0,0,BG,Plovdiv,8745,24.1185,42.1205,-1,67,8
+26-06-2015 00:00,landslide,continuous_rain,large,above_river,0,0,NP,Western Region,0,84.8942,28.266,24.2,82,2.3
+05-05-2015 00:00,landslide,construction,medium,natural_slope,4,0,ID,West Java,0,107.6012,-7.1788,19.6,91,6.3
+22-07-2016 00:00,landslide,downpour,medium,urban,0,0,MY,Selangor,69302,101.756,3.1082,23.5,98,3.8
+11-10-2015 00:00,landslide,rain,large,urban,0,0,US,Colorado,13813,-104.8318,38.7612,22.8,23,8.7
+03-12-2014 09:00,debris_flow,downpour,small,burned_area,0,0,US,California,46361,-117.9057,34.1542,14.1,94,7.7
+12-12-2014 00:30,mudslide,rain,small,above_road,0,0,US,Washington,1307,-122.3941,47.803,10.2,90,10.5
+08-12-2015 23:00,landslide,rain,medium,above_road,0,0,US,Washington,33313,-122.3633,47.488,13.2,92,20.8
+10-03-2015 00:00,landslide,downpour,medium,below_road,0,0,ME,Opština Kolašin,2989,18.8587,42.3153,5.6,74,4.3
+12-06-2015 16:50,mudslide,downpour,small,above_road,0,0,US,California,14414,-118.4688,35.1433,24.1,40,3.7
+24-06-2015 00:00,landslide,downpour,medium,above_road,0,0,US,Wyoming,3009,-108.164,43.5009,32.4,17,9.4
+11-06-2015 09:00,landslide,downpour,small,natural_slope,0,0,JP,Kumamoto,26163,130.6279,32.6443,23.7,94,15.6
+18-12-2015 09:00,landslide,continuous_rain,small,above_road,1,0,US,Oregon,8466,-124.1288,44.029,12.8,93,31.9
+15-02-2016 09:00,rock_fall,freeze_thaw,medium,above_road,0,0,US,Colorado,9614,-107.1974,39.5874,-1.2,85,7.4
+17-10-2014 18:30,landslide,downpour,medium,urban,5,3,MM,Shan,160115,97.0235,20.7844,17.3,100,3.2
+22-05-2016 00:00,rock_fall,earthquake,unknown,natural_slope,0,0,TW,Taiwan,0,120.7925,22.752,20.5,86,2.5
+27-09-2015 00:00,landslide,rain,medium,above_road,0,0,GT,Guatemala,141455,-90.5289,14.5337,20.8,85,2.9
+13-12-2015 19:45,mudslide,downpour,medium,above_road,0,0,US,California,1468,-118.8962,34.8813,11.3,41,7.7
+03-04-2007 08:35,landslide,earthquake,medium,above_river,0,0,TJ,Khatlon,17471,69.118,38.2616,20.5,36,10.5
+08-02-2014 00:00,landslide,downpour,large,above_road,14,0,BO,Cochabamba,1074,-66.532,-17.2353,6.4,95,3.6
+28-05-2016 17:00,mudslide,downpour,medium,above_road,0,0,KG,Batken,0,71.5777,40.0205,15.9,71,7.2
+26-12-1996 00:00,debris_flow,freeze_thaw,small,above_road,0,0,US,Oregon,14095,-122.1828,45.5492,2.3,72,15.6
+07-08-2016 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Kashmir,8101,74.839,33.0716,25.9,97,3.6
+12-05-2014 00:00,landslide,rain,small,above_road,0,0,IN,Kashmir,6755,74.0241,34.0893,13.8,83,3.3
+20-10-2016 00:00,landslide,tropical_cyclone,medium,urban,1,0,PH,Cordillera,11742,120.8211,16.7999,17.7,95,13.1
+17-03-2011 00:00,landslide,rain,medium,urban,5,0,PH,Eastern Visayas,189090,124.9736,11.2529,25.7,84,22.4
+04-06-2016 00:00,mudslide,continuous_rain,large,natural_slope,0,0,RU,Krasnodarskiy,30000,39.4476,43.9701,17.9,80,6.4
+07-11-2006 09:00,mudslide,continuous_rain,medium,above_road,0,0,US,Oregon,8466,-124.1207,44.1029,15.8,98,30.4
+20-03-2011 00:00,landslide,rain,medium,bluff,0,0,US,Washington,2045,-122.5949,48.0414,10.3,62,1.4
+15-03-2015 00:00,mudslide,downpour,small,above_road,0,0,US,Washington,20254,-122.32,47.9144,12,89,10.1
+26-01-2014 18:00,landslide,downpour,small,above_road,0,0,GB,England,2270,-4.7891,50.2722,5.7,68,37.9
+10-01-2014 19:30,rock_fall,rain,medium,mine,4,0,PE,Cusco,0,-71.7832,-13.4862,21.8,76,4.9
+07-10-2016 00:00,riverbank_collapse,rain,medium,above_river,0,0,VN,Th?a Thi n-Hu?,0,107.5007,16.5281,26.1,91,5.2
+28-08-2014 09:00,landslide,downpour,medium,mine,7,0,NI,Ogun State,6315,-84.5919,14.0256,22.9,96,3.6
+20-05-2014 00:00,landslide,downpour,small,natural_slope,0,0,NZ,Southland,1651,167.6337,-46.7748,,,
+14-11-2015 00:00,landslide,rain,medium,urban,0,0,IN,Tamil Nadu,16396,80.2119,12.9746,25.4,93,16.8
+25-07-2015 09:00,landslide,continuous_rain,medium,natural_slope,2,0,IN,Assam,2000,91.8717,26.1062,32.9,61,11.6
+12-10-2014 00:00,other,rain,small,retaining_wall,0,0,SV,San Salvador,33767,-89.2361,13.6891,23.8,76,2.6
+10-12-2014 10:00,landslide,downpour,small,above_river,0,1,CA,British Columbia,21150,-124.4677,49.3507,11.3,91,26.3
+28-09-2015 00:00,landslide,rain,medium,urban,0,0,HN,Francisco Morazán,1438,-87.2507,14.1105,21.9,90,2.8
+07-08-2015 00:00,landslide,tropical_cyclone,small,above_road,0,0,PH,Autonomous Region in Muslim Mindanao,2666,123.3647,7.8675,25.1,92,18
+21-10-2014 03:00,rock_fall,rain,small,above_road,0,0,CO,Santander,11265,-73.4081,6.8907,22.4,87,3.5
+19-07-2016 15:00,mudslide,downpour,medium,above_road,0,0,US,Washington,3890,-119.9177,47.8885,19.5,61,2.9
+10-06-2016 01:04,landslide,earthquake,small,above_road,0,0,US,California,3429,-116.4331,33.2108,30,37,6.4
+06-02-2015 00:00,mudslide,downpour,small,above_road,0,0,US,Oregon,20078,-122.5846,42.1397,11.4,80,15.7
+31-07-2016 23:00,landslide,rain,medium,above_road,0,2,IN,Himachal Pradesh,4351,77.1043,31.6865,23.4,94,1.1
+25-07-2010 00:00,landslide,downpour,medium,urban,0,3,IN,Himachal Pradesh,173503,77.1727,31.1054,18.7,88,3
+09-12-2015 00:00,landslide,flooding,small,above_road,0,0,US,Washington,33313,-122.3635,47.4895,13.3,90,18.6
+05-07-2015 18:00,landslide,continuous_rain,medium,natural_slope,0,0,NP,Western Region,0,84.2461,28.2631,18.5,92,2.3
+07-06-2016 00:00,landslide,downpour,medium,above_road,0,0,GB,England,28544,-1.7615,53.8452,11.7,91,7.6
+28-04-2015 00:00,mudslide,snowfall_snowmelt,large,natural_slope,250,0,NP,Central Region,0,85.4611,28.2001,5.1,67,3.4
+11-11-2015 00:00,landslide,rain,small,above_road,0,0,CR,San José,8292,-84.3841,9.8747,19.6,93,3.1
+04-11-2015 00:00,rock_fall,no_apparent_trigger,medium,above_road,0,0,US,Kentucky,6903,-82.4382,37.4067,22.7,68,7.3
+06-07-2016 00:00,mudslide,downpour,large,natural_slope,35,0,CN,Xinjiang Uyghur Autonomous Region,0,76.6344,37.0791,10.5,85,3.8
+17-09-2014 00:00,landslide,downpour,small,below_road,0,0,GU,Asan,2137,144.7187,13.4582,,,
+20-08-2014 04:00,debris_flow,downpour,large,natural_slope,72,0,JP,Hiroshima,1143841,132.44,34.4854,27.1,84,7.9
+29-07-2016 05:45,landslide,rain,medium,above_road,0,0,NZ,Taranaki,6318,174.3119,-39.0675,11.4,64,30.4
+12-04-2014 12:00,mudslide,rain,small,above_road,0,0,US,West Virginia,1413,-82.5052,38.163,11.2,94,3.7
+06-08-2014 00:00,mudslide,continuous_rain,small,urban,0,0,CL,Valparaíso,294551,-71.5376,-32.9747,7.6,86,4.7
+27-01-2014 00:00,snow_avalanche,snowfall_snowmelt,large,natural_slope,0,0,US,Alaska,3976,-145.91,61.0883,2.1,73,5.5
+13-07-2015 00:00,landslide,downpour,small,above_road,0,0,US,West Virginia,1009,-80.4459,38.5653,22.9,88,2.9
+15-05-2014 00:00,mudslide,downpour,small,above_road,0,0,US,Maryland,23717,-77.0008,38.6987,20,83,9
+08-03-2016 00:00,mudslide,rain,small,natural_slope,0,0,US,California,4407,-121.748,36.5538,11.4,80,13.2
+17-09-2015 00:00,landslide,flooding,medium,other,0,0,PA,Coclé,0,-80.1978,8.5415,26.1,84,13.7
+29-10-2015 00:00,landslide,mining,medium,mine,5,0,ID,West Java,111476,107.7271,-6.9656,28,72,3.3
+27-04-2015 00:00,landslide,downpour,medium,urban,7,0,BR,Bahia,2711840,-38.4764,-12.9379,24.9,94,9.4
+08-07-2016 23:00,rock_fall,downpour,medium,above_road,0,0,CN,Sichuan,0,102.6171,30.0554,22.9,94,0.4
+15-09-2015 09:00,mudslide,downpour,small,above_road,0,0,US,California,9083,-117.5834,33.7474,20.6,82,3.1
+04-07-2014 00:00,landslide,rain,large,mine,70,100,MM,Kachin,90894,96.3167,25.6157,25.8,99,2.9
+30-11-2015 09:00,rock_fall,no_apparent_trigger,medium,natural_slope,0,0,LB,Mont-Liban,0,35.6275,33.7001,14.4,66,13.5
+26-10-2015 00:00,unknown,snowfall_snowmelt,medium,mine,1,20,PK,Khyber Pakhtunkhwa,0,73.8295,34.9354,-1.7,99,4.2
+18-07-2015 18:00,mudslide,downpour,medium,above_road,0,0,US,California,1468,-118.8953,34.818,17.4,63,7.3
+02-07-2016 14:30,mudslide,other,large,natural_slope,0,0,US,California,3394,-122.1826,41.3912,2.7,52,2.5
+01-05-2014 00:00,mudslide,rain,small,above_road,0,0,CA,British Columbia,4684,-122.7408,49.031,21.9,42,8.7
+05-06-2016 23:00,rock_fall,downpour,medium,natural_slope,0,0,IN,Bihar,96730,85.6285,24.6997,28.3,72,11.5
+12-12-2014 05:30,debris_flow,downpour,small,burned_area,0,0,US,California,50073,-117.8864,34.1516,15.1,81,5.1
+05-04-2010 09:00,mudslide,construction,small,above_road,0,0,US,Washington,608660,-122.3667,47.6261,4.8,94,13.5
+31-10-2014 23:00,debris_flow,downpour,medium,burned_area,0,0,US,California,65201,-118.9815,34.1972,18.8,74,7.7
+22-04-2016 00:00,mudslide,downpour,large,below_road,0,0,US,Wisconsin,51320,-91.2105,43.8156,18.2,51,8.9
+06-12-2014 09:30,debris_flow,tropical_cyclone,small,above_road,0,0,PH,Eastern Visayas,3069,125.4568,11.7521,25.9,88,58.6
+07-04-2016 00:00,unknown,continuous_rain,medium,bluff,0,0,GB,England,2504,-5.0379,50.5466,6.9,73,29.2
+26-09-2015 00:00,landslide,rain,small,below_road,0,0,NI,Jinotega,51073,-85.9925,13.0805,22.1,86,3.1
+13-07-2016 00:00,landslide,rain,medium,natural_slope,0,0,AU,Victoria,1777,143.8872,-38.6309,5.3,86,24.5
+07-08-2015 00:00,mudslide,continuous_rain,medium,deforested_slope,0,0,NP,Central Region,4000,85.514,27.6788,18.4,93,1.8
+04-09-2014 00:00,rock_fall,downpour,small,above_road,0,3,IN,Kashmir,9106,74.9426,33.0086,18,91,5.4
+07-12-2015 00:00,landslide,flooding,medium,above_road,0,0,US,Oregon,20646,-122.875,45.5803,12.6,73,19.4
+18-03-2015 00:00,landslide,downpour,medium,urban,0,0,CR,Cartago,26594,-83.9401,9.8815,16.2,72,6.1
+09-10-2016 23:00,landslide,rain,medium,urban,0,0,FJ,Central,77366,178.4267,-18.1347,22,89,10.3
+26-10-2014 23:00,landslide,rain,medium,above_road,0,1,LK,Central,111701,80.854,7.2943,18.8,99,3.8
+15-07-2014 00:00,landslide,rain,small,above_road,0,0,IN,West Bengal,43000,88.4694,27.059,21.3,98,1.6
+08-03-2014 00:00,landslide,downpour,medium,below_road,0,0,US,Washington,20254,-122.2675,47.9569,11.7,74,11.4
+28-07-2016 23:00,landslide,downpour,medium,retaining_wall,0,0,IN,Nagaland,29499,94.7844,25.8702,21,94,3.4
+16-04-2016 00:00,rock_fall,earthquake,medium,above_road,0,0,JP,Kumamoto,27978,131.0044,32.872,17.1,43,7.4
+14-08-2014 00:00,landslide,rain,medium,deforested_slope,1,0,NP,Central Region,107157,84.6073,27.737,24.5,92,5.1
+13-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,US,West Virginia,994,-80.7205,38.499,23.5,87,3.3
+07-09-2014 00:00,debris_flow,rain,small,burned_area,0,0,US,California,14578,-116.8146,33.7354,34.3,31,9.1
+20-07-2016 14:30,mudslide,downpour,medium,above_road,0,0,US,Colorado,1320,-108.044,38.0072,17.1,77,3.1
+06-06-2015 00:00,landslide,rain,medium,above_road,0,0,GT,Guatemala,28492,-90.4792,14.4236,20.4,92,4.2
+05-10-2016 00:00,landslide,rain,medium,above_road,0,0,NP,Western Region,107157,84.5386,27.8987,24.7,92,2.9
+04-03-2015 00:00,mudslide,rain,medium,above_river,0,0,US,West Virginia,1090,-81.9237,37.657,13,90,18.9
+25-10-2015 00:00,landslide,downpour,medium,above_road,0,0,IN,Kashmir,7317,75.1982,33.3041,7,91,3.5
+12-05-2015 00:00,landslide,earthquake,medium,natural_slope,0,0,NP,Central Region,1600,85.7262,28.0257,0.8,82,4.8
+26-04-2016 22:40,rock_fall,rain,small,above_road,0,0,US,Wyoming,3009,-108.1822,43.5091,4.1,67,24.2
+22-06-2015 00:00,rock_fall,monsoon,small,above_road,0,0,IN,Maharashtra,64460,73.3678,18.7686,23.8,95,20
+19-08-2015 00:00,landslide,rain,medium,above_road,0,0,IN,Meghalaya,55290,92.3825,25.2568,23,98,13.8
+12-10-2014 00:00,landslide,tropical_cyclone,large,natural_slope,0,0,IN,Odisha,22264,84.1917,19.2046,18.7,99,25
+11-06-2009 00:00,landslide,flooding,small,above_river,3,0,US,Utah,48174,-111.8132,41.7385,14.2,80,5
+16-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Arunachal Pradesh,0,96.9262,27.8835,26.3,99,2.7
+07-07-2015 02:00,landslide,continuous_rain,medium,deforested_slope,0,0,US,Colorado,2325,-107.7791,37.8514,7.5,83,1.4
+18-07-2015 00:00,landslide,monsoon,medium,above_road,0,0,IN,Himachal Pradesh,19540,76.3226,32.2239,21.2,88,5.1
+11-03-2016 09:00,mudslide,rain,medium,above_road,0,0,US,California,7273,-123.8033,39.4416,14.3,90,22.2
+01-05-2016 00:00,landslide,downpour,medium,above_road,0,0,IN,Arunachal Pradesh,1834,96.5316,28.0822,20.7,77,3.3
+09-07-2014 03:00,mudslide,rain,medium,mine,31,1,CN,Yunnan,0,98.8704,26.8844,29.1,79,3.6
+26-07-2015 07:00,landslide,continuous_rain,small,urban,0,0,BD,Chittagong,3920222,91.8022,22.4254,26,92,29.5
+26-10-2015 00:00,rock_fall,earthquake,unknown,above_road,4,1,PK,Khyber Pakhtunkhwa,0,73.2242,35.2882,11.8,100,1.6
+05-03-2014 09:00,landslide,downpour,medium,above_road,0,0,US,Oregon,14546,-122.7686,45.5829,11.3,93,7.9
+10-03-2016 08:00,landslide,construction,small,mine,3,0,PH,Mimaropa,549543,121.1601,14.6115,30.1,74,10.2
+12-08-2015 00:30,landslide,downpour,medium,mine,64,4,CN,Shaanxi,0,110.2098,33.4482,22.7,84,7.3
+21-11-2015 22:30,landslide,rain,medium,below_road,1,0,HN,Copán,1340,-88.8098,14.6893,23.4,92,0.7
+23-05-2016 20:15,landslide,downpour,medium,mine,14,10,MM,Kachin,90894,96.2961,25.6127,23.4,96,2.9
+12-10-2014 00:00,landslide,rain,medium,above_road,0,0,SV,La Libertad,124694,-89.32,13.6905,24,76,2.6
+16-09-2015 00:00,landslide,downpour,medium,above_road,0,0,IN,Odisha,41170,82.7935,18.7828,21.7,98,8.6
+24-12-2015 10:00,landslide,construction,small,natural_slope,1,5,IN,NCT,293908,77.2791,28.5746,17.1,47,16.1
+24-11-2014 15:00,landslide,continuous_rain,small,other,2,0,CN,Shaanxi,132654,108.9952,32.7044,9.8,87,3.7
+13-10-2011 09:00,landslide,downpour,medium,urban,0,1,PH,Central Visayas,798634,123.8866,10.3318,29.5,81,5.3
+09-08-2015 00:00,landslide,monsoon,small,above_road,0,0,TH,Phuket,0,98.3819,7.825,,,
+17-11-2015 16:00,rock_fall,freeze_thaw,medium,above_road,0,0,CA,British Columbia,2706,-120.0742,49.3471,5.1,95,10.3
+06-05-2016 17:00,mudslide,rain,small,above_road,0,0,US,California,1468,-118.8813,34.8662,9.3,81,8.1
+09-12-2010 06:30,mudslide,downpour,small,above_road,0,0,US,Washington,39709,-122.3534,47.8287,7.9,90,23.2
+09-08-2015 15:00,debris_flow,downpour,medium,natural_slope,0,0,US,Arizona,1443,-111.886,36.7014,21.6,43,0.8
+17-10-2014 19:39,landslide,downpour,small,urban,0,0,MY,Negeri Sembilan,372917,101.9421,2.7229,24.6,93,4.3
+20-03-2014 00:00,landslide,construction,medium,below_road,0,0,GB,England,4908,-3.3428,50.6226,7.8,91,20.9
+05-03-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Kashmir,77276,74.321,34.2092,2.5,79,2.1
+06-08-2016 00:00,mudslide,tropical_cyclone,large,urban,25,0,MX,Puebla,49852,-98.0492,20.17,18.9,85,6.2
+01-06-2015 14:00,landslide,mining,medium,natural_slope,2,1,BD,Chittagong,52005,91.9538,22.0104,30.2,78,14.3
+07-03-2015 23:00,landslide,downpour,medium,urban,3,0,BR,São Paulo,98989,-46.923,-23.4499,22,89,3.9
+11-05-2016 18:00,mudslide,downpour,medium,above_road,0,0,US,West Virginia,6915,-80.7009,40.1031,21.8,79,2.9
+05-06-2014 00:00,mudslide,downpour,small,above_road,0,0,US,Georgia,22958,-84.3896,34.224,27.3,63,9.6
+11-12-2014 00:00,mudslide,downpour,medium,burned_area,0,0,US,California,3249,-118.993,34.1716,18,69,5.2
+01-08-2015 06:30,landslide,continuous_rain,large,deforested_slope,21,0,MM,Chin,44540,94.0396,24.1077,25.6,77,4.8
+30-04-2014 04:30,landslide,downpour,small,urban,3,0,EC,Zamora-Chinchipe,15276,-78.9638,-4.0602,9.5,96,4.5
+15-08-2015 00:00,riverbank_collapse,downpour,medium,above_river,0,0,VN,Ha N?i,0,105.7586,21.0324,29.4,88,3.3
+06-11-2015 23:00,landslide,mining,medium,mine,5,0,CN,Gansu,0,101.1839,38.5952,-2.3,82,5.6
+06-01-2015 09:00,mudslide,downpour,medium,natural_slope,0,1,US,Washington,16896,-123.8439,46.9795,10,97,3.4
+10-06-2014 16:30,landslide,downpour,small,retaining_wall,3,1,TH,Phuket,52192,98.4129,7.8822,30,82,9.8
+28-08-2015 02:00,landslide,downpour,medium,above_road,5,0,NP,Central Region,1442271,85.3418,27.8426,24.3,89,1.1
+11-12-2014 09:00,mudslide,downpour,small,above_road,0,0,US,California,15250,-122.5716,39.0182,14.3,95,18.6
+24-11-2014 18:30,landslide,downpour,small,above_road,0,0,MY,Kuala Lumpur,1453975,101.6641,3.1073,24.3,99,3.8
+26-12-2006 23:00,mudslide,downpour,small,above_road,0,0,US,Washington,53007,-122.3793,47.7125,5.6,86,14.4
+20-07-2016 14:30,mudslide,downpour,medium,above_road,0,0,US,Colorado,1320,-108.0364,38.0008,17.1,77,3.1
+08-12-2015 15:00,mudslide,downpour,medium,above_road,0,0,US,Washington,1965,-121.0968,47.7471,2,98,4.3
+03-08-2015 00:00,debris_flow,rain,medium,urban,0,0,MK,Tetovo,72944,20.9482,42.0124,20.1,83,5.8
+24-12-2015 15:00,landslide,rain,medium,above_road,0,0,US,Oregon,2514,-123.8241,42.9646,3.4,92,11
+06-08-2016 05:00,landslide,mining,medium,mine,5,1,CN,Hebei,65150,118.0646,39.7814,31.9,73,10.8
+28-02-2014 18:00,mudslide,continuous_rain,medium,above_road,0,0,US,California,191719,-118.2235,34.1559,14.7,94,22.6
+02-10-2016 08:00,landslide,rain,medium,above_road,0,0,NP,Central Region,44632,85.1717,27.5778,26.7,74,4.3
+15-10-2016 18:08,mudslide,rain,small,below_road,0,0,US,Oregon,20291,-122.6587,45.4701,13.8,87,22.9
+20-07-2016 14:30,mudslide,downpour,medium,above_road,0,0,US,Colorado,1320,-108.0462,38.009,17.2,77,3.1
+16-10-2016 00:00,mudslide,downpour,medium,other,0,0,US,California,2297,-120.3454,38.0455,17.2,61,18.4
+14-01-2015 09:00,landslide,downpour,medium,urban,3,4,MG,Analamanga,1391433,47.5505,-18.9191,29.8,62,8.3
+07-12-2015 00:00,landslide,downpour,small,above_road,0,0,US,Washington,19355,-122.4161,45.6062,12.7,69,16.9
+20-07-2014 00:00,mudslide,rain,small,above_road,0,0,RU,Krasnodarskiy,4020,40.298,43.6698,19.3,88,1.4
+10-03-2015 15:00,mudslide,rain,small,above_road,0,0,US,Ohio,5955,-84.4888,39.1139,7,95,6.8
+21-02-2014 00:00,landslide,continuous_rain,large,above_road,0,0,GB,England,163600,-1.8577,50.7187,6.3,85,13.3
+04-03-2015 09:00,mudslide,rain,medium,above_road,0,0,US,Kentucky,7622,-87.1772,37.2573,8.3,94,8.4
+11-05-2014 09:00,mudslide,rain,small,above_road,0,0,CN,Guangdong,0,113.8701,22.7596,24.6,92,16.5
+16-04-2016 00:00,other,earthquake,small,below_road,0,0,JP,Kumamoto,29820,130.8208,32.789,18.2,70,5.6
+05-01-2015 07:39,mudslide,rain,small,above_road,0,0,US,Washington,7922,-122.2507,47.1831,10.1,93,29.1
+03-01-2014 01:45,mudslide,downpour,small,above_road,0,0,US,Hawaii,2040,-157.8117,21.3539,23.7,81,27.6
+03-07-2008 10:30,mudslide,downpour,small,above_road,0,0,US,Washington,10380,-122.1185,47.5498,15.3,88,5.6
+16-08-2016 00:00,landslide,monsoon,medium,above_road,0,0,PH,Ilocos,3099,120.7538,16.9897,24.4,91,10
+12-08-2014 13:00,rock_fall,earthquake,medium,mine,2,8,EC,Pichincha,1399814,-78.4781,0.0072,12.4,72,5.2
+04-08-2015 00:00,landslide,flooding,medium,above_road,0,0,VN,T?nh Ði?n Bi n,0,103.1644,22.0596,26.1,91,1.6
+16-06-2016 23:00,mudslide,downpour,medium,above_road,0,0,KG,Jalal-Abad,23594,72.314,41.4845,18.8,84,7.9
+15-08-2015 07:30,rock_fall,monsoon,small,above_road,0,3,IN,Maharashtra,64460,73.3471,18.7631,28,86,11.6
+23-04-2015 00:00,mudslide,downpour,small,natural_slope,0,0,US,Kentucky,2139,-82.8262,37.1184,15.5,35,17
+16-10-2015 18:00,rock_fall,rain,medium,above_road,0,0,HN,Comayagua,1389,-87.7152,14.4837,25.6,82,1.8
+27-09-2015 00:00,landslide,rain,medium,above_road,0,0,GT,Sololá,3588,-91.0873,14.7038,16.7,90,1.8
+09-02-2015 09:00,debris_flow,rain,small,above_road,0,0,US,Washington,2370,-119.9064,48.0467,8.5,87,8.6
+30-06-2015 00:00,mudslide,rain,medium,urban,0,0,CN,Sichuan,0,102.2256,31.9006,17,97,1.5
+24-09-2015 09:00,mudslide,downpour,large,above_road,0,0,MY,Penang,140849,100.2531,5.3511,29.2,67,7.2
+03-08-2016 00:00,landslide,downpour,small,above_road,0,0,GB,Scotland,1095,-3.8575,58.1728,13.4,97,18.9
+19-07-2015 07:00,landslide,continuous_rain,small,above_road,0,0,PH,Cordillera,3485,120.4935,16.3602,27.4,76,12.3
+05-01-2016 00:00,mudslide,rain,medium,other,0,0,US,California,176320,-118.5393,34.3515,17.2,39,4.8
+25-02-2015 00:00,landslide,snowfall_snowmelt,medium,above_road,0,0,PK,Khyber Pakhtunkhwa,0,71.7059,35.7497,3.3,87,0.7
+01-07-2016 00:00,landslide,continuous_rain,large,natural_slope,0,0,NP,Western Region,0,84.4723,28.1321,22.8,88,1.9
+11-05-2016 00:00,debris_flow,downpour,medium,above_road,0,0,NZ,West Coast,3629,171.8985,-41.5833,18.4,95,16.9
+21-10-2016 18:00,landslide,downpour,medium,above_road,0,0,US,West Virginia,2322,-81.3907,38.6725,11.8,95,20.9
+15-09-2015 15:30,mudslide,downpour,medium,above_road,0,0,US,Utah,9796,-111.662,40.4537,16.2,56,9.3
+17-04-2015 00:00,landslide,downpour,small,above_road,0,0,US,Maryland,5439,-79.009,39.4631,15.2,52,12.1
+28-09-2015 00:00,other,downpour,small,retaining_wall,0,0,HN,Francisco Morazán,850848,-87.182,14.0651,23.9,85,2.5
+05-01-2016 23:00,landslide,downpour,small,above_road,0,0,JE,St Helier,28000,-2.046,49.2165,8.6,86,14.8
+09-12-2015 00:00,debris_flow,flooding,medium,above_road,0,0,US,Washington,1191,-121.171,46.647,8,85,7.6
+16-07-2015 00:00,landslide,monsoon,small,above_road,0,0,NP,Central Region,44632,85.0813,27.6314,19,91,3.8
+19-12-2015 00:00,landslide,continuous_rain,medium,natural_slope,0,0,MY,Sabah,73653,115.2202,5.3151,26.1,88,4.8
+22-09-2014 00:00,landslide,rain,small,above_road,0,0,IN,Assam,2000,91.8178,26.159,25.8,96,7.4
+14-03-2015 18:30,debris_flow,rain,small,other,0,0,CA,British Columbia,16205,-119.1604,50.6533,7.5,88,3.9
+19-07-2016 00:00,mudslide,downpour,medium,above_road,0,0,US,Washington,3890,-119.9011,47.8311,23.2,36,9.4
+15-05-2014 23:00,landslide,continuous_rain,small,above_road,0,0,US,Pennsylvania,1515,-79.8406,40.3034,16.6,96,13.2
+11-10-2016 03:30,landslide,downpour,medium,above_road,0,0,IN,Karnataka,64457,74.118,14.8009,25.8,91,2.6
+21-11-2014 02:11,debris_flow,downpour,medium,burned_area,0,0,US,California,50073,-117.8622,34.1587,15.5,74,4.5
+24-07-2016 09:00,landslide,downpour,large,above_road,0,0,NP,Eastern Region,3250,87.1305,27.1861,19.7,94,4.9
+31-01-2015 15:00,landslide,downpour,medium,mine,0,0,GB,England,2264,-1.448,52.2396,4.3,70,27.5
+07-12-2015 00:00,debris_flow,downpour,small,above_road,0,0,US,Oregon,13903,-122.5092,45.4772,12.8,69,16.9
+27-09-2016 00:00,other,downpour,medium,mine,0,0,TR,Istanbul,193750,28.7701,41.0863,15.3,83,15.3
+02-08-2015 13:50,mudslide,downpour,small,above_road,0,0,US,Utah,7979,-111.3962,39.9963,15.1,71,4.3
+19-08-2014 22:00,mudslide,downpour,medium,natural_slope,0,0,CA,British Columbia,2324,-121.7343,50.8676,23.5,54,1.5
+11-03-2016 23:00,landslide,rain,medium,above_road,0,0,US,California,3293,-122.9237,38.5117,13.1,88,11.4
+14-11-2014 00:00,landslide,rain,small,above_river,0,0,NP,Western Region,23296,83.7412,28.2724,18.1,82,2.2
+09-06-2015 00:00,mudslide,downpour,small,above_road,0,0,US,Nevada,855,-119.5756,39.3108,31.9,13,7.9
+08-08-2015 00:00,landslide,downpour,medium,deforested_slope,3,0,IN,Himachal Pradesh,3944,76.757,31.8028,24.5,98,8.9
+20-10-2016 00:00,landslide,rain,medium,below_road,0,0,DM,Saint David,802,-61.2765,15.3587,,,
+19-12-2014 12:05,landslide,continuous_rain,small,above_road,0,0,US,California,1620,-122.6696,37.9184,14.8,90,20.9
+04-06-2016 23:00,mudslide,downpour,medium,above_road,0,0,UA,Zakarpattia,2885,23.525,48.3526,12.2,96,4.2
+22-07-2014 00:00,landslide,rain,small,mine,4,0,ID,West Java,0,108.2004,-7.3379,24.9,91,3
+21-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Kashmir,7750,75.1495,34.2689,17.9,88,3
+26-06-2016 00:00,rock_fall,rain,small,above_road,1,0,IN,Maharashtra,26665,73.4469,18.241,23.2,94,7.4
+11-01-2014 00:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Davao,20574,125.8333,7.5833,24.4,88,18.1
+10-09-2015 00:00,rock_fall,no_apparent_trigger,medium,above_river,0,0,GB,England,4971,-2.3177,50.6263,12.8,86,18
+28-05-2016 17:00,mudslide,downpour,medium,above_road,0,0,KG,Batken,0,71.5577,40.015,15.4,70,7.2
+20-03-2016 00:00,landslide,rain,small,natural_slope,2,0,PK,Azad Kashmir,0,73.8369,33.9861,4,87,7.6
+07-02-2015 00:00,mudslide,rain,small,above_road,0,0,CA,British Columbia,9813,-116.9091,49.7715,7.8,96,6.1
+23-06-2016 09:00,rock_fall,downpour,medium,natural_slope,0,0,IN,Goa,16311,73.8911,15.3739,27.2,83,20.1
+22-12-2014 00:00,landslide,downpour,medium,below_road,0,0,GB,Scotland,1442,-3.9946,57.0969,7.9,85,22.7
+26-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Himachal Pradesh,19831,77.1135,31.9563,22.6,88,3.9
+28-09-2015 15:00,landslide,downpour,small,urban,0,0,HN,Francisco Morazán,850848,-87.2087,14.0737,22.8,88,6.1
+04-03-2015 00:00,mudslide,rain,small,above_road,0,0,US,West Virginia,717,-82.4048,37.8343,14.8,88,20.8
+20-07-2014 00:00,landslide,continuous_rain,small,above_road,3,0,IN,Uttarakhand,2571,78.9953,30.6326,17.8,93,1.6
+22-05-2016 15:00,rock_fall,rain,small,mine,10,6,IN,Uttarakhand,522081,78.0648,30.306,30.6,66,2.2
+01-07-2016 08:00,mudslide,downpour,large,natural_slope,11,0,CN,Guizhou,1171633,105.6141,27.1761,23.1,64,14.9
+02-07-2015 00:00,other,construction,medium,mine,1,0,PA,Colón,1146,-79.7754,9.4405,28.2,84,16.2
+13-03-2016 00:00,landslide,rain,medium,above_road,0,0,US,California,5155,-122.6475,38.5374,11.3,95,9.7
+12-12-2014 00:00,mudslide,rain,small,other,0,0,US,California,29888,-119.8538,34.4499,17.1,85,42.5
+17-10-2016 00:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Bicol,7324,123.5378,13.7442,27.7,88,5.2
+10-01-2016 00:00,landslide,downpour,medium,natural_slope,0,0,GB,England,6044,-0.9425,54.5888,7.9,87,33.1
+17-07-2016 00:00,landslide,downpour,medium,above_road,4,0,IN,Uttarakhand,4734,78.2936,30.1642,22.6,96,0.7
+19-07-2016 00:00,landslide,downpour,medium,above_road,0,0,PK,Khyber Pakhtunkhwa,0,71.7675,35.6825,20.7,75,4.1
+18-05-2014 16:30,other,rain,small,mine,0,0,PR,Vega Alta,12036,-66.3319,18.3806,28,59,9.8
+02-06-2015 00:00,mudslide,downpour,small,above_road,0,0,CA,British Columbia,125109,-119.3756,49.8889,27.2,31,2.2
+30-06-2015 00:00,landslide,downpour,small,natural_slope,0,0,US,Kentucky,2304,-84.8459,38.9424,23.9,76,1.9
+02-10-2016 00:00,landslide,rain,small,below_road,0,0,AU,Victoria,1413,143.0792,-38.3932,17.1,53,24.9
+15-01-2013 09:00,landslide,downpour,medium,natural_slope,6,2,ID,West Java,91845,106.9064,-6.681,26.4,88,4.7
+20-11-2015 00:00,rock_fall,earthquake,large,natural_slope,0,0,GR,Ionian Islands,8673,20.5585,38.6353,15,88,3.1
+22-05-2014 09:00,landslide,downpour,small,above_road,0,0,IN,Goa,65586,73.8288,15.4951,31.2,67,16.6
+13-07-2015 00:00,landslide,continuous_rain,medium,above_road,2,5,PH,Cordillera,0,120.5875,16.2882,25.3,85,6.8
+31-07-2015 23:00,mudslide,continuous_rain,medium,above_road,0,0,IN,Manipur,223523,94.3415,25.0634,16.6,100,5
+19-02-2014 09:00,mudslide,continuous_rain,medium,above_road,0,0,US,Washington,10670,-121.8094,47.5399,4.1,84,15.2
+03-11-2015 19:00,landslide,downpour,medium,above_road,0,0,US,California,2535,-116.8176,33.8453,10.3,39,9.9
+19-07-2015 00:00,landslide,downpour,medium,below_road,0,1,US,California,1006,-115.3871,33.712,26.5,52,24.8
+15-08-2015 00:00,riverbank_collapse,downpour,medium,above_river,0,0,VN,Ha N?i,0,105.7431,20.688,29.4,85,5.9
+18-06-2015 00:00,mudslide,continuous_rain,small,below_road,0,0,US,Oklahoma,2739,-95.6457,35.1087,24,91,22.3
+15-10-2015 13:00,landslide,downpour,medium,above_road,0,0,CR,Cartago,4060,-83.9815,9.7917,14.7,98,1.1
+28-06-2016 00:00,landslide,downpour,medium,above_road,0,0,NP,Central Region,0,85.3644,28.2465,19.9,96,2.1
+11-12-2015 00:00,debris_flow,rain,medium,above_road,0,0,US,California,1628,-120.5983,38.2897,8.6,85,6.9
+06-06-2010 00:00,mudslide,monsoon,small,mine,2,0,TH,Phuket,14797,98.3095,7.8963,26.3,96,11.5
+28-10-2014 00:00,landslide,rain,small,above_road,0,0,GB,Scotland,1296,-4.847,56.2238,13.7,95,21.1
+18-06-2014 23:00,landslide,rain,small,above_road,0,0,ZA,Western Cape,32289,18.4545,-34.1192,12.7,66,21.1
+12-03-2014 23:00,landslide,downpour,medium,deforested_slope,0,0,GT,Quiché,7850,-90.8924,15.7318,30.2,72,2.2
+29-06-2015 00:00,landslide,downpour,small,above_road,0,0,PA,Bocas del Toro,22900,-82.4858,9.388,25.1,93,6.1
+21-05-2015 00:00,mudslide,continuous_rain,medium,urban,0,0,US,Colorado,416427,-104.8466,38.8327,7.2,77,13.4
+20-03-2008 23:00,landslide,downpour,medium,above_river,4,10,PH,Davao,7506,125.4616,6.5309,27,84,6.2
+04-02-2014 23:00,landslide,downpour,small,below_road,0,0,GB,England,10676,-3.4585,50.5848,8.8,85,46.9
+07-02-2015 00:00,mudslide,rain,small,above_road,0,0,CA,British Columbia,9813,-116.9114,49.7022,7.2,96,6.1
+26-04-2016 00:00,rock_fall,rain,small,above_road,0,0,US,South Dakota,10494,-103.8842,44.413,6.9,60,12.1
+15-04-2016 00:00,other,earthquake,small,retaining_wall,0,0,JP,Kumamoto,680423,130.7061,32.8054,18.4,64,9.1
+16-10-2014 23:00,mudslide,downpour,small,retaining_wall,9,0,NI,Managua,70013,-86.2409,12.1137,26.5,86,3
+28-12-1998 00:00,debris_flow,downpour,small,above_road,0,0,US,Washington,6651,-122.6069,47.272,9.8,98,28.7
+02-07-2015 05:40,landslide,mining,small,natural_slope,0,0,BG,Sofiya,82467,23.0414,42.6065,13.5,94,0.8
+27-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,CN,Xinjiang Uygur Zizhiqu,2005,75.4377,36.8532,-0.3,100,1.3
+29-07-2015 23:00,landslide,downpour,medium,above_road,0,0,NP,Western Region,23296,83.7432,28.2748,22.1,100,2.4
+16-03-2015 01:00,landslide,downpour,small,below_road,0,0,US,Washington,22699,-122.2132,47.5631,9.5,95,3
+11-12-2015 00:00,debris_flow,rain,medium,above_road,0,0,US,California,1628,-120.5983,38.2897,8.6,85,6.9
+13-10-2013 18:00,landslide,no_apparent_trigger,small,bluff,0,0,US,Washington,9113,-122.7748,48.1428,10.9,83,4.8
+28-12-2014 14:30,mudslide,rain,small,bluff,0,0,US,Washington,1035,-122.3635,47.9899,4.9,88,0.5
+15-10-2016 00:00,rock_fall,downpour,small,above_road,0,0,IN,West Bengal,43000,88.4486,26.9343,22.5,89,4
+27-06-2015 00:00,mudslide,downpour,small,above_road,0,0,US,Pennsylvania,1320,-75.3278,40.0707,24.8,58,8.3
+31-05-2016 00:00,mudslide,downpour,medium,above_road,0,0,US,Texas,1197816,-96.8139,32.7913,28.5,53,3.1
+08-03-2016 00:00,landslide,mining,medium,mine,2,0,CD,Katanga,418000,24.8656,-10.7142,20.6,98,1.3
+25-01-2016 00:00,landslide,mining,medium,mine,6,0,MM,Kachin,90894,96.2946,25.6226,12.6,87,4
+10-12-2014 19:00,debris_flow,snowfall_snowmelt,medium,other,0,0,PE,Arequipa,0,-71.8688,-15.6929,13.9,32,17.9
+14-02-2015 09:00,landslide,downpour,small,retaining_wall,0,0,LK,Central,111701,80.7675,7.1855,27.9,56,9.3
+14-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,US,Kentucky,6903,-82.4405,37.4078,23.6,82,8.4
+19-07-2012 00:00,landslide,monsoon,medium,below_road,0,0,IN,West Bengal,46427,88.3373,26.8546,23.1,96,2.3
+21-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,PH,Cordillera,7491,120.6868,16.4187,20.3,89,15.1
+06-01-2006 08:00,mudslide,rain,small,above_road,0,0,US,Washington,53007,-122.392,47.7017,9.7,89,13.6
+16-12-2015 00:00,landslide,downpour,medium,above_road,0,0,GB,England,13266,-2.7122,50.7472,13.4,90,28.1
+22-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Manipur,92113,93.9854,25.5007,19.9,97,2.8
+28-03-2015 23:00,landslide,downpour,medium,deforested_slope,12,0,ID,West Java,276414,107,-6.9237,26.5,89,7
+06-08-2016 09:00,landslide,rain,small,above_road,0,0,US,Hawaii,2158,-159.4773,22.2106,24.6,91,17
+11-05-2016 00:00,landslide,earthquake,medium,above_road,0,0,CN,Tibet Autonomous Region,0,95.2747,31.5583,-5.9,73,4.1
+27-03-2015 08:30,landslide,rain,medium,bluff,0,0,US,Washington,29673,-122.3241,47.3765,14,82,5.7
+26-10-2015 00:00,landslide,downpour,medium,above_road,0,0,PK,Khyber Pakhtunkhwa,0,73.5651,34.8482,3.2,93,4.2
+09-04-2015 00:00,landslide,rain,small,above_road,0,0,US,California,63522,-117.6454,33.4418,18.7,38,23.5
+11-02-2015 00:00,landslide,snowfall_snowmelt,medium,above_road,0,0,BG,Plovdiv,7393,24.4277,41.8601,-3.6,59,9.6
+12-06-2014 00:00,landslide,rain,small,above_road,0,0,GE,Khashuris Raioni,10091,43.4965,42.046,11.5,96,7.2
+20-08-2015 18:00,landslide,continuous_rain,medium,below_road,0,0,IN,Nagaland,92113,94.1057,25.6263,18.7,98,3.8
+01-03-2015 04:30,mudslide,rain,medium,above_road,0,0,US,California,21723,-119.0802,34.1033,13,80,2.2
+11-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Uttarakhand,27611,78.4862,30.3799,22.7,89,5.5
+07-03-2016 00:00,landslide,rain,small,above_road,0,0,US,Kentucky,1615,-84.9013,38.7839,9.9,56,10.5
+01-08-2015 15:15,rock_fall,continuous_rain,medium,above_road,0,0,IN,Maharashtra,64460,73.3679,18.7687,23.5,94,11.8
+03-10-2016 00:00,landslide,tropical_cyclone,small,urban,1,0,DO,Nacional,10457,-69.9373,18.5079,25.3,99,3.4
+21-11-2015 04:30,landslide,downpour,large,above_road,0,0,ID,North Sumatra,0,100.0764,2.0336,30.7,75,1.1
+04-06-2015 00:00,landslide,downpour,medium,below_road,0,0,NZ,Otago,1200,170.6273,-45.8767,2.7,77,19.5
+14-01-2015 00:00,landslide,mining,medium,mine,2,0,NG,Jigawa,42742,9.1854,12.4359,14.1,30,12.7
+14-01-2015 23:00,landslide,snowfall_snowmelt,small,above_road,0,0,GB,Scotland,4220,-3.6107,56.3311,5.8,87,30.9
+05-08-2016 00:00,landslide,tropical_cyclone,medium,above_road,3,7,VN,Lào Cai,138622,103.8646,22.3608,21.1,97,1.5
+04-03-2015 23:00,mudslide,snowfall_snowmelt,small,above_road,0,0,US,Kentucky,4456,-83.1295,37.336,5.1,95,17.3
+07-06-2013 00:00,landslide,rain,medium,above_road,0,0,CZ,Jiho?eský,3190,13.9553,49.1573,11.4,93,3.1
+10-01-2006 09:00,mudslide,downpour,small,above_road,0,0,US,Washington,14205,-122.4007,47.0645,10.5,92,28.8
+13-08-2015 23:00,mudslide,downpour,small,natural_slope,0,0,US,Utah,1344,-111.6393,40.0101,30.8,26,2.2
+14-03-2016 00:00,rock_fall,rain,medium,above_road,0,0,US,California,1305,-123.3974,38.7164,12.5,94,22.1
+01-12-2015 00:00,landslide,rain,medium,above_road,0,0,JM,Saint Ann,13671,-77.1919,18.4313,26.4,82,15.4
+03-08-2016 09:00,landslide,downpour,medium,above_road,0,0,IN,Maharashtra,23677,73.5086,18.3978,22.8,92,17.1
+26-08-2015 00:00,mudslide,continuous_rain,medium,above_road,0,0,IN,Mizoram,3962,93.0514,23.8447,21.6,98,1.9
+17-07-2014 14:45,landslide,rain,medium,above_road,11,19,CN,Sichuan,0,103.7281,31.5751,22,82,1.4
+21-05-2016 00:00,landslide,downpour,small,above_road,0,0,US,Washington,73917,-119.1444,46.2149,20.7,28,10.1
+11-03-2015 15:00,rock_fall,continuous_rain,small,above_road,0,0,US,West Virginia,3191,-82.2679,37.6758,14.4,87,9.1
+26-08-2015 03:00,debris_flow,snowfall_snowmelt,medium,natural_slope,0,0,US,California,3394,-122.1916,41.3936,8.1,27,7.2
+16-10-2016 00:00,landslide,rain,medium,above_road,0,0,PH,Cordillera,0,120.9868,16.7132,17.4,100,24.8
+16-10-2016 15:00,mudslide,rain,medium,above_road,0,0,US,California,8234,-119.076,37.6141,8.8,58,12.4
+07-10-2016 23:00,rock_fall,downpour,medium,above_road,0,0,PH,Central Visayas,2205,123.7808,10.3178,25.4,81,2.9
+14-02-2014 16:00,landslide,downpour,small,above_road,0,1,US,Oregon,7167,-121.5015,45.7081,4.3,87,3.1
+10-03-2014 00:00,landslide,snowfall_snowmelt,medium,above_road,0,0,IN,Kashmir,7317,75.2439,33.2359,9.3,80,8.7
+27-02-2014 00:00,landslide,snowfall_snowmelt,large,above_road,0,0,US,Oregon,2033,-123.7788,44.3984,9.5,63,8.6
+07-10-2016 00:00,landslide,rain,medium,above_road,0,0,AU,Tasmania,5706,145.6226,-40.9345,15.4,70,20.5
+23-09-2014 03:00,landslide,continuous_rain,small,urban,8,1,IN,Meghalaya,132842,91.8666,25.5772,19.7,100,4.4
+31-07-2016 00:00,landslide,no_apparent_trigger,medium,natural_slope,0,0,GB,England,6044,-0.983,54.5888,13.1,81,18.1
+23-09-2016 00:00,mudslide,downpour,medium,above_road,1,0,US,Wisconsin,4362,-91.2132,43.486,22.3,81,5.1
+17-05-2015 00:00,landslide,downpour,medium,natural_slope,5,0,PK,Khyber Pakhtunkhwa,0,71.7986,35.567,16.4,66,5.6
+10-07-2016 23:00,landslide,downpour,medium,natural_slope,4,2,UG,Western Region,16919,30.0372,0.5599,11.7,78,2.2
+09-10-2014 06:00,landslide,continuous_rain,small,below_road,0,0,MY,Sabah,71585,116.384,5.7369,24.5,85,12.6
+31-08-2016 12:45,landslide,continuous_rain,small,above_road,0,0,TH,Phuket,0,98.3153,8.1112,27,84,7.3
+10-03-2016 00:00,landslide,downpour,medium,natural_slope,5,8,ID,West Java,0,107.0182,-6.7209,25.7,95,4.7
+22-12-2014 10:00,landslide,downpour,medium,above_road,0,0,US,Hawaii,13730,-157.9254,21.4329,19.8,92,7.9
+05-01-2015 00:00,riverbank_collapse,flooding,small,above_river,0,0,US,Washington,2075,-121.6737,47.8636,7,92,19
+23-06-2015 00:00,landslide,downpour,medium,natural_slope,0,0,PH,Davao,16518,124.941,6.3444,26.9,83,1.8
+01-02-2016 00:00,landslide,snowfall_snowmelt,small,natural_slope,1,1,PK,Khyber Pakhtunkhwa,29869,71.9975,35.2646,-9,64,9.1
+07-08-2016 00:00,mudslide,rain,small,above_road,0,0,US,Tennessee,2531,-81.8103,36.5221,25.3,73,5
+20-07-2016 00:00,landslide,downpour,large,natural_slope,3,0,IN,West Bengal,1035,88.1069,27.1176,17.8,98,1.8
+01-10-2015 21:30,mudslide,rain,medium,urban,280,0,GT,Guatemala,67994,-90.4959,14.5755,24.1,75,3.2
+16-06-2015 00:00,mudslide,downpour,small,above_road,0,0,US,Wyoming,9520,-109.9919,44.4944,16.6,44,7.6
+10-03-2015 00:00,mudslide,continuous_rain,small,above_road,0,0,US,Georgia,3846,-85.3786,34.9053,11.5,83,5.8
+18-10-2014 00:00,landslide,tropical_cyclone,small,above_road,0,0,MX,Guerrero,1018,-99.8562,16.885,26,87,8.8
+14-06-2016 08:00,landslide,continuous_rain,medium,retaining_wall,0,0,IN,Nagaland,34021,94.5247,26.3185,23.4,88,1.9
+22-02-2015 00:00,unknown,mining,medium,mine,0,0,BA,Federation of Bosnia and Herzegovina,8701,18.5713,44.8247,6.6,63,11.7
+15-05-2016 00:00,mudslide,rain,medium,above_river,0,0,KG,Jalal-Abad,27704,72.9293,41.3431,10.7,81,4.8
+15-07-2016 23:00,mudslide,rain,medium,natural_slope,0,0,NP,Eastern Region,1035,87.8086,27.5138,17.9,93,0.8
+11-03-2014 00:00,landslide,continuous_rain,large,above_road,0,0,IN,Kashmir,6755,74.056,34.0823,5.2,91,6.1
+11-10-2015 00:00,landslide,mining,medium,mine,1,0,GE,Kakheti,9466,45.7566,41.7915,6.3,75,4.8
+30-05-2015 00:00,landslide,rain,small,above_road,0,0,IN,Kashmir,7750,75.4446,34.2607,2.9,78,3.2
+26-05-2010 00:00,rock_fall,downpour,medium,above_road,0,0,NZ,Otago,13000,170.6453,-44.8431,8.2,93,17.9
+16-07-2015 00:00,landslide,monsoon,medium,other,1,12,NP,Western Region,200000,84.0011,28.1996,23.2,95,3.1
+17-03-2015 00:00,landslide,rain,medium,above_road,0,0,BG,Sofiya,6184,23.0879,42.3377,1.7,88,6.5
+24-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Uttarakhand,25753,78.1443,30.4517,17,85,1
+12-11-2015 00:00,landslide,rain,medium,urban,2,11,TR,Artvin,9942,41.68,41.3596,11.2,98,11.7
+02-05-2016 14:45,landslide,downpour,medium,above_road,0,0,US,West Virginia,3191,-82.3079,37.7123,20.4,85,8.7
+13-06-2015 15:00,landslide,downpour,medium,urban,0,1,HN,Francisco Morazán,1121,-87.155,14.0592,24,72,3.3
+26-05-2015 09:00,mudslide,downpour,small,above_road,0,0,US,Kansas,857,-95.3153,39.9892,17.1,90,13.9
+27-08-2011 00:00,landslide,downpour,medium,above_road,0,0,IN,Kashmir,7601,75.8466,32.5764,25.4,88,4.3
+09-12-2015 00:00,mudslide,rain,medium,above_road,0,0,US,Washington,1965,-120.682,47.5857,9.2,90,7.1
+12-08-2015 00:00,mudslide,continuous_rain,medium,below_road,0,0,IN,Nagaland,92113,94.1136,25.6237,19.7,94,3.1
+19-06-2014 05:00,landslide,rain,small,above_road,0,5,CN,Guangdong,0,113.1213,23.0206,31.6,72,10.6
+05-10-2014 00:00,mudslide,monsoon,medium,above_road,0,0,TH,Ranong,24561,98.6657,9.9602,23.9,96,9.1
+14-04-2015 00:00,landslide,downpour,small,above_road,0,0,US,Kentucky,5245,-84.2444,36.6878,20.6,86,4.7
+18-07-2016 00:00,landslide,flooding,medium,above_road,0,0,AU,Victoria,2156,148.3028,-36.9706,16.6,58,12
+05-11-2014 00:00,mudslide,downpour,medium,above_road,0,0,FR,Provence-Alpes-Côte d'Azur,3185,7.2325,43.7276,15.4,93,4.3
+16-06-2015 09:00,landslide,continuous_rain,small,natural_slope,0,0,US,Arkansas,3684,-93.8001,35.7131,21.2,93,5.5
+02-08-2014 09:00,landslide,continuous_rain,small,above_road,0,0,IN,Kerala,17944,76.3738,9.9431,27.5,88,13.4
+14-01-2014 15:00,landslide,downpour,medium,above_road,0,0,GB,Scotland,1296,-4.8567,56.2266,1,96,7.7
+04-01-2006 09:00,mudslide,downpour,medium,natural_slope,240,0,ID,Central Java,58448,110.1969,-6.9343,26.7,87,8.1
+29-12-2015 00:00,mudslide,flooding,medium,above_road,0,0,GB,England,0,-2.2471,54.9753,9.3,87,24.8
+31-10-2014 02:00,landslide,downpour,small,urban,1,3,GT,Guatemala,97172,-90.457,14.674,17.2,96,4.9
+12-03-2016 00:00,rock_fall,downpour,medium,urban,0,0,ES,Basque Country,9546,-2.4281,43.3211,7.7,74,7.8
+21-06-2016 00:00,landslide,downpour,medium,above_road,0,0,IN,Kashmir,80447,75.1892,32.99,25.7,75,6.3
+21-03-2015 18:00,rock_fall,no_apparent_trigger,medium,bluff,1,1,US,California,1819,-122.8135,37.9873,15.2,82,9.2
+28-12-2014 09:30,mudslide,rain,small,above_road,0,0,US,Washington,53007,-122.309,47.9277,6.1,89,2.9
+04-03-2015 21:00,mudslide,downpour,medium,natural_slope,0,0,US,Kentucky,1745,-83.1806,36.8619,13.7,93,7.6
+04-08-2014 00:00,debris_flow,dam_embankment_collapse,medium,mine,0,0,CA,British Columbia,14168,-121.599,52.5211,25,39,4.7
+26-10-2015 00:00,landslide,earthquake,medium,above_road,0,0,PK,Gilgit-Baltistan,0,74.8686,35.359,5.1,98,1.3
+30-07-2015 00:00,landslide,monsoon,medium,above_road,0,0,NP,Western Region,23296,83.4625,28.3853,22.2,99,5.3
+01-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Manipur,30418,94.0644,24.4072,18.7,100,6.1
+07-09-2014 00:00,landslide,rain,small,below_road,0,0,PH,Soccsksargen,5166,124.2185,7.1733,26.8,85,3.3
+09-07-2016 00:00,landslide,monsoon,small,natural_slope,0,0,PH,Central Luzon,221178,120.2685,14.8271,26.3,90,21.9
+16-10-2015 23:00,landslide,rain,medium,deforested_slope,5,0,HN,Comayagua,1470,-87.7286,14.5742,23.5,89,0.4
+11-11-2010 15:00,landslide,downpour,medium,above_road,0,1,VN,Qu?ng Nam,0,108.6849,15.4546,22.9,93,16.1
+23-06-2014 00:00,landslide,continuous_rain,medium,above_road,0,0,VN,Thanh Hóa,0,105.1433,20.4516,24.6,99,2.5
+17-01-2016 15:00,rock_fall,rain,small,above_road,0,0,US,North Carolina,83393,-82.5166,35.6253,-1.5,82,11
+26-06-2014 00:00,mudslide,rain,small,below_road,0,0,CA,Ontario,1026,-94.3946,49.9747,19.9,59,8.7
+27-04-2015 00:00,landslide,continuous_rain,medium,natural_slope,0,0,US,Colorado,12088,-106.8393,40.4802,6.7,75,2.3
+24-02-2015 00:00,landslide,rain,small,deforested_slope,0,0,AU,Victoria,34457,145.11,-38.1543,18.3,50,15.8
+11-05-2008 05:45,other,continuous_rain,medium,above_river,0,0,US,Maryland,19096,-76.9216,38.8162,11.6,77,7.4
+06-09-2015 15:00,debris_flow,rain,medium,above_road,0,0,GT,Sololá,2605,-91.1338,14.7568,20.1,76,1.5
+15-10-2015 00:00,landslide,flooding,medium,below_road,0,0,MX,Tabasco,32415,-91.2988,17.4054,28.7,81,10.1
+18-08-2014 00:00,landslide,downpour,small,mine,0,0,AU,New South Wales,6436,151.3013,-33.7106,12.1,95,30
+09-10-2014 00:00,debris_flow,flooding,medium,above_river,0,0,IN,Kerala,50921,76.5516,10.9654,25.5,92,3.1
+26-04-2016 12:30,rock_fall,rain,small,above_road,0,0,US,Wyoming,3009,-108.1842,43.513,3.2,80,17.8
+15-06-2014 00:00,landslide,continuous_rain,medium,urban,0,0,BR,Rio Grande do Norte,763043,-35.2059,-5.8141,24.5,90,22.6
+31-10-2015 00:00,landslide,downpour,small,above_road,0,0,IN,Tamil Nadu,87123,77.899,11.3742,25.8,83,1.8
+29-05-2016 09:00,rock_fall,rain,small,mine,1,2,LK,Southern,22179,80.362,6.0103,28.8,84,21.6
+15-07-2016 23:00,mudslide,rain,medium,above_road,0,0,US,Alaska,1021,-149.978032,63.51315907,17.4,67,8
+18-07-2016 00:00,landslide,continuous_rain,large,above_road,0,0,NP,Central Region,0,86.1424,27.5072,22.9,98,1.5
+17-07-2016 09:00,mudslide,downpour,medium,above_road,0,0,IN,Uttarakhand,186079,78.1677,29.9551,26.1,91,2.1
+04-07-2016 12:00,other,construction,small,mine,0,3,MX,Chiapas,33464,-93.7203,16.6846,22.1,96,3.1
+26-09-2015 23:00,landslide,downpour,medium,above_road,0,0,TH,Phuket,14797,98.2916,7.8794,25.4,93,12.1
+24-07-2014 02:00,landslide,continuous_rain,small,above_road,0,0,ID,West Java,0,108.2036,-7.2643,26.8,82,8.9
+17-03-2015 00:00,landslide,rain,medium,above_road,0,0,BG,Varna,9760,28.0252,43.2693,5.2,70,18.8
+09-03-2014 09:00,landslide,downpour,medium,above_road,0,0,PK,Khyber Pakhtunkhwa,0,73.0068,35.1148,13.8,80,4
+20-03-2016 00:00,rock_fall,rain,medium,above_river,7,26,CN,Guangxi Zhuangzu Zizhiqu,0,110.375,25.4075,19.4,95,3.1
+10-09-2015 00:00,mudslide,tropical_cyclone,medium,urban,1,1,JP,Tochigi,94903,139.6333,36.5796,21,95,5.6
+13-07-2014 00:00,landslide,downpour,small,above_road,0,0,CH,Bern,6621,7.2253,46.4873,11.8,98,2.2
+05-02-2014 09:00,landslide,rain,medium,above_road,0,0,US,Kentucky,6845,-83.5162,38.1181,0.5,92,14.2
+24-09-2015 00:00,landslide,rain,small,above_road,0,0,HN,Copán,1452,-88.9144,14.6,23,89,3.6
+19-07-2015 00:00,landslide,downpour,small,below_road,0,0,US,California,20292,-116.836,33.05,19.7,98,9.2
+18-07-2015 15:20,rock_fall,downpour,small,above_road,0,0,US,California,51367,-116.9702,34.1036,21.3,38,6.2
+18-02-2014 17:20,landslide,continuous_rain,medium,above_road,0,0,GB,England,51559,-0.1557,51.2595,8.2,88,10.2
+29-10-2014 07:30,mudslide,monsoon,large,deforested_slope,37,0,LK,Uva,4721,81.0209,6.7631,23.5,81,0.4
+18-02-2014 15:00,mudslide,continuous_rain,small,above_road,0,0,US,Washington,198397,-122.452,47.2711,7.9,88,19.6
+03-06-2015 15:00,rock_fall,downpour,medium,above_road,0,0,CR,Alajuela,7014,-84.3678,9.9451,27.9,73,0
+14-10-2014 23:00,landslide,rain,medium,mine,1,0,HN,Santa Bárbara,1759,-88.551,15.309,26.2,87,4.8
+21-07-2015 00:00,landslide,downpour,medium,natural_slope,0,6,ES,Asturias,2262,-4.825,43.293,21.7,92,6.7
+03-10-2016 11:00,landslide,construction,medium,above_road,0,0,IN,Himachal Pradesh,2994,77.0588,30.8974,23,75,6.9
+07-01-2009 09:00,mudslide,rain,medium,above_road,0,0,US,Washington,1126,-122.0818,46.5455,9.3,97,14.7
+16-10-2015 00:00,mudslide,flooding,large,above_road,0,0,US,California,1027,-118.4938,34.5587,23.9,64,6
+17-10-2014 20:00,landslide,downpour,small,urban,0,0,MY,Kuala Lumpur,1453975,101.704,3.1498,23.9,98,3.4
+11-12-2014 09:00,mudslide,downpour,small,above_road,0,0,US,California,2359,-122.6192,39.0081,13.1,95,17.4
+15-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Uttarakhand,13865,79.5269,30.6494,19.1,88,4.4
+04-08-2014 00:00,landslide,rain,medium,above_river,0,0,US,Idaho,485,-115.5106,43.7777,33.7,17,8.5
+16-06-2015 00:00,landslide,continuous_rain,small,above_road,0,0,US,Pennsylvania,20978,-78.9261,40.3316,23.5,89,9.9
+29-08-2011 12:30,landslide,downpour,medium,retaining_wall,1,3,IN,Maharashtra,12691836,72.8102,18.9774,26.9,89,19.9
+17-04-2014 18:00,creep,snowfall_snowmelt,small,urban,0,0,US,Wyoming,9577,-110.7826,43.4756,7.3,44,11.5
+02-05-2014 00:00,landslide,continuous_rain,very_large,natural_slope,2100,0,AF,Badakhshan,0,70.3589,37.0133,9.8,73,8.7
+03-08-2014 00:00,landslide,tropical_cyclone,medium,urban,0,0,DO,Santo Domingo,0,-69.8693,18.5225,27.1,78,14.3
+09-08-2015 13:00,landslide,downpour,medium,above_road,0,0,IN,Kashmir,4945,74.2562,33.3852,26.3,85,4
+03-06-2015 00:00,mudslide,downpour,medium,natural_slope,0,0,US,Idaho,4348,-114.6379,45.7021,14.4,72,8.2
+21-01-2014 00:00,landslide,downpour,medium,above_road,0,0,ID,West Java,91845,106.9059,-6.655,23.8,98,8.5
+05-09-2014 18:00,landslide,rain,medium,above_road,0,0,PK,Azad Kashmir,6755,73.9067,34.1093,18.5,82,7.2
+20-04-2015 00:00,landslide,downpour,small,bluff,0,0,US,New Jersey,3715,-74.7969,40.1205,10.4,53,13.3
+09-08-2015 06:00,mudslide,tropical_cyclone,medium,above_road,0,0,MY,Sabah,71585,116.2113,5.9012,30,64,8.4
+19-06-2015 00:00,landslide,rain,medium,natural_slope,0,0,IN,Mizoram,265331,92.7362,23.7131,23.1,95,2.9
+19-07-2015 00:00,rock_fall,downpour,small,above_road,0,0,US,California,57065,-117.1282,32.7738,23,92,17.8
+14-01-2014 09:00,landslide,continuous_rain,medium,below_road,0,0,MY,Sabah,19294,116.7968,5.4204,24.7,94,2.1
+04-06-2015 00:00,landslide,downpour,small,above_road,0,0,US,Nevada,855,-119.6542,39.3007,16.4,37,14.5
+01-11-2014 01:23,landslide,earthquake,small,above_road,0,0,CR,Alajuela,14448,-84.4557,9.9275,23,91,6.8
+20-10-2016 00:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Cordillera,0,120.5941,16.292,24.6,94,31.3
+04-09-2015 00:00,landslide,rain,medium,above_road,0,0,US,Idaho,416,-115.2605,43.6091,19,34,20.1
+15-03-2010 00:00,landslide,downpour,medium,above_road,0,4,MK,Gostivar,3629,20.9306,41.7396,0.6,81,4.3
+16-06-2016 23:00,mudslide,downpour,medium,above_road,0,0,KG,Jalal-Abad,23594,72.3032,41.4807,18.8,84,7.9
+01-01-1997 00:00,debris_flow,downpour,small,above_road,0,0,US,Washington,608660,-122.4147,47.6422,7.7,87,16.6
+26-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Himachal Pradesh,173503,77.1751,31.1003,17.4,96,4
+24-07-2015 00:00,debris_flow,downpour,small,above_river,0,0,US,Washington,2868,-120.5128,47.9266,26.8,23,12.1
+21-02-2015 00:00,landslide,snowfall_snowmelt,small,above_road,0,0,US,Virginia,3884,-79.7989,37.8116,-12.4,51,8.4
+01-08-2015 00:00,rock_fall,continuous_rain,medium,above_road,0,1,IN,Uttarakhand,17123,78.8578,31.0358,13.9,96,2.7
+19-04-2015 09:00,mudslide,dam_embankment_collapse,small,above_river,2,0,BD,R?jsh?hi,142361,88.1825,24.5582,31,62,8.2
+19-07-2015 15:00,rock_fall,monsoon,small,natural_slope,1,0,IN,Uttarakhand,7331,80.2364,30.0705,19,87,2.5
+03-04-2015 23:00,mudslide,downpour,small,above_road,0,0,US,West Virginia,1358,-82.2986,38.5063,15.1,96,13.2
+09-12-2015 00:00,mudslide,rain,medium,above_road,0,0,US,Washington,13065,-122.1839,47.7124,12.3,91,20.9
+22-06-2016 12:00,mudslide,downpour,medium,natural_slope,1,0,IN,Assam,899094,91.7825,26.1961,28,87,11.9
+05-06-2015 15:00,landslide,downpour,medium,above_road,0,0,PA,Panamá,0,-79.0896,9.1805,26.9,78,0.8
+19-08-2015 00:00,landslide,rain,medium,above_road,0,0,IN,Meghalaya,55290,92.3636,25.0728,25.8,95,11.6
+12-07-2015 00:00,landslide,continuous_rain,small,above_road,1,0,IN,Kashmir,7317,75.2102,33.2504,23.8,84,6.4
+13-06-2015 09:00,rock_fall,rain,medium,above_road,0,0,HN,Francisco Morazán,2295,-87.1528,14.0468,18.9,99,0.7
+11-07-2016 15:00,landslide,downpour,small,above_road,0,0,AU,Tasmania,5389,147.0876,-41.4003,12,90,23.7
+18-10-2016 00:00,landslide,rain,medium,above_road,0,0,PG,Chimbu,9383,145.0996,-5.8673,31,63,3.3
+03-12-2014 11:30,rock_fall,downpour,small,natural_slope,0,0,US,California,5245,-120.1725,34.5288,15.8,90,17.4
+22-07-2016 00:00,debris_flow,rain,large,natural_slope,0,0,CH,Valais,1556,7.599044836,46.27197927,11.2,92,2.3
+09-11-2014 00:00,mudslide,downpour,small,other,0,0,US,Washington,198397,-122.4491,47.2664,11.3,75,4.1
+13-06-2016 00:00,landslide,downpour,medium,above_road,0,0,GB,England,5240,-0.6835,52.5362,14.4,96,10.2
+15-10-2016 00:00,landslide,downpour,medium,above_road,0,0,IN,Sikkim,4026,88.5292,27.172,23.2,88,2.3
+21-03-2015 00:00,landslide,rain,medium,above_road,0,0,BG,Sofiya,1784,22.8963,42.2481,0.5,65,4.7
+18-07-2015 17:30,mudslide,continuous_rain,medium,natural_slope,0,0,IN,Jharkhand,77704,84.0696,24.0406,27.7,88,5.1
+30-12-2015 00:00,mudslide,flooding,medium,above_road,0,0,GB,England,141331,-2.46,53.5967,10.8,81,39.6
+27-08-2015 08:30,rock_fall,snowfall_snowmelt,medium,natural_slope,0,0,FR,Auvergne-Rhône-Alpes,2985,6.8171,45.8549,6.1,73,4.8
+22-11-2015 09:00,landslide,rain,medium,above_road,0,0,ID,West Sumatra,0,100.2804,-0.2751,25.3,85,7.2
+29-08-2016 23:00,rock_fall,continuous_rain,medium,above_road,0,0,IN,Himachal Pradesh,1495,77.8561,31.5728,19.9,91,1.8
+04-05-2014 00:00,landslide,rain,small,above_road,0,0,IN,Tamil Nadu,20254,76.8267,11.3403,21.1,87,2.2
+18-10-2016 06:45,rock_fall,rain,small,above_road,0,0,MY,Penang,140849,100.2521,5.3491,27.9,76,7.3
+18-07-2014 09:00,landslide,rain,small,above_road,0,0,NP,Western Region,23296,83.6011,28.3048,28.2,80,5.1
+20-10-2014 09:00,landslide,downpour,medium,urban,0,0,MY,Selangor,28484,101.5543,3.4463,28.7,74,1.9
+23-05-2015 00:00,debris_flow,downpour,medium,natural_slope,0,0,CA,British Columbia,1061,-121.3232,50.7968,27.9,21,5.7
+14-09-2015 01:30,landslide,downpour,medium,above_road,0,0,IN,Mizoram,265331,92.7187,23.7313,21.2,97,4.6
+22-05-2016 00:00,rock_fall,earthquake,unknown,natural_slope,0,0,TW,Taiwan,0,120.6824,22.7611,23.5,93,8
+29-01-2016 00:00,landslide,downpour,small,natural_slope,0,0,GB,Scotland,12249,-2.042,57.6897,7.5,79,21.3
+04-04-2016 00:00,landslide,continuous_rain,small,above_river,0,0,IN,Kashmir,63035,74.2798,34.4002,8.7,89,4
+08-11-2015 00:00,landslide,rain,medium,above_road,0,0,US,California,1205,-124.0682,41.3842,15.8,74,10.5
+29-12-2013 16:00,landslide,downpour,small,retaining_wall,0,0,GB,Scotland,151592,-2.9977,56.4679,4.5,84,13.4
+27-08-2016 14:30,rock_fall,earthquake,medium,natural_slope,0,0,US,Wyoming,9577,-110.4327,43.3672,1.8,84,7.4
+07-04-2014 09:00,mudslide,downpour,small,above_road,0,0,US,Alabama,34033,-86.7896,33.4407,15.4,97,18.2
+22-12-2014 23:00,landslide,continuous_rain,medium,above_road,0,0,PG,Chimbu,9383,145.0722,-6.1014,18.7,96,2.8
+18-08-2014 00:00,landslide,downpour,medium,above_road,0,0,IN,Uttarakhand,17123,78.4594,30.9936,12.5,70,3.8
+27-04-2014 00:00,landslide,rain,small,natural_slope,0,0,US,Oregon,1161,-122.6445,44.871,9.9,67,16.1
+29-05-2015 00:00,mudslide,downpour,small,natural_slope,0,0,US,Oklahoma,39223,-95.2882,35.6601,22.9,91,5.9
+20-01-2015 19:00,other,downpour,small,retaining_wall,0,0,MY,Selangor,69302,101.7329,3.0536,23.2,89,7.6
+18-01-2015 00:00,landslide,downpour,large,above_road,0,0,ID,North Sulawesi,0,123.0963,0.9039,25.7,92,2.3
+30-04-2014 23:00,mudslide,downpour,small,above_road,0,0,US,New Jersey,1849,-73.8992,40.949,9.3,93,22.3
+04-10-2016 17:00,landslide,tropical_cyclone,large,natural_slope,27,0,CN,Zhejiang,0,119.3033,28.7835,19,88,1.5
+21-06-2016 09:00,landslide,downpour,small,above_road,0,0,IN,Maharashtra,100000,73.009,19.19,30.5,79,11.6
+26-07-2016 00:00,landslide,tropical_cyclone,medium,above_road,0,0,US,Hawaii,2040,-157.7894,21.3681,29,67,9.6
+13-06-2015 00:00,landslide,downpour,medium,urban,1,5,TH,Phuket,14797,98.2997,7.8784,25.9,91,6.6
+27-02-2014 00:00,landslide,downpour,medium,above_road,0,0,US,Utah,6051,-111.9381,41.1272,13.9,48,5.4
+12-06-2015 11:15,landslide,downpour,small,above_road,0,2,IN,Maharashtra,20000,72.8406,19.1209,32.2,71,12.3
+30-07-2015 23:00,landslide,monsoon,medium,above_road,0,0,NP,Western Region,23296,83.6118,28.2635,22.2,97,0.8
+15-10-2015 00:00,debris_flow,downpour,medium,above_road,0,0,US,California,8656,-118.4825,35.1792,26.8,29,5.9
+19-01-2015 00:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Bicol,4089,124.2714,13.8383,,,
+14-01-2014 00:00,landslide,downpour,large,above_road,8,1,ID,North Sulawesi,0,124.8238,1.3801,23,87,9.4
+22-07-2014 05:30,landslide,rain,small,above_road,0,0,IN,Kashmir,7317,75.2406,33.2395,31.4,67,6.4
+09-03-2014 00:00,landslide,continuous_rain,medium,urban,0,0,IT,Liguria,3841,8.4163,44.2136,8.6,83,7.6
+27-11-2015 00:00,rock_fall,rain,small,natural_slope,1,1,IT,Molise,669,14.5982,41.6507,7.3,95,16.5
+22-02-2016 00:00,rock_fall,rain,small,above_road,0,0,US,West Virginia,2406,-81.4261,37.4082,11,93,7.4
+27-04-2014 00:00,landslide,continuous_rain,small,above_road,0,0,GB,England,6166,-1.2786,50.766,10,87,20.8
+08-08-2015 00:00,landslide,downpour,medium,above_road,0,0,IN,Kashmir,80447,75.1994,32.9961,25.4,96,1.6
+08-03-2014 00:00,mudslide,downpour,medium,above_road,0,0,US,Washington,89306,-122.3217,47.3473,13.6,60,5.7
+08-11-2014 14:00,landslide,rain,small,natural_slope,0,0,CA,British Columbia,4738,-121.7407,49.1797,4.3,97,2.6
+29-12-2015 00:00,mudslide,rain,small,other,0,0,US,Arkansas,2648,-93.9131,35.8736,-0.3,87,16.8
+07-02-2015 18:00,mudslide,rain,medium,above_road,0,0,US,Washington,20254,-122.315,47.9196,10.1,88,20.1
+06-07-2016 00:00,mudslide,downpour,medium,above_road,0,0,CN,Sichuan,100000,101.44,30.0694,10.4,98,4.8
+27-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,BD,Chittagong,3920222,91.8295,22.3513,24.4,96,22.5
+23-02-2016 00:00,landslide,rain,small,above_road,0,0,US,West Virginia,2406,-81.4268,37.4096,8.1,84,13.7
+09-08-2015 00:00,rock_fall,rain,small,above_road,0,0,IN,Himachal Pradesh,19280,76.5102,31.6916,23.7,95,3.3
+03-08-2014 16:03,landslide,earthquake,medium,natural_slope,55,0,CN,Yunnan,0,103.4086,27.0409,20.5,84,4.7
+10-06-2015 23:00,landslide,rain,small,deforested_slope,0,38,NI,Ogun State,6315,-84.6701,13.9719,22.8,98,6.8
+07-07-2016 00:00,mudslide,rain,medium,above_road,0,0,US,Maine,2488,-68.9434,47.1496,17.4,90,3.9
+08-03-2015 00:00,landslide,downpour,small,above_road,0,0,GB,Scotland,1500,-5.0937,57.147,8.3,95,17.9
+05-03-2014 13:53,landslide,downpour,large,above_road,0,0,NZ,Canterbury,363926,172.7072,-43.6069,,,
+05-03-2015 00:00,mudslide,snowfall_snowmelt,medium,above_river,0,0,US,West Virginia,4028,-81.7334,38.5312,3.6,92,11.1
+16-07-2015 00:00,landslide,monsoon,medium,above_road,0,0,NP,Central Region,1600,85.8888,27.7768,23.7,94,3.3
+29-12-2015 00:00,complex,construction,medium,above_road,0,0,IN,Himachal Pradesh,19540,76.86927482,31.46626719,5.6,92,4.7
+07-12-2015 00:00,landslide,rain,medium,above_road,0,0,IN,Tamil Nadu,35021,77.4767,10.2288,13.8,95,6
+18-12-2015 00:00,landslide,rain,medium,above_road,1,0,US,Oregon,8466,-124.0743,44.0434,13.3,93,34.4
+29-06-2015 00:00,landslide,earthquake,medium,natural_slope,0,0,NP,Central Region,27602,85.4416,27.4916,20.4,89,2.9
+16-07-2015 15:00,mudslide,snowfall_snowmelt,medium,natural_slope,0,0,TJ,Gorno-Badakhshan,30000,71.7041,37.5773,18.6,83,2.9
+29-06-2016 00:00,landslide,downpour,medium,above_road,0,2,PK,Khyber Pakhtunkhwa,0,71.8631,34.7414,28.7,57,3.6
+22-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Manipur,92113,93.8794,25.5098,18.6,97,2.8
+27-09-2015 00:00,landslide,rain,medium,urban,0,0,GT,Guatemala,994938,-90.4956,14.6217,19,93,3.8
+27-07-2015 09:30,mudslide,mining,small,urban,2,0,IN,Kerala,62836,75.4856,11.8348,28.3,81,12.5
+09-05-2014 00:00,landslide,downpour,small,below_road,0,0,PA,Colón,1232,-79.7478,9.2924,25.4,89,0.7
+16-10-2015 00:00,mudslide,flooding,large,above_road,0,0,US,California,1027,-118.4041,34.6685,20.9,63,4.3
+27-09-2015 00:00,landslide,rain,medium,urban,0,0,GT,Guatemala,994938,-90.4792,14.6317,18.9,92,3.5
+30-03-2015 09:00,landslide,mining,medium,mine,9,2,MM,Kachin,90894,96.2907,25.6115,33.2,43,3.3
+28-03-2015 00:00,landslide,snowfall_snowmelt,medium,above_road,0,0,BG,Sofiya,2802,24.0725,41.6432,5.3,95,3.9
+16-10-2016 00:00,rock_fall,tropical_cyclone,medium,above_road,0,0,PH,Cordillera,0,120.6153,16.3103,23.1,95,4.9
+10-02-2015 15:00,mudslide,rain,medium,above_road,0,0,US,Washington,53007,-122.3813,47.7518,10.3,94,14.6
+22-05-2016 00:00,landslide,earthquake,medium,above_road,0,0,TW,Taiwan,0,120.7253,22.741,23.3,90,3.6
+10-08-2015 17:20,landslide,rain,small,above_road,0,0,NZ,Wellington,3642,174.7533,-41.2865,5.2,85,26.2
+11-06-2016 15:00,landslide,downpour,medium,below_road,0,0,GB,England,14351,-2.0828,53.3599,17.3,89,8.2
+09-05-2015 00:00,landslide,downpour,medium,above_road,0,0,CO,Antioquia,4811,-76.4089,7.1107,27.9,83,3.3
+23-07-2016 23:00,rock_fall,downpour,medium,above_road,0,0,IN,Andhra Pradesh,24142,78.8743,16.0781,24.4,87,9.2
+12-07-2015 15:00,landslide,continuous_rain,small,mine,1,4,PH,Cordillera,28407,120.6757,16.3603,22.7,92,2.6
+02-06-2015 07:30,rock_fall,downpour,small,natural_slope,0,0,US,New Jersey,146199,-74.1772,40.9213,11.3,91,15
+05-08-2016 00:00,mudslide,tropical_cyclone,medium,deforested_slope,3,1,MX,Veracruz,4193,-97.1119,19.0669,21.3,74,8.7
+23-09-2015 15:00,landslide,downpour,medium,natural_slope,2,1,IN,Meghalaya,132842,91.893,25.583,19.5,96,3.9
+21-12-2015 09:00,landslide,rain,small,above_road,0,0,US,Oregon,8466,-124.0874,44.1705,8.1,88,34.4
+03-07-2015 23:00,landslide,continuous_rain,small,above_road,0,0,NP,Western Region,0,84.6634,28.1046,24.4,95,2.6
+15-03-2015 20:00,landslide,downpour,small,above_road,0,0,US,Washington,22699,-122.2425,47.5935,9.4,95,15.8
+21-05-2014 00:00,other,rain,small,bluff,0,0,US,Illinois,5405,-87.8107,42.2261,24,65,4.1
+14-12-2015 23:00,mudslide,continuous_rain,medium,natural_slope,0,0,US,Washington,19355,-122.4371,45.6028,5.4,85,5.4
+08-12-2015 00:00,mudslide,rain,small,above_road,0,1,US,Washington,2344,-122.8382,46.0472,15.1,89,12.9
+06-12-2014 00:00,landslide,continuous_rain,small,above_road,0,0,US,Ohio,49138,-82.4247,38.4832,12.4,94,11.9
+15-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Uttarakhand,17123,78.616,30.7864,20.6,94,3.7
+19-10-2016 00:00,landslide,rain,medium,below_road,0,0,PG,Chimbu,9383,144.9513,-6.0356,21.2,77,1.9
+12-12-2014 09:00,debris_flow,downpour,small,burned_area,0,0,US,California,50073,-117.8632,34.154,14.5,88,14.8
+30-04-2014 16:00,landslide,downpour,medium,retaining_wall,0,0,US,Maryland,620961,-76.6163,39.3194,13.3,94,25.5
+19-12-2015 00:00,landslide,continuous_rain,medium,natural_slope,0,0,MY,Sabah,73653,115.2202,5.3149,26.1,88,4.8
+19-07-2014 05:00,landslide,rain,small,above_road,0,0,IN,Uttarakhand,25753,78.0803,30.4305,22.2,85,3.4
+27-09-2015 00:00,landslide,rain,medium,urban,0,0,GT,Guatemala,994938,-90.5025,14.6297,18.9,92,3.5
+20-01-2014 04:00,landslide,downpour,large,above_river,1,225,PE,Huancavelica,41576,-75.0369,-12.432,6.6,89,1
+16-02-2015 00:00,landslide,flooding,small,below_road,0,0,CA,British Columbia,16205,-119.3135,50.6756,8,61,2.3
+11-11-2015 00:00,landslide,downpour,medium,above_road,0,0,MY,Pahang,12346,101.854,3.3694,23.1,98,3.7
+24-01-2014 18:00,mudslide,downpour,large,above_road,3,0,AR,Catamarca,1083,-65.8667,-28.2167,13.7,94,4.6
+30-12-2014 17:30,landslide,rain,medium,deforested_slope,1,0,MY,Pahang,7000,101.3882,4.5791,15.9,96,4.5
+22-04-2016 02:30,landslide,continuous_rain,medium,above_road,17,0,IN,Arunachal Pradesh,4831,91.8569,27.5799,10.7,90,2.6
+07-08-2016 00:00,debris_flow,rain,medium,above_road,0,0,US,Colorado,16887,-107.8385,37.4198,21.9,52,7.6
+13-03-2016 00:00,rock_fall,no_apparent_trigger,small,natural_slope,0,0,US,New York,754,-73.7605,44.1504,8,34,14.8
+14-04-2015 23:00,mudslide,downpour,medium,above_road,0,0,US,Kentucky,6903,-82.4931,37.4038,14.1,88,12.8
+13-05-2015 00:00,landslide,construction,medium,urban,0,0,MX,Guerrero,652136,-99.9452,16.8989,30.7,61,6.4
+16-07-2016 23:00,landslide,downpour,medium,above_road,0,0,PK,Khyber Pakhtunkhwa,14047,73.3569,34.5554,23.4,81,2.5
+15-01-2016 17:00,rock_fall,rain,small,above_road,0,0,US,California,13022,-121.0257,38.9226,7.6,87,6.3
+01-05-2014 02:15,landslide,rain,small,retaining_wall,0,0,US,New York,4995,-73.6527,40.8478,10.9,92,20.1
+16-04-2014 00:00,mudslide,rain,small,above_road,0,0,CA,Nova Scotia,5571,-61.0951,46.3428,13.2,91,24.2
+10-04-2015 00:00,landslide,continuous_rain,small,above_road,0,0,US,West Virginia,13175,-81.9246,38.4803,21.9,82,12.3
+05-11-2014 00:00,mudslide,downpour,medium,above_road,0,0,FR,Rhône-Alpes,18198,4.736,45.5799,8.2,90,2.6
+26-12-2014 00:00,landslide,downpour,medium,above_road,0,0,ID,West Java,91845,106.981,-6.7022,27,88,4.7
+10-10-2016 23:00,landslide,monsoon,medium,urban,0,2,PH,Cordillera,272714,120.5832,16.419,18.4,93,5.4
+16-07-2016 15:00,landslide,construction,small,above_road,0,0,IN,Karnataka,417387,74.8859,12.8962,26.4,89,4.4
+03-09-2015 14:00,landslide,no_apparent_trigger,medium,above_road,0,0,US,Utah,38753,-111.9272,40.5241,23.6,33,19
+10-08-2014 18:44,mudslide,downpour,small,above_road,0,0,US,Colorado,5236,-105.9315,38.4998,22.9,41,6.1
+21-11-2015 00:00,landslide,rain,medium,above_road,0,0,ID,North Sumatra,44765,98.5297,3.2231,18.5,96,2.6
+12-12-2014 09:00,debris_flow,downpour,small,burned_area,0,0,US,California,50073,-117.8392,34.1607,14.2,88,14.8
+16-12-2014 00:00,mudslide,downpour,medium,urban,0,0,JP,Gifu,66636,137.2532,36.1444,1.5,77,13.7
+20-10-2014 00:00,landslide,rain,small,natural_slope,6,0,GT,Sololá,9986,-91.1836,14.7836,14.6,89,1.9
+28-12-1998 00:00,earth_flow,downpour,small,above_road,0,0,US,Oregon,1661,-123.602,45.2398,9.8,98,29.3
+02-05-2015 00:00,landslide,downpour,small,above_road,0,0,FR,Rhône-Alpes,10614,6.8971,45.9291,4.8,97,6.2
+27-07-2014 00:00,mudslide,rain,small,above_road,0,0,RU,Krasnodarskiy,4020,40.298,43.6698,21.4,91,4.8
+23-06-2016 23:00,mudslide,downpour,medium,above_road,0,0,GE,Ingushetiya,1174,44.6302,42.7277,13,95,5.2
+19-04-2015 00:00,landslide,continuous_rain,small,natural_slope,0,0,MY,Sarawak,26199,114.937,4.6366,25.6,92,3.3
+05-09-2013 23:00,debris_flow,rain,large,above_road,0,0,US,Washington,1347,-120.7111,48.5035,17.2,82,4.7
+13-08-2014 19:00,mudslide,rain,small,above_road,0,0,US,Idaho,485,-115.7367,43.8807,18.1,81,6.7
+17-12-2014 02:00,debris_flow,downpour,medium,burned_area,0,0,US,California,152374,-117.6825,33.8688,13.5,87,6
+24-03-2015 00:00,landslide,rain,small,above_road,0,0,US,Oregon,1045,-122.7348,44.0772,9.2,87,15.5
+05-07-2016 00:00,landslide,construction,medium,above_road,3,3,NP,Western Region,0,84.9671,28.298,12.2,97,0.8
+27-09-2015 00:00,landslide,rain,medium,urban,0,0,GT,Guatemala,994938,-90.5065,14.6281,18.8,93,4.8
+30-12-2014 09:00,landslide,tropical_cyclone,medium,above_road,22,19,PH,Eastern Visayas,2350,124.8761,11.7841,26.4,92,10.4
+27-05-2016 15:30,mudslide,downpour,medium,above_road,5,1,KG,Batken,0,69.8266,39.8751,20.4,54,7.4
+06-03-2015 00:00,landslide,rain,medium,above_road,1,0,BA,Federation of Bosnia and Herzegovina,164423,18.024,44.2613,-0.8,94,10.9
+27-04-2015 00:00,landslide,downpour,medium,urban,7,0,BR,Bahia,2711840,-38.4837,-12.9828,24.5,94,9.4
+20-07-2016 14:30,mudslide,downpour,medium,above_road,0,0,US,Colorado,1320,-108.0511,38.0131,17.2,77,3.1
+29-09-2015 00:00,landslide,downpour,small,natural_slope,0,0,US,Hawaii,13408,-157.8939,21.3996,27,54,24.3
+11-07-2015 02:00,landslide,continuous_rain,small,below_road,0,0,US,Missouri,17916,-91.3708,39.7281,24,70,7.2
+21-12-2015 09:00,landslide,rain,medium,above_road,0,0,US,Oregon,8466,-124.0097,44.1646,7.7,88,34.4
+14-07-2016 00:00,landslide,monsoon,small,natural_slope,1,0,IN,Assam,899094,91.7702,26.1768,28.7,88,6.9
+02-05-2015 00:00,debris_flow,rain,large,natural_slope,0,0,NI,Masaya,2111,-86.06,11.9013,26.8,90,6.6
+02-09-2015 00:00,landslide,rain,medium,below_road,0,0,GB,Scotland,1132,-3.4067,57.5051,9.1,93,15.6
+18-04-2013 00:00,landslide,rain,small,urban,0,0,US,Illinois,23402,-89.5569,40.6549,14.1,95,18.8
+06-03-2014 09:00,mudslide,continuous_rain,large,above_road,0,0,GB,Scotland,1296,-4.8565,56.2264,7.3,88,10.5
+07-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Sikkim,43000,88.4397,27.0816,27.3,87,6.5
+09-12-2015 00:00,unknown,rain,medium,above_road,0,0,US,Washington,13065,-122.1839,47.7124,12.3,91,20.9
+13-07-2014 00:00,landslide,rain,small,above_road,0,0,CH,Fribourg,2133,7.289,46.8769,15.4,94,3.5
+22-10-2015 02:30,landslide,downpour,medium,above_road,0,0,PH,Autonomous Region in Muslim Mindanao,8558,123.0608,7.7364,27.8,81,15.6
+21-04-2015 23:00,landslide,tropical_cyclone,small,other,0,0,TH,Prachuap Khiri Khan,19709,100.0092,12.1984,27.7,81,7.6
+05-10-2015 00:00,landslide,mining,medium,mine,1,5,TZ,Shinyanga,36014,32.4382,-3.7974,23.4,48,14
+09-03-2015 15:00,landslide,rain,medium,below_road,0,0,US,Kentucky,2672,-86.9225,37.4774,8.3,78,4.6
+15-07-2014 16:30,mudslide,rain,medium,above_road,0,0,US,Colorado,5236,-106.0795,38.5064,18.1,57,7.2
+08-10-2013 00:00,landslide,mining,medium,mine,6,5,SD,Khartoum State,1200000,32.4165,15.6909,26.6,21,20.8
+12-12-2014 09:00,debris_flow,downpour,small,burned_area,0,0,US,California,50073,-117.8708,34.1548,14.2,88,14.8
+29-08-2015 00:00,landslide,rain,medium,above_road,0,0,US,Oregon,2695,-122.3327,45.2824,25.6,47,4.1
+10-12-2014 00:00,rock_fall,downpour,medium,above_road,0,0,US,Oregon,4561,-123.5991,44.137,13.1,93,7.5
+12-07-2015 02:00,landslide,continuous_rain,medium,natural_slope,0,0,SB,Western Province,6154,158.1908,-8.8189,,,
+06-05-2014 23:00,landslide,downpour,small,below_road,0,0,NG,Ondo,8611,4.7797,6.5014,25.3,96,1.6
+19-06-2015 00:00,landslide,monsoon,medium,above_road,0,0,IN,Manipur,223523,93.686,25.16,23,92,2.2
+23-07-2014 23:30,landslide,continuous_rain,small,above_road,2,0,IN,Uttarakhand,23900,79.1464,29.1585,26.7,91,16.2
+07-08-2016 00:00,landslide,construction,medium,mine,0,0,LK,Central,15073,80.4562,6.9793,25.1,83,6.9
+24-11-2015 00:00,landslide,rain,small,retaining_wall,0,0,GT,Guatemala,122194,-90.5312,14.4758,21.9,70,6.4
+23-06-2016 08:00,landslide,downpour,small,above_road,0,0,JP,Hiroshima,1143841,132.6337,34.4359,25.4,75,11.8
+21-04-2015 23:00,landslide,tropical_cyclone,small,other,0,0,TH,Prachuap Khiri Khan,19709,100.0092,12.1984,27.7,81,7.6
+09-12-2015 00:00,mudslide,flooding,medium,above_road,0,0,US,Oregon,1787,-123.011,45.8346,13.7,93,17.7
+29-04-2011 12:00,landslide,rain,medium,above_road,0,1,EC,Pichincha,1399814,-78.5061,-0.2633,12.7,82,6.2
+23-07-2014 08:30,rock_fall,continuous_rain,small,above_road,0,0,US,California,6037,-118.5968,34.0401,20.3,80,8.3
+19-11-2015 09:00,landslide,no_apparent_trigger,medium,above_road,0,0,US,California,3342,-118.4492,34.4751,11.8,35,11.8
+11-12-2014 09:00,mudslide,downpour,small,above_road,0,0,US,California,1294,-122.6062,38.8843,13.4,95,17.4
+05-03-2014 09:00,landslide,downpour,large,above_road,0,0,US,Washington,6606,-122.263,47.2586,9.3,92,6.6
+07-11-2015 06:00,mudslide,downpour,medium,urban,4,1,NG,Lagos,313196,3.3713,6.6149,24.4,92,8.4
+08-04-2014 04:00,landslide,rain,medium,above_road,0,0,US,Pennsylvania,305704,-80.0176,40.4381,8.9,91,14.8
+13-04-2016 23:00,landslide,rain,medium,above_road,0,0,EC,Chimborazo,14294,-79.023,-2.1162,16.9,96,0.4
+08-03-2014 00:00,mudslide,downpour,medium,above_road,0,0,US,Washington,1191,-121.3942,46.6368,5.2,64,1.6
+19-12-2015 00:00,landslide,continuous_rain,medium,natural_slope,0,0,MY,Sabah,73653,115.2203,5.3149,26.1,88,4.8
+22-08-2015 09:00,landslide,continuous_rain,medium,above_road,0,0,IN,Assam,2000,91.8806,26.1028,30.8,80,11.3
+12-09-2014 00:00,landslide,rain,small,above_road,0,0,PA,Chiriquí,11245,-82.6342,8.7636,16.6,97,1.1
+13-08-2015 09:20,landslide,rain,medium,above_road,0,0,NZ,Manawatu-Wanganui,40268,175.3072,-39.9001,7.5,76,9.6
+06-10-2015 00:00,rock_fall,continuous_rain,unknown,above_road,0,0,US,Hawaii,1789,-155.2371,19.9852,28.5,89,10.7
+20-12-2014 11:30,landslide,rain,medium,urban,0,0,GT,Guatemala,994938,-90.5164,14.664,13,85,2.9
+16-10-2003 00:00,landslide,construction,medium,deforested_slope,0,0,IE,Connaught,2644,-8.6064,53.0532,7,88,11.2
+03-12-2014 00:00,mudslide,rain,small,above_road,0,0,US,California,2593,-116.8526,32.7862,18.3,64,10.6
+14-07-2014 00:00,landslide,continuous_rain,small,above_road,0,0,CN,Guizhou Sheng,466292,106.9277,27.7218,22.6,95,4.8
+19-05-2015 00:00,landslide,continuous_rain,medium,below_road,0,0,US,Colorado,3582,-105.0948,38.5526,7.1,86,12.6
+14-07-2015 00:00,landslide,continuous_rain,small,other,3,0,IN,Karnataka,37619,74.9566,12.8747,26.2,89,6.6
+28-04-2016 00:00,landslide,rain,medium,mine,3,3,ID,Bengkulu,0,102.2787,-3.2342,23.5,90,3.6
+26-03-2016 00:00,landslide,continuous_rain,medium,above_road,5,5,IN,Kashmir,12802,75.29048614,33.04965334,11.1,81,7.1
+16-02-2015 00:00,mudslide,rain,small,above_road,0,0,CA,British Columbia,2732,-119.0225,50.7401,8,61,2.3
+13-04-2016 00:00,debris_flow,downpour,large,above_road,1,32,SA,Jizan,105198,42.5584,16.9045,26.8,95,25.8
+31-07-2015 18:00,debris_flow,continuous_rain,medium,deforested_slope,0,0,IN,Himachal Pradesh,19540,76.3374,32.2241,21.1,91,2.3
+13-12-2015 00:00,landslide,rain,small,below_road,0,0,US,Washington,2099,-122.4974,47.8146,6.8,88,30
+20-04-2015 00:00,landslide,rain,large,natural_slope,0,0,LK,Uva,4721,80.9568,6.7374,21.7,94,2.5
+24-05-2015 00:00,landslide,downpour,medium,above_road,6,12,KG,Jalal-Abad,0,72.9053,40.8986,13,77,5.4
+17-02-2014 09:00,mudslide,continuous_rain,medium,above_road,0,0,US,Washington,3014,-122.2608,47.2733,7.3,91,13.7
+25-09-2016 23:00,landslide,downpour,medium,urban,0,0,GE,Ajaria,18600,41.7862,41.8089,10.9,87,1.8
+13-11-2015 00:00,landslide,rain,large,natural_slope,0,0,US,Washington,30434,-122.073,47.5328,8.2,86,16.6
+18-06-2014 09:00,mudslide,downpour,small,above_road,0,0,US,Minnesota,13394,-94.0453,44.1208,20.9,94,6.3
+29-06-2015 15:00,mudslide,downpour,small,above_road,0,0,US,Washington,1112,-120.1688,47.6358,25.6,40,8.2
+18-03-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,EC,Azuay,276964,-79.0892,-2.866,20.6,96,1.4
+16-04-2016 00:00,other,earthquake,medium,above_river,0,0,JP,Kumamoto,29820,130.9837,32.8747,17.8,47,5.4
+27-08-2015 00:00,landslide,downpour,medium,above_road,0,0,IN,Mizoram,11043,92.6724,24.042,23.3,97,2.2
+17-07-2015 00:00,landslide,mining,medium,mine,9,0,PH,Western Visayas,5470,121.3712,12.1009,,,
+05-03-2015 05:00,mudslide,rain,medium,mine,0,0,US,Kentucky,2139,-82.834,37.1306,1.6,95,13
+16-04-2016 09:00,landslide,earthquake,large,natural_slope,1,0,JP,Kumamoto,27978,130.9814,32.8869,15,69,17.6
+18-03-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,EC,Loja,18565,-79.4069,-4.138,15.9,92,5
+16-05-2014 00:00,mudslide,rain,small,above_road,0,0,CA,British Columbia,4038,-117.5212,51.2995,11.6,52,3.3
+17-03-2015 00:00,landslide,snowfall_snowmelt,medium,above_road,0,0,BG,Sofiya,3102,22.6773,42.8595,1,91,7.6
+12-05-2016 00:00,rock_fall,rain,small,above_road,0,0,US,Colorado,12088,-106.8302,40.4673,7.4,52,9.8
+26-12-2014 00:00,mudslide,downpour,medium,deforested_slope,6,0,LK,Uva,47587,81.0567,6.99,19.8,95,7.2
+21-01-2016 09:00,mudslide,downpour,small,above_road,0,0,US,Washington,23025,-122.4998,47.6024,7.1,91,0.8
+17-06-2015 23:00,landslide,continuous_rain,large,natural_slope,6,21,CN,Guizhou Sheng,0,104.5767,27.0988,16,96,6.7
+27-09-2014 00:00,mudslide,rain,small,burned_area,0,0,US,California,6871,-120.5737,38.7763,17.8,46,5.9
+08-03-2016 00:00,landslide,construction,medium,mine,5,3,MA,Tanger-Tétouan,36280,-5.2709,35.1681,6.2,86,6.1
+18-08-2015 10:00,landslide,continuous_rain,medium,natural_slope,3,0,US,Alaska,8881,-135.3618483,57.08067616,14.2,96,21.9
+24-02-2016 23:00,rock_fall,rain,small,above_road,0,0,US,Pennsylvania,5951,-80.083,40.4377,11.5,90,7.7
+21-11-2014 03:23,landslide,rain,small,above_road,0,0,US,California,44199,-116.9762,33.8256,14.6,79,4.9
+07-07-2016 00:00,landslide,continuous_rain,very_large,above_road,0,0,US,West Virginia,2444,-80.3442,37.8849,26.5,68,5
+04-02-2014 00:00,landslide,downpour,medium,above_road,1,0,ID,Central Java,1288084,110.4113,-7.0394,24.8,94,11.2
+12-09-2015 00:00,landslide,rain,medium,below_road,0,0,MX,Chiapas,6089,-92.4393,17.3112,24.4,79,4.6
+30-11-2014 00:00,other,rain,small,above_road,0,0,US,California,21723,-119.0604,34.0869,19.2,60,5.8
+13-07-2015 00:00,mudslide,continuous_rain,small,natural_slope,0,0,IN,Himachal Pradesh,173503,77.1665,31.0851,17.7,91,3.2
+04-01-2016 00:00,landslide,flooding,large,above_road,0,0,AU,New South Wales,4537,149.5523,-36.5818,11.2,96,19.4
+17-04-2016 00:00,riverbank_collapse,earthquake,medium,urban,0,0,EC,Manabí,170326,-80.4589,-1.0605,26.9,83,9.7
+15-02-2016 00:00,rock_fall,freeze_thaw,small,above_road,0,0,CA,British Columbia,6292,-119.7215,49.5867,8.1,80,6.4
+06-08-2014 19:20,mudslide,downpour,medium,above_road,0,0,US,California,11312,-119.7203,38.623,20.4,35,10.7
+16-05-2014 00:00,mudslide,rain,small,above_road,0,0,US,Virginia,7042,-79.5653,37.9425,17.6,98,6.7
+22-08-2015 19:00,landslide,rain,medium,above_road,12,0,VN,Hà Giang,0,105.5054,23.1781,24.7,81,1.4
+15-10-2016 00:00,landslide,rain,medium,above_road,0,0,IN,Sikkim,1147,88.3664,27.1695,16.9,88,0.5
+28-07-2014 16:00,mudslide,rain,small,above_road,0,0,US,Utah,5389,-111.769,39.7153,27.1,28,2.9
+04-03-2015 00:00,mudslide,rain,small,above_road,0,0,US,West Virginia,1090,-81.8769,37.64,13.3,90,18.9
+11-12-2014 09:00,mudslide,downpour,small,above_road,0,0,US,California,2359,-122.6411,39.0163,13.9,97,19.2
+26-06-2016 19:00,mudslide,downpour,large,above_road,0,0,UA,Zakarpattia,3155,24.3898,48.0466,23.3,82,4.2
+06-03-2014 12:00,mudslide,continuous_rain,medium,above_road,0,0,US,Washington,1347,-121.7073,48.5191,10.6,92,13.9
+02-10-2015 00:00,mudslide,rain,small,above_road,0,0,US,North Carolina,7848,-82.2454,35.6542,16.9,89,8.2
+30-04-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Uttarakhand,13865,79.5541,30.5568,11.2,70,5.6
+06-06-2016 23:00,mudslide,snowfall_snowmelt,large,above_road,0,0,CN,Xinjiang Uyghur Autonomous Region,0,84.8662,44.2773,20.2,55,11
+17-09-2014 00:00,rock_fall,tropical_cyclone,medium,above_road,0,0,PH,Central Visayas,798634,123.8418,10.4203,23.3,86,9.8
+20-04-2015 00:00,landslide,continuous_rain,small,above_river,0,0,US,Mississippi,9486,-88.8807,30.4273,26,71,12.6
+26-12-2012 03:00,landslide,continuous_rain,medium,below_road,0,0,MY,Terengganu,21044,103.2174,4.2664,26.6,87,9.8
+15-12-2015 23:00,landslide,downpour,medium,natural_slope,0,0,US,Washington,2344,-122.8422,46.01,3.3,93,7.3
+18-08-2014 00:00,mudslide,downpour,small,deforested_slope,0,0,US,Kentucky,777,-82.9591,37.3344,23.2,91,6.6
+11-09-2014 23:00,landslide,rain,medium,above_river,0,0,PK,Gilgit-Baltistan,0,74.6006,36.2665,8.9,100,2.3
+06-02-2015 00:00,landslide,snowfall_snowmelt,small,above_road,0,0,BG,Sofiya,6729,23.2216,41.9288,5.1,77,7.5
+01-10-2016 00:00,landslide,earthquake,medium,urban,0,0,PK,Khyber Pakhtunkhwa,14047,73.3455,34.5474,19.7,85,4.3
+15-07-2015 08:00,landslide,monsoon,medium,urban,3,0,IN,Arunachal Pradesh,7121,93.0385,27.36,27,94,2.9
+16-09-2013 15:30,mudslide,tropical_cyclone,medium,deforested_slope,71,4,MX,Guerrero,21407,-100.1681,17.3461,19.6,99,1.9
+27-07-2014 09:00,landslide,rain,small,above_road,0,0,NP,Mid Western,31381,81.6309,28.6881,19.6,90,4.6
+13-06-2015 00:00,rock_fall,earthquake,small,natural_slope,0,0,NP,Central Region,1442271,85.3867,27.7786,17,92,3.2
+03-03-2016 00:00,landslide,flooding,small,natural_slope,0,0,PH,Mimaropa,29356,121.8982,13.9791,25.8,85,23.4
+20-06-2016 16:50,mudslide,downpour,medium,above_road,0,0,US,Colorado,9038,-105.4724,39.4078,22.5,40,11.3
+25-02-2015 00:00,landslide,snowfall_snowmelt,medium,above_road,0,0,PK,Khyber Pakhtunkhwa,0,71.7095,35.7275,2.4,94,1.1
+11-05-2016 00:00,landslide,downpour,small,above_road,0,0,GB,England,6776,-2.1649,51.719,14.7,97,9.6
+02-06-2016 00:00,mudslide,downpour,large,mine,0,0,US,Kentucky,6903,-82.4423,37.577,26.6,67,5.1
+13-10-2014 16:30,landslide,rain,small,above_road,0,0,US,Alaska,8050,-131.72,55.4021,7.9,92,9.7
+22-01-2016 00:00,landslide,continuous_rain,small,above_road,0,0,US,California,4057,-122.0736,37.0538,13.1,87,6.9
+18-02-2015 19:35,mudslide,downpour,medium,above_road,0,0,MY,Perak,217647,100.7599,4.849,23.6,92,3.4
+04-11-2015 00:00,other,rain,small,retaining_wall,0,1,SV,La Libertad,124694,-89.3625,13.7147,25.7,80,5.2
+17-11-2014 13:00,landslide,continuous_rain,small,urban,0,0,TW,Taipei,397515,121.6729,25.0661,18.9,81,35.8
+19-12-2015 00:00,landslide,tropical_cyclone,medium,natural_slope,0,0,PH,Mimaropa,3448,121.0985,14.0995,24.7,94,16.7
+29-01-2015 09:00,landslide,rain,medium,urban,8,0,MG,Analamanga,1391433,47.4708,-18.8468,28.9,53,2.3
+10-07-2015 00:00,mudslide,continuous_rain,small,other,0,0,US,Missouri,12790,-92.1242,38.8999,23.6,72,3
+14-11-2015 00:00,mudslide,rain,medium,above_road,0,0,US,Washington,8199,-122.6066,47.1017,13.3,90,19.6
+17-10-2016 07:00,mudslide,construction,medium,mine,1,3,IN,Telangana,225816,78.4606,17.4655,28.9,40,13
+15-12-2006 23:00,landslide,downpour,medium,above_road,0,0,US,Washington,608660,-122.3232,47.6325,6.3,59,3.2
+14-07-2015 02:00,mudslide,downpour,small,above_road,0,0,US,Ohio,1551,-82.4948,38.9643,20.4,88,10.2
+14-03-2016 00:00,landslide,rain,small,below_road,0,0,US,California,4534,-123.0953,38.5582,13.7,98,21.3
+07-01-2016 09:00,rock_fall,freeze_thaw,medium,above_road,0,0,US,California,1035,-119.7372,37.6769,3.9,93,5.6
+07-03-2014 00:00,landslide,continuous_rain,medium,above_road,0,0,US,Washington,2137,-122.3909,47.2813,11.8,75,22.6
+18-11-2014 00:50,landslide,rain,medium,above_road,0,0,MY,Pahang,12346,101.7863,3.414,15.7,90,4.5
+20-05-2015 09:00,landslide,continuous_rain,small,urban,1,1,BR,Bahia,2711840,-38.5147,-12.9774,22.5,94,6.8
+07-08-2016 00:00,landslide,tropical_cyclone,medium,above_road,0,0,MX,Veracruz,1217,-98.2908,20.839,24.5,91,4.6
+12-12-2014 09:00,debris_flow,downpour,small,burned_area,0,0,US,California,46361,-117.9058,34.1542,14.7,86,21.8
+15-07-2014 00:00,mudslide,downpour,small,above_road,0,0,US,California,575,-118.8782,38.2114,24.8,23,11.2
+10-10-2014 21:12,landslide,construction,medium,mine,19,2,CN,Shaanxi,0,109.4662,36.5419,12.9,81,14.4
+08-04-2014 16:00,landslide,rain,small,above_road,0,0,CA,Quebec,242124,-75.7628,45.49,2.4,94,11.8
+01-09-2015 11:30,landslide,downpour,medium,above_road,1,0,BD,Chittagong,253788,91.96737514,21.47819035,26.8,91,19.9
+02-06-2016 18:00,other,downpour,small,above_road,0,0,US,West Virginia,1848,-78.725,39.4143,27.1,66,8.9
+13-01-2014 09:00,landslide,snowfall_snowmelt,large,natural_slope,0,0,CA,Alberta,3907,-118.4484,52.882,-7.3,86,13
+16-06-2015 00:00,rock_fall,downpour,small,above_road,1,0,IN,Meghalaya,63645,90.2191,25.5084,24.7,95,5.8
+04-11-2014 00:00,landslide,mining,small,above_road,0,0,US,Massachusetts,11547,-71.3563,41.9244,7.6,46,13.5
+18-06-2015 00:00,landslide,monsoon,medium,above_road,1,0,NP,Western Region,200000,83.8,28.2974,20.8,81,1.5
+13-01-2012 15:30,landslide,downpour,medium,urban,0,0,PH,Davao,51393,126.049799,7.817297945,24.7,96,7.7
+16-06-2016 23:00,mudslide,downpour,medium,above_road,0,0,KG,Jalal-Abad,23594,72.3179,41.4906,18.9,84,7.9
+04-02-2015 00:00,rock_fall,downpour,small,retaining_wall,0,0,IT,Campania,23902,14.482,40.7511,10,88,23.8
+15-05-2014 00:00,landslide,continuous_rain,medium,deforested_slope,0,0,BA,Federation of Bosnia and Herzegovina,5783,17.9303,44.3954,4.2,94,21.1
+24-07-2016 09:00,landslide,downpour,large,above_road,0,0,NP,Eastern Region,3250,87.0809,27.1979,19.8,94,4.9
+23-11-2015 00:00,rock_fall,earthquake,small,above_road,1,1,VE,Mérida,59092,-71.6598,8.6113,27.3,82,4.7
+09-12-2015 00:00,rock_fall,flooding,medium,above_road,0,0,US,Washington,1191,-121.1875,46.6437,8.1,85,7.6
+15-10-2014 00:00,landslide,mining,medium,above_road,2,3,IN,Himachal Pradesh,2467,77.0991,31.0164,10.1,92,4
+01-09-2016 00:00,unknown,downpour,medium,above_road,0,0,US,Arizona,1713,-110.5052,33.7946,32,25,11.4
+15-01-2016 15:00,rock_fall,rain,medium,above_road,0,0,US,California,6481,-121.7749,36.741,11.9,87,4
+12-04-2014 19:00,mudslide,rain,small,above_road,0,0,US,New York,3103,-73.7946,43.4825,12.9,36,15.9
+07-06-2016 23:00,landslide,rain,medium,natural_slope,0,5,NP,Central Region,1600,85.9149,27.8027,18.2,93,1.3
+21-06-2015 00:00,landslide,rain,small,above_road,0,0,IN,Uttarakhand,2130,78.6278,30.0261,26.4,78,4.3
+28-03-2016 09:00,landslide,downpour,small,above_road,0,0,US,Washington,20254,-122.3209,47.91,6.1,92,7
+27-05-2007 00:00,landslide,downpour,small,other,0,0,GB,England,8055,-1.1957,50.6297,10,88,10.1
+26-07-2016 23:00,landslide,downpour,medium,retaining_wall,0,0,IN,Nagaland,29499,94.5282,26.0101,17.6,99,0.4
+14-10-2014 00:00,landslide,downpour,small,deforested_slope,0,0,US,Tennessee,1832,-85.3435,34.9922,21,71,21.2
+06-02-2016 00:00,landslide,downpour,medium,above_road,0,0,GB,Wales,14924,-3.1998,51.8065,4.7,97,11.4
+27-10-2014 09:00,landslide,continuous_rain,small,below_road,0,0,MY,Sabah,71585,116.1896,5.9505,26.4,86,3.4
+06-04-2015 00:00,landslide,downpour,small,above_road,0,0,BG,Lovech,24582,25.1045,43.0359,7.5,94,1.5
+12-07-2016 00:00,landslide,mining,medium,mine,4,0,MM,Kachin,90894,96.3495,25.6566,25.8,99,3.3
+18-01-2015 00:00,landslide,downpour,medium,above_road,0,0,ID,North Sulawesi,0,123.0805,0.911,25.4,92,2.3
+27-07-2016 01:00,landslide,rain,medium,above_river,1,8,NP,Western Region,23296,83.6527,28.1855,23.7,88,3.3
+23-10-2014 00:00,landslide,downpour,small,above_road,0,0,MY,Kuala Lumpur,1453975,101.664,3.1073,23.6,98,3.1
+08-07-2015 00:00,landslide,rain,small,above_road,0,0,IN,Karnataka,24931,75.7797,12.9455,22.1,91,10.8
+29-12-2012 15:32,landslide,mining,medium,above_road,5,7,CO,Huila,9829,-75.0741,2.7664,19.1,62,7.4
+05-07-2010 00:00,landslide,downpour,medium,above_road,0,0,CN,Chongqing Shi,0,107.1969335,29.66239066,26.2,94,3.5
+28-02-2016 09:00,landslide,flooding,medium,urban,0,0,ID,West Java,800000,106.8011,-6.5895,29.6,78,4.8
+17-11-2010 10:30,landslide,downpour,small,above_road,0,1,US,Pennsylvania,2763,-76.7763,40.0988,12.6,79,18.4
+15-12-2015 00:00,rock_fall,rain,small,mine,1,0,HN,Choluteca,1199,-87.0329,13.2861,27.4,78,1.8
+01-11-2015 00:00,mudslide,dam_embankment_collapse,very_large,retaining_wall,17,50,BR,Minas Gerais,63678,-43.465,-20.3996,22.2,78,7.1
+23-06-2016 19:30,mudslide,downpour,medium,mine,0,0,IE,Connaught,2056,-9.8971,53.4795,13.1,87,18.9
+14-04-2015 00:00,mudslide,downpour,small,above_road,0,0,US,Kentucky,31364,-84.3976,37.8061,20.9,79,8.4
+29-06-2014 23:00,mudslide,rain,small,above_road,0,0,US,Iowa,126326,-91.6056,41.9738,28,71,20.9
+28-12-1998 00:00,earth_flow,downpour,small,above_road,0,0,US,Washington,6651,-122.612,47.2707,9.9,98,28.7
+22-06-2016 00:00,translational_slide,downpour,medium,natural_slope,0,0,PH,Central Visayas,2276,124.4238,9.8182,25.8,92,5.8
+18-07-2015 00:00,landslide,rain,small,above_road,0,0,SV,Santa Ana,10095,-89.4502,13.8464,27.3,64,3.4
+25-06-2015 00:00,landslide,monsoon,small,natural_slope,0,0,NP,Central Region,1442271,85.0852,28.172,16.4,85,3.5
+07-12-2015 00:00,landslide,flooding,medium,above_road,0,0,US,Oregon,6009,-122.7701,45.5287,11.9,72,19.4
+16-07-2016 23:00,landslide,downpour,medium,above_road,0,0,PK,Khyber Pakhtunkhwa,14047,73.3447,34.5255,23.5,81,2.5
+08-05-2016 05:00,landslide,downpour,medium,mine,34,0,CN,Fujian,0,117.1369,26.7197,24.4,88,7.3
+21-01-2013 14:00,complex,no_apparent_trigger,large,natural_slope,0,0,NZ,Canterbury,1187,170.1796,-43.5611,13.9,96,3.2
+20-06-2016 17:00,mudslide,downpour,medium,above_road,0,0,KG,Osh,0,73.5233,40.1293,15.2,72,5.8
+07-01-2016 00:00,mudslide,mining,medium,urban,0,0,ID,North Sulawesi,27624,124.8399,1.3257,23.6,87,3
+22-09-2014 14:30,lahar,snowfall_snowmelt,large,other,0,0,US,California,3394,-122.1911,41.3971,-2.9,78,6.7
+14-09-2015 03:10,landslide,downpour,large,above_road,0,0,IN,Mizoram,265331,92.7187,23.7348,23.6,85,2.9
+23-02-2014 00:00,mudslide,snowfall_snowmelt,medium,above_road,0,0,US,Kentucky,15273,-84.4995,39.1037,10.7,45,7.3
+09-12-2015 09:00,landslide,continuous_rain,medium,above_road,0,0,US,Oregon,4935,-123.8466,45.428,14.6,94,31.8
+25-06-2012 00:00,landslide,downpour,medium,above_road,0,0,CN,Jiangxi Sheng,0,114.9203,26.9929,26.6,89,13
+08-07-2015 18:00,mudslide,continuous_rain,small,above_road,0,0,US,Colorado,1293,-108.8895,39.2233,22.7,56,5.4
+08-02-2015 12:00,rock_fall,mining,small,mine,1,4,BD,Chittagong,32523,92.2217,22.202,24.8,56,7.4
+18-02-2014 09:00,landslide,continuous_rain,small,above_road,0,0,US,Washington,4354,-122.0506,47.1341,5.6,91,12.3
+07-11-2014 00:00,landslide,rain,medium,below_road,0,0,DO,Puerto Plata,4393,-70.963,19.9053,25.2,87,4
+11-06-2015 09:00,landslide,rain,small,urban,0,3,BD,Sylhet,237000,91.8771,24.9016,24.4,98,6.6
+06-09-2015 00:00,landslide,continuous_rain,medium,urban,0,0,HN,Copán,27753,-88.78,14.7691,20.7,95,4.4
+16-04-2016 00:00,other,earthquake,medium,above_river,0,0,JP,Kumamoto,27978,130.9915,32.8852,18,35,6.4
+12-08-2014 15:00,debris_flow,downpour,small,natural_slope,0,0,US,Colorado,2325,-107.8161,37.9424,16.7,46,6.2
+31-08-2016 00:00,rock_fall,rain,small,above_road,0,0,US,Hawaii,2156,-156.1603,20.857,,,
+27-09-2015 00:00,landslide,rain,medium,above_road,0,0,GT,Guatemala,473080,-90.6097,14.6167,18.3,92,2.1
+27-07-2015 02:00,landslide,continuous_rain,medium,natural_slope,5,0,BD,Chittagong,253788,92.2195,20.9383,25.4,94,31.1
+25-04-2015 00:00,landslide,earthquake,large,natural_slope,60,0,NP,Central Region,0,85.575,28.2064,-3.9,66,5.2
+26-06-2016 04:00,landslide,downpour,large,above_road,0,0,CN,Sichuan,0,103.1281,28.3516,18.3,85,3.2
+19-08-2015 09:00,landslide,continuous_rain,medium,above_road,0,0,IN,Meghalaya,79016,90.5549,25.2193,26.8,91,7
+15-07-2015 09:00,landslide,continuous_rain,small,above_road,0,0,PH,Ilocos,2283,120.4359,17.487,26.7,89,25.2
+01-12-2015 00:00,landslide,rain,medium,above_road,0,0,JM,Portland,14400,-76.4551,18.134,26,82,8.6
+12-08-2015 00:00,mudslide,rain,medium,above_road,0,0,VN,Lai Châu,0,103.6099,22.3256,24.4,96,2.7
+09-06-2016 00:00,landslide,rain,medium,above_road,0,0,AZ,Ab?eron,19019,49.3354,40.4985,16.2,79,10.1
+28-09-2016 00:00,landslide,downpour,medium,mine,0,0,ID,Bali,1785,115.1635,-8.8106,27.4,86,3.3
+01-05-2014 00:00,mudslide,rain,small,below_road,0,0,US,Maryland,1116,-76.6651,39.2902,17.4,94,15.7
+11-10-2015 00:00,snow_avalanche,snowfall_snowmelt,very_large,natural_slope,0,0,CA,Yukon,1148,-140.3188,61.0952,-24,90,2.1
+05-11-2014 18:00,landslide,rain,medium,natural_slope,2,0,CH,Ticino,882,8.8353,46.0155,9.8,84,6.1
+12-03-2014 00:00,mudslide,downpour,small,below_road,0,0,AU,New South Wales,8944,151.5824,-33.0644,23.8,66,5
+28-04-2015 15:00,rock_fall,earthquake,small,above_road,6,10,NP,Western Region,107157,84.4783,27.7908,19.4,81,4.7
+08-12-2015 00:00,landslide,downpour,medium,above_road,0,0,US,Washington,19909,-122.3288059,47.87110995,9.1,93,8.7
+08-03-2014 00:00,landslide,downpour,medium,below_road,0,0,GB,Wales,2031,-4.0989,52.9677,4,79,11.5
+15-06-2016 00:00,mudslide,downpour,large,above_river,0,0,CA,Alberta,5340,-117.2679,56.2246,18.5,53,6.6
+01-07-2015 00:00,landslide,downpour,medium,above_road,0,0,IN,West Bengal,46427,88.2807,26.8781,20,96,1.5
+15-08-2014 00:00,landslide,continuous_rain,medium,deforested_slope,2,7,NP,Western Region,0,84.6476,28.0081,19.7,98,3.3
+04-06-2016 07:15,landslide,downpour,medium,above_road,0,0,NP,Far Western,19014,80.6581,29.3038,25.7,80,6.1
+07-08-2016 00:00,other,mining,small,mine,1,1,US,Montana,2628,-115.5805,48.3163,27.7,31,2.9
+17-12-2015 23:00,landslide,rain,medium,above_road,0,0,ID,Bali,0,115.1005,-8.1262,27.4,88,2.3
+07-12-2015 09:00,landslide,rain,small,above_road,0,0,US,Oregon,6009,-122.741,45.5346,9.4,91,20.2
+20-06-2014 00:00,landslide,rain,small,above_road,0,0,TH,Ranong,24561,98.6076,9.9454,26.3,97,10.7
+15-03-2015 09:00,mudslide,downpour,small,urban,0,0,US,Oregon,583776,-122.7048,45.5271,11.2,97,9.8
+01-02-2016 00:00,landslide,rain,small,below_road,0,0,GB,England,1681,-1.9876,54.7369,9.7,94,29
+06-02-2015 00:00,mudslide,rain,small,above_road,0,0,US,Washington,1073,-118.7413,48.3164,6.8,93,5.2
+13-08-2015 00:00,landslide,downpour,medium,above_road,0,0,PH,Cordillera,0,121.048,17.1686,25,80,1.1
+02-10-2015 00:00,landslide,downpour,medium,natural_slope,2,0,IN,Andhra Pradesh,1063178,83.1993,17.6874,26.6,91,8.6
+15-08-2014 09:00,other,downpour,small,retaining_wall,0,0,TH,Phuket,14797,98.3075,7.8891,27.3,85,11.8
+07-09-2016 07:00,rock_fall,downpour,small,bluff,0,0,US,Minnesota,51320,-91.2725,43.6966,22.6,97,6.2
+05-02-2015 00:00,landslide,freeze_thaw,small,above_road,0,0,GB,England,19998,-5.0761,50.4167,2.9,75,17.6
+07-08-2016 03:00,landslide,continuous_rain,medium,above_road,0,0,IN,Kashmir,80447,75.0911,32.9041,24.8,95,8
+24-03-2015 00:00,debris_flow,downpour,medium,urban,8,25,PE,Lima,5800,-76.6853,-11.9233,4.4,94,1.1
+23-02-2015 09:00,rock_fall,snowfall_snowmelt,small,above_road,0,0,US,Kentucky,1416,-84.5448,36.7172,-0.7,77,15.1
+09-11-2015 08:30,landslide,downpour,medium,above_road,0,0,MY,Perak,27863,101.1821,4.1661,29.8,74,4.5
+01-04-2012 00:00,landslide,construction,small,above_river,0,0,US,Oregon,1444,-124.2237,43.3514,10.4,77,34.9
+01-06-2014 00:00,mudslide,downpour,medium,mine,0,0,US,Minnesota,60797,-93.4707,44.8533,23.6,78,13.6
+28-12-1998 00:00,debris_flow,downpour,small,above_road,0,0,US,Oregon,2025,-123.5669,45.223,8.3,99,28.8
+08-07-2016 00:00,landslide,downpour,medium,above_road,0,0,RS,Central Serbia,0,21.4743,42.9124,13.7,68,3.1
+19-01-1997 00:00,debris_flow,downpour,medium,above_road,0,0,US,Washington,2289,-122.6278,47.7888,9.9,82,16
+25-02-2015 00:00,landslide,rain,medium,other,0,0,CA,British Columbia,1706,-118.0732,49.8748,12.6,40,4.7
+04-08-2016 00:00,unknown,rain,unknown,above_road,0,0,KN,Saint Thomas Middle Island,2332,-62.796,17.3171,,,
+05-03-2014 09:00,mudslide,rain,small,above_road,0,0,US,Washington,3014,-122.2605,47.2741,9.3,92,6.6
+18-12-2015 00:00,landslide,downpour,small,above_road,0,0,US,Oregon,9989,-124.0636,44.6881,12.8,94,39.5
+12-10-2016 00:00,landslide,downpour,medium,below_road,0,0,IN,West Bengal,12311,88.4695,26.8692,23.7,99,4.5
+27-07-2015 00:00,mudslide,downpour,small,above_road,0,0,US,Massachusetts,1222,-72.801,42.443,20.9,85,5.9
+03-10-2011 09:30,landslide,downpour,small,urban,0,1,TH,Phuket,14797,98.2937,7.8806,28.2,82,16.6
+11-04-2015 00:00,landslide,downpour,medium,above_road,0,0,ID,Central Java,27814,108.9921,-7.159,26.4,87,1.8
+19-04-2016 15:00,rock_fall,snowfall_snowmelt,small,above_road,0,0,US,Colorado,4992,-104.929,38.8744,1.7,85,3.1
+17-07-2015 09:00,landslide,monsoon,medium,mine,5,0,PH,Western Visayas,2285,121.6896,11.6064,,,
+19-02-2014 00:00,mudslide,continuous_rain,medium,above_road,0,0,US,Washington,2388,-123.0873,46.775,8.1,77,20.5
+06-01-2016 00:00,mudslide,downpour,medium,natural_slope,0,0,US,California,65201,-118.998,34.1941,13.3,82,18.6
+23-07-2015 02:15,debris_flow,dam_embankment_collapse,medium,natural_slope,0,6,KZ,Almaty Oblysy,2000900,76.8515,43.0235,9.9,89,5.7
+19-07-2015 01:30,other,downpour,small,urban,3,0,BD,Chittagong,3920222,91.8147,22.3507,25.5,94,18.9
+27-08-2011 00:00,landslide,downpour,medium,above_road,0,0,IN,Kashmir,9446,75.3504,32.6188,25.3,87,4.2
+26-07-2016 09:00,complex,mining,small,mine,1,1,PK,Khyber Pakhtunkhwa,8893,70.8242,33.519,27.7,87,8.5
+04-11-2014 00:00,mudslide,downpour,medium,urban,1,0,FR,Provence-Alpes-Côte d'Azur,1407,7.2412,43.8214,14.6,86,7.9
+11-02-2014 00:00,rock_fall,snowfall_snowmelt,medium,above_road,0,0,US,Oregon,15829,-122.6921,45.2623,6.4,90,12.2
+09-10-2014 00:00,landslide,rain,large,natural_slope,0,0,NI,Rivas,2771,-85.622,11.5366,,,
+14-10-2016 00:00,landslide,rain,small,above_road,0,0,US,Oregon,4935,-123.677,45.4966,15.6,97,23.1
+18-05-2015 03:00,mudslide,rain,large,deforested_slope,92,40,CO,Antioquia,6428,-76.0113,5.9681,16.5,96,3.8
+25-05-2014 00:00,complex,rain,very_large,natural_slope,3,0,US,Colorado,2253,-107.8476,39.1652,5.2,78,5.4
+11-10-2016 00:00,other,downpour,medium,above_road,0,0,PH,Cagayan Valley,0,121.9206,20.3852,,,
+01-08-2015 00:00,landslide,continuous_rain,medium,below_road,0,0,IN,Manipur,223523,94.3591,25.1122,16.8,99,4.9
+03-04-2015 00:00,landslide,downpour,small,above_road,0,0,IN,Himachal Pradesh,8341,77.1803,32.2934,8.5,89,4
+02-03-2015 09:00,mudslide,snowfall_snowmelt,small,above_road,0,0,US,Kentucky,1706,-82.7058,37.4233,2.5,94,10.4
+21-08-2014 21:30,mudslide,downpour,small,above_road,0,0,US,New York,2229,-74.5965,42.8147,21.4,87,4
+08-07-2016 00:00,rock_fall,monsoon,medium,above_road,0,0,PH,Cordillera,4114,120.9108,16.9603,20.8,87,7.1
+21-08-2015 00:00,landslide,continuous_rain,medium,urban,0,0,BD,Chittagong,32523,92.2135,22.1909,26.3,93,9.4
+08-12-2015 00:00,landslide,downpour,small,above_road,0,0,US,Washington,9246,-122.2781,48.0487,9.2,91,7.4
+08-12-2015 18:30,debris_flow,rain,medium,above_road,0,0,AU,Victoria,1100,146.8092,-36.6184,17.7,87,6.3
+06-08-2015 00:00,other,downpour,medium,retaining_wall,0,0,IN,Andaman and Nicobar Islands,112050,92.749,11.6753,,,
+14-09-2015 00:00,rock_fall,freeze_thaw,medium,above_road,0,0,US,Alaska,5617,-150.0041,60.4964,12.4,64,12.2
+30-07-2016 00:00,mudslide,rain,large,above_road,0,0,US,Alaska,1021,-150.3516,63.4281,11.2,79,9.4
+19-01-1997 08:00,landslide,downpour,small,above_road,0,0,US,Washington,23025,-122.5025,47.6638,10.1,79,14.5
+15-05-2011 00:00,mudslide,snowfall_snowmelt,medium,above_road,0,0,US,Washington,1347,-121.0087,48.7191,13.9,70,6.7
+14-04-2015 15:00,landslide,downpour,small,natural_slope,0,0,US,Kentucky,3255,-82.7592,37.5761,16.3,87,14.7
+16-11-2015 00:00,mudslide,rain,medium,above_road,0,0,US,Washington,5517,-122.9199,46.2128,6.6,88,12.2
+03-07-2016 22:00,rock_fall,monsoon,medium,above_road,0,0,IN,Maharashtra,25997,73.7793,19.336,23.3,99,13.1
+21-02-2014 00:00,mudslide,continuous_rain,medium,above_road,0,0,US,Kentucky,4407,-84.5607,39.0963,17.9,63,24.9
+30-01-2015 15:25,mudslide,rain,medium,natural_slope,0,0,CA,British Columbia,8987,-127.698,52.3545,8.5,93,21.5
+25-06-2015 09:00,mudslide,downpour,medium,above_road,0,0,IN,Kashmir,4690,74.6568,34.141,20.7,68,3.6
+14-10-2016 00:00,landslide,tropical_cyclone,medium,bluff,0,0,GB,Scotland,9592,-2.1979,56.9462,10.7,92,31.2
+11-03-2016 00:00,landslide,rain,medium,above_road,0,0,US,California,1707,-122.8921,38.4115,14.8,92,7.1
+17-09-2015 00:00,landslide,downpour,medium,above_road,0,0,IE,Munster,2082,-9.9768,52.054,10.1,94,7.1
+05-03-2015 15:00,landslide,rain,small,natural_slope,0,0,US,Virginia,3286,-82.556,36.9972,-5,88,16.3
+04-03-2015 00:00,other,rain,small,above_road,0,0,US,West Virginia,51400,-81.5871,38.395,13.9,90,20.8
+07-07-2016 23:00,landslide,downpour,large,natural_slope,0,0,NP,Eastern Region,2324,86.726,27.7009,11.5,97,3.1
+09-02-2016 00:00,riverbank_collapse,dam_embankment_collapse,medium,above_river,0,0,GB,England,1575,-2.7812,54.8366,5.4,90,26.7
+07-08-2016 00:00,landslide,downpour,medium,above_road,0,0,IN,Kashmir,7317,75.2131,33.2483,25.1,98,2.3
+21-07-2016 09:00,landslide,rain,medium,above_road,0,0,IN,West Bengal,12311,88.4719,26.9015,26.4,95,6.4
+11-08-2014 23:00,mudslide,downpour,small,above_road,0,0,US,Colorado,629,-105.4449,37.4282,23.9,24,8.6
+09-03-2016 00:00,landslide,continuous_rain,medium,natural_slope,0,11,ID,West Java,0,107.0274,-6.6811,25.5,96,4
+02-04-2015 23:00,landslide,continuous_rain,medium,other,0,0,PK,Federally Administered Tribal Areas,3334,70.4457,33.7795,6.6,90,6.2
+17-07-2016 09:00,landslide,rain,medium,above_road,0,0,US,Hawaii,2156,-156.1374,20.8467,,,
+16-10-2016 15:00,rock_fall,rain,medium,mine,3,0,KH,Battambang,23218,102.8987,13.7934,27,91,2.2
+09-04-2014 09:00,mudslide,rain,small,above_road,0,0,US,Ohio,5785,-84.3118,39.2341,6.8,67,12.8
+31-07-2010 18:20,landslide,downpour,medium,urban,0,0,IN,Maharashtra,20000,72.8889,19.1287,26.2,91,19.8
+10-07-2014 00:00,landslide,continuous_rain,small,above_road,0,0,TH,Chiang Rai,78756,99.8324,19.9024,25.7,93,7.1
+27-02-2015 00:00,mudslide,snowfall_snowmelt,medium,above_road,0,0,CN,Xinjiang Uygur Zizhiqu,0,75.0635,38.745,-9.9,92,0.5
+24-07-2015 00:00,landslide,rain,medium,natural_slope,0,0,PK,Gilgit-Baltistan,0,76.0557,35.1807,18.2,69,1.5
+23-09-2013 00:00,landslide,downpour,small,other,0,0,GB,England,8055,-1.1959,50.6296,15.2,91,7.1
+22-04-2015 16:00,mudslide,downpour,small,above_road,0,0,IN,Karnataka,417387,74.8852,12.8659,28.7,81,5.1
+16-08-2016 00:00,rock_fall,rain,medium,above_road,0,0,PH,Cordillera,28407,120.6154,16.345,23,92,1.1
+15-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Uttarakhand,17123,78.6814,30.9111,20.4,82,1.9
+22-12-2014 00:00,landslide,rain,medium,below_road,0,0,US,California,805235,-122.5103,37.7837,16.3,92,17.5
+29-07-2016 00:00,landslide,downpour,unknown,above_road,0,0,NP,Eastern Region,0,86.5079,27.3027,18.2,94,1.8
+11-05-2015 00:00,mudslide,continuous_rain,small,natural_slope,0,0,US,Colorado,18867,-105.2274,39.779,3.5,77,9.6
+20-06-2013 00:00,rock_fall,no_apparent_trigger,medium,natural_slope,0,0,US,Utah,1755,-109.0551,40.5741,31.1,8,31.2
+07-02-2015 13:30,other,downpour,medium,retaining_wall,2,2,ID,Bali,0,115.5641,-8.5083,27,89,2.3
+01-06-2014 00:00,mudslide,continuous_rain,small,above_road,0,0,US,Minnesota,11071,-93.1471,44.8979,23.9,79,13.2
+13-06-2015 13:00,landslide,rain,medium,above_road,0,0,CO,Cauca,1972,-76.3034,2.8696,14.2,84,8.2
+12-08-2014 15:00,rock_fall,earthquake,small,above_road,0,0,EC,Pichincha,1399814,-78.3774,-0.0718,17.2,60,2.1
+22-03-2014 10:45,mudslide,downpour,large,natural_slope,43,8,US,Washington,1347,-121.8495,48.2847,-1,79,5.2
+15-12-2014 14:10,mudslide,rain,small,above_road,0,0,US,California,3722,-121.9112,36.5763,10.3,89,13.8
+05-01-2015 01:00,landslide,downpour,medium,above_road,0,0,US,Washington,2685,-123.6483,46.9445,11.5,97,22.2
+05-06-2015 12:00,mudslide,downpour,small,above_road,0,0,US,Arizona,7247,-111.4876,36.9346,19.5,57,7.5
+02-10-2016 00:00,landslide,tropical_cyclone,medium,above_road,0,0,JM,Saint Catherine,4085,-76.9107,18.142,24.6,90,4.1
+28-03-2015 18:00,landslide,downpour,medium,urban,0,0,IN,Kashmir,8036,74.79428356,33.9548314,8,94,5.9
+27-09-2015 00:00,landslide,construction,small,urban,0,0,BD,Chittagong,3920222,91.8236,22.3605,26.4,91,8.2
+19-07-2016 12:00,rock_fall,rain,large,natural_slope,0,0,CA,Alberta,3907,-118.175,52.6843,0.5,97,6
+28-12-1998 00:00,rock_fall,downpour,small,above_road,0,0,US,Oregon,1035,-123.8399,45.266,11.6,95,30.9
+17-12-2015 00:00,landslide,downpour,small,above_road,0,0,US,Oregon,1895,-123.0073,46.0951,5.8,81,8.3
+01-05-2015 18:00,landslide,continuous_rain,small,other,4,1,KE,Kwale,4883,39.5664,-4.1665,26.3,82,11.8
+07-01-2016 15:00,mudslide,rain,medium,above_road,0,0,US,Washington,80885,-122.4967,48.7583,2.2,90,6.7
+15-01-2016 00:00,landslide,rain,small,above_road,0,0,ES,Galicia,26983,-8.6238,42.8629,7.1,81,14.6
+12-08-2014 15:00,mudslide,downpour,small,above_road,0,0,US,Washington,1872,-121.3216,46.9468,17.8,63,3.3
+04-08-2016 09:00,rock_fall,rain,small,above_road,0,0,KN,Saint Thomas Middle Island,2332,-62.7955,17.3165,,,
+13-10-2016 00:00,landslide,continuous_rain,medium,above_road,0,0,NP,Eastern Region,108600,87.3215,26.8772,19.7,98,1.3
+19-07-2015 02:00,landslide,downpour,small,urban,3,0,BD,Chittagong,3920222,91.8177,22.3913,25.9,93,22.6
+13-10-2014 00:00,landslide,downpour,medium,below_road,0,0,HN,Ocotepeque,2389,-89.1666,14.4579,20.9,94,2.2
+10-02-2015 00:00,landslide,rain,medium,above_road,0,0,PA,Chiriquí,0,-82.0513,8.5121,25.3,86,5.6
+04-02-2014 00:00,landslide,downpour,medium,above_road,0,0,ID,Central Java,111461,110.1775,-7.2986,25.1,94,12.5
+18-02-2016 15:00,landslide,rain,medium,above_road,0,0,US,Idaho,3141,-115.6031,45.8288,5,78,7.9
+16-09-2016 00:00,landslide,downpour,small,above_road,0,2,GB,England,125707,-0.4118,51.6753,17.6,93,10.8
+25-09-2015 00:00,landslide,rain,small,urban,0,0,CR,San José,335007,-84.0771,9.9402,19.3,94,3.8
+18-07-2015 23:00,mudslide,downpour,small,above_road,0,0,US,Ohio,5338,-84.4639,39.1252,29.2,73,2.3
+05-08-2015 12:10,landslide,mining,medium,mine,0,0,IN,Goa,18898,74.0113,15.3956,26.1,90,12.1
+17-06-2015 00:00,landslide,continuous_rain,small,below_road,0,0,CR,Alajuela,3010,-84.6089,10.44,25.8,87,12.3
+01-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Manipur,7528,94.1913,24.4265,18.4,99,4.8
+12-08-2014 00:00,mudslide,downpour,small,above_road,0,0,US,Washington,4354,-121.5163,46.8734,27.1,19,4.3
+27-07-2015 17:00,mudslide,downpour,medium,above_road,0,0,US,Massachusetts,1318,-72.7216,42.3902,26.2,69,8.7
+13-03-2014 21:30,landslide,rain,medium,other,0,0,LU,Luxembourg,3306,5.9931,49.5181,7.3,74,9
+24-07-2016 22:00,landslide,tropical_cyclone,small,retaining_wall,0,0,US,Hawaii,371657,-157.854,21.3555,25.6,86,20.5
+05-07-2015 00:00,rock_fall,monsoon,small,natural_slope,2,0,NP,Central Region,0,86.3248,27.0483,22.3,97,2.1
+16-08-2014 23:00,landslide,downpour,medium,above_road,0,0,IN,Kashmir,9106,74.9465,33.0272,15.7,89,5
+06-10-2014 09:30,landslide,continuous_rain,small,urban,0,0,PH,Central Visayas,3537,123.8476,10.2714,28,85,6.5
+15-07-2014 00:00,mudslide,rain,small,above_road,0,0,CN,Hebei,0,114.6943,39.3602,20.2,62,4
+01-09-2014 08:53,landslide,downpour,medium,mine,11,0,CN,Sichuan,0,108.9523,31.0053,22.2,86,5.3
+29-03-2016 02:00,landslide,freeze_thaw,medium,above_river,0,0,CA,Ontario,8018,-76.6606,45.4871,2.3,83,26.9
+19-06-2015 00:00,landslide,continuous_rain,medium,natural_slope,0,0,US,Colorado,6900,-104.8574,38.7714,20.6,53,7.6
+20-07-2016 14:30,mudslide,downpour,medium,above_road,0,0,US,Colorado,1320,-108.0488,38.0115,17.2,77,3.1
+04-06-1993 06:00,other,rain,medium,deforested_slope,0,0,GB,England,38909,-0.3913,54.267,10.1,79,11.2
+16-03-2015 14:30,mudslide,rain,small,above_road,0,0,US,Washington,20254,-122.3085,47.9427,6.6,89,6.6
+04-03-2015 00:00,mudslide,rain,medium,natural_slope,0,1,US,West Virginia,1090,-81.8692,37.6142,13.2,90,18.9
+05-10-2014 17:45,landslide,rain,medium,above_road,1,0,IN,Meghalaya,14387,91.8587,25.9702,23.3,91,5.4
+14-04-2015 09:00,mudslide,downpour,medium,above_road,0,0,US,Kentucky,3255,-82.8875,37.5986,17.5,96,6.9
+03-10-2016 00:00,landslide,downpour,medium,above_road,0,0,NP,Western Region,23693,83.2627,28.0461,16.9,83,6.2
+04-07-2015 23:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Cordillera,2653,120.5842,16.2867,23.7,92,9.5
+29-06-2015 00:30,landslide,construction,medium,urban,0,0,MY,Johor,802489,103.7246,1.5044,26.4,88,7.5
+11-12-2007 12:00,debris_flow,continuous_rain,large,above_river,0,0,US,Oregon,1737,-123.336,46.1049,-0.8,94,4.7
+24-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Uttarakhand,27611,78.3415,30.416,17,85,1
+04-07-2016 08:00,rock_fall,downpour,medium,above_road,0,0,KR,Gyeongsangbuk-do,48962,129.0783,37.0109,18.1,97,10
+10-12-2014 18:30,mudslide,rain,small,above_road,0,0,US,Washington,103019,-122.204,47.9796,13.6,72,25
+05-03-2015 22:30,mudslide,rain,medium,above_road,0,0,US,West Virginia,3191,-82.31,37.7219,-5.7,75,12.2
+16-06-2016 23:00,mudslide,downpour,medium,above_road,0,0,KG,Jalal-Abad,23594,72.3119,41.4816,18.7,84,7.9
+01-02-2015 10:05,rock_fall,no_apparent_trigger,small,urban,0,0,US,California,14236,-116.7692,32.8364,9.2,82,6.2
+11-11-2015 00:00,landslide,rain,medium,urban,1,0,TR,Artvin,24266,41.8196,41.1795,7.9,92,6
+25-01-2014 18:00,landslide,downpour,unknown,above_road,1,18,ID,Central Sulawesi,282431,119.8338,-0.8994,25.5,97,2.6
+27-05-2015 00:00,landslide,downpour,medium,natural_slope,4,0,CN,Jiangxi Sheng,0,114.3101,27.4694,26.4,91,2.7
+31-08-2015 08:30,mudslide,downpour,small,engineered_slope,0,0,US,South Carolina,120083,-80.02022486,32.85199035,24.7,91,9.4
+28-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Uttarakhand,2000,79.0758,30.7204,9,87,4.7
+02-03-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Kashmir,3278,75.203,33.3296,6,85,5.6
+21-10-2015 00:00,landslide,rain,medium,below_road,0,0,MX,Chiapas,18608,-91.7416,17.7055,26.6,90,5.6
+26-06-2016 00:00,landslide,downpour,medium,natural_slope,0,0,IN,Odisha,11166,84.5699,19.3805,28.1,87,11.7
+29-03-2011 07:00,landslide,continuous_rain,medium,natural_slope,0,0,AU,Queensland,10983,148.4762878,-20.07651697,24.4,95,17.2
+18-05-2014 00:00,landslide,rain,medium,below_road,0,0,BA,Federation of Bosnia and Herzegovina,6587,18.842,44.4624,9.1,97,4.1
+18-08-2015 15:00,landslide,downpour,medium,above_road,0,0,US,Alaska,8881,-132.7891693,55.46624663,15,90,9.5
+03-05-2015 00:00,landslide,downpour,small,below_road,0,0,FR,Rhône-Alpes,1197,6.5662,45.8358,10.8,90,5.7
+13-05-2015 00:00,landslide,continuous_rain,small,natural_slope,0,0,US,Colorado,6680,-104.8365,38.9218,17.6,45,8
+04-10-2014 15:00,unknown,mining,medium,mine,18,0,ID,West Kalimantan,0,109.4949,0.8098,24.2,94,2.1
+05-01-2015 00:00,landslide,downpour,medium,bluff,0,0,US,Washington,8726,-123.8655,46.9785,10.7,96,19.8
+29-11-2015 00:00,rock_fall,rain,medium,above_road,0,0,US,North Carolina,1646,-82.3216,35.2207,15.1,76,3.8
+25-09-2014 00:00,landslide,downpour,medium,above_road,0,0,PA,Chiriquí,1908,-82.8416,8.8229,21.3,91,3.8
+29-09-2015 00:00,mudslide,rain,medium,above_road,0,0,US,Virginia,24922,-80.111,37.1873,19.7,94,10.5
+23-01-2013 14:00,rock_fall,earthquake,small,natural_slope,0,0,NZ,West Coast,1187,170.1806,-43.5606,16.1,93,1.6
+28-07-2015 00:00,landslide,continuous_rain,large,natural_slope,9,1,VN,Qu?ng Ninh,135477,107.4603,21.0893,26.5,87,27.6
+02-12-2015 00:00,landslide,flooding,small,above_road,0,0,US,Oregon,583776,-122.7037,45.5102,4.6,64,8.3
+20-07-2015 23:00,rock_fall,continuous_rain,small,above_road,0,0,US,California,6037,-118.5824,34.0395,25.8,76,10.8
+06-10-2016 00:00,landslide,rain,medium,above_road,0,0,AU,Victoria,1100,147.2151,-36.7654,14.3,77,7.6
+11-08-2016 23:00,unknown,downpour,medium,above_road,0,0,SA,Jizan,54108,42.7416,17.1908,29,84,4.6
+28-07-2015 00:00,mudslide,rain,medium,mine,0,0,VN,Qu?ng Ninh,135477,107.2971,21.0268,22.6,96,8.1
+14-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,US,Tennessee,6097,-82.4673,36.2032,24.4,83,1.1
+07-07-2016 00:00,rock_fall,mining,small,mine,3,1,IN,Tamil Nadu,11400,78.0298,10.0545,28.2,64,3.6
+06-12-2014 00:00,landslide,downpour,medium,above_road,0,0,FJ,Central,77366,178.4944,-17.7558,26.2,86,22.1
+19-07-2014 00:00,mudslide,downpour,small,above_road,0,0,US,Colorado,1655,-105.0175,38.9398,23,29,5
+15-07-2014 15:00,mudslide,rain,small,above_road,0,0,US,Wyoming,9520,-109.8833,44.4686,16.5,71,2.9
+10-03-2015 15:00,mudslide,rain,small,above_road,1,0,US,West Virginia,1747,-80.4306,37.7663,7.6,88,6.1
+09-02-2015 00:00,mudslide,downpour,small,above_road,0,0,CA,British Columbia,2732,-118.9931,50.788,10,69,3
+22-02-2014 09:00,mudslide,snowfall_snowmelt,medium,above_road,0,0,US,Kentucky,3255,-82.8679,37.5927,3.4,52,14.5
+28-03-2015 00:00,landslide,downpour,medium,above_road,0,0,IN,Kashmir,1242,75.2405,33.0186,13.6,76,5.9
+29-06-2015 00:00,landslide,downpour,medium,above_road,0,0,IN,West Bengal,123797,88.2478,27.0161,17.6,89,0.8
+25-05-2016 19:00,rock_fall,downpour,small,above_road,0,0,US,Hawaii,2040,-157.7804,21.3654,24.2,74,13
+16-07-2016 09:23,complex,freeze_thaw,large,other,0,0,US,Washington,1965,-120.8406,47.4794,2.6,91,6.7
+11-03-2016 00:00,mudslide,rain,small,above_road,0,0,US,California,7273,-123.8033,39.4415,15.8,74,10.6
+06-07-1997 00:00,rock_fall,downpour,medium,mine,0,0,LU,Diekirch,845,6.1098,49.8894,13.6,90,10.8
+14-01-2016 02:00,landslide,rain,small,natural_slope,1,0,MY,Pahang,7000,101.479,4.479,21.9,63,5.5
+06-02-2015 07:00,landslide,rain,medium,above_road,0,0,US,Washington,2344,-122.7251,45.713,12.5,91,11.3
+22-07-2014 00:00,landslide,rain,small,above_road,0,0,NP,Western Region,0,84.6333,27.9995,21.8,91,0.5
+19-07-2015 00:00,landslide,downpour,small,above_road,0,0,US,California,10109,-116.7469,33.0681,19.4,94,7.7
+09-02-2015 11:00,other,mining,small,mine,2,0,BD,Sylhet,88760,91.5642,24.3311,23.7,64,5.2
+15-01-2014 11:30,mudslide,continuous_rain,large,natural_slope,0,0,MY,Sabah,32393,116.2825,6.1353,25.1,86,9.6
+31-10-2015 00:00,landslide,downpour,small,above_road,0,0,IN,Tamil Nadu,87123,77.8987,11.374,25.2,83,1.8
+17-06-2015 09:00,landslide,continuous_rain,medium,natural_slope,0,0,MY,Sabah,19294,116.5867799,6.06832965,6.5,86,1.8
+26-10-2014 10:00,landslide,downpour,small,above_road,0,0,GB,Scotland,9652,-5.2213,56.7331,11.8,91,36.7
+04-07-2011 06:00,landslide,continuous_rain,medium,above_road,5,3,PH,Northern Mindanao,83591,125.2441,7.9436,29.3,74,11.5
+08-05-2016 23:00,rock_fall,rain,small,above_road,0,0,US,Wyoming,1482,-110.9633,43.5004,9.2,59,10.4
+15-07-2016 00:00,landslide,rain,medium,below_road,0,0,AU,Tasmania,5706,145.6201,-40.9324,12.3,82,16
+01-08-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Manipur,15118,94.4481,25.1941,17.5,99,4.9
+23-06-2016 00:00,mudslide,rain,medium,above_road,0,0,US,West Virginia,2213,-80.7427,38.3529,20.9,89,7.9
+28-09-2015 09:00,landslide,downpour,medium,urban,0,0,HN,Francisco Morazán,1449,-87.2055,14.0211,20.4,98,3.3
+13-06-2015 06:30,landslide,downpour,medium,above_road,0,0,IN,West Bengal,123797,88.2476,27.0165,20,80,3.6
+11-10-2015 00:00,landslide,downpour,medium,urban,8,6,MM,Kayah,106945,97.1594,18.8204,20.4,97,3.9
+06-10-2015 00:00,landslide,rain,small,above_road,0,0,GT,Quetzaltenango,45654,-91.8708,14.7159,27.1,84,3.1
+16-10-2016 17:00,mudslide,downpour,medium,above_road,0,0,US,California,4651,-120.6609,38.3139,16.3,91,20.6
+11-07-2015 09:00,landslide,rain,medium,urban,0,0,GT,Guatemala,97172,-90.4902,14.689,17.7,90,6
+27-09-2015 00:00,landslide,rain,medium,above_road,0,0,GT,Chimaltenango,16494,-90.9681,14.6614,15.9,91,1.9
+07-12-2015 00:00,rock_fall,downpour,small,above_road,0,0,US,Oregon,8925,-122.3454,44.3984,10.7,74,17.6
+23-06-2014 00:00,landslide,rain,medium,above_road,0,0,CN,Hunan,0,112.9838,28.0115,24.3,94,3
+16-03-2011 19:00,mudslide,downpour,medium,above_road,0,0,US,Washington,2826,-122.332,47.8651,8.2,81,13.2
+19-12-2015 01:30,landslide,other,medium,natural_slope,0,0,US,California,105000,-118.3791589,34.10694106,16.6,19,5.5
+02-08-2016 00:00,mudslide,rain,medium,above_road,0,0,CA,British Columbia,2324,-121.7,50.4868,27.6,29,6
+17-11-2014 02:00,landslide,downpour,small,above_road,0,0,US,Alabama,81619,-86.8019,33.3747,13.6,88,17.6
+23-09-2015 00:00,mudslide,downpour,medium,above_road,0,0,MY,Penang,140849,100.2468,5.2885,25,92,6.1
+14-09-2014 09:00,other,rain,small,urban,0,0,PA,Panamá,19782,-79.5626,9.1139,24.3,92,2.3
+03-03-2015 00:00,landslide,downpour,medium,above_road,0,0,PE,San Martín,0,-77.6081,-5.7135,25.8,85,4.5
+28-07-2015 00:00,landslide,downpour,large,natural_slope,0,0,JP,Kagoshima,29710,130.747,31.4976,27.8,73,12.3
+08-02-2014 18:00,landslide,continuous_rain,medium,above_road,0,0,GB,England,7687,-2.8011,50.8829,7,76,32.3
+19-10-2015 00:00,landslide,tropical_cyclone,medium,above_road,0,0,GT,Santa Rosa,3634,-90.2743,14.1974,19.9,91,4.2
+16-08-2016 00:00,landslide,monsoon,medium,above_road,0,0,PH,Ilocos,10943,120.5281,16.9761,26.7,84,17.6
+10-02-2014 00:00,mudslide,snowfall_snowmelt,medium,above_road,0,0,US,Oregon,36619,-122.6707,45.4206,1.8,88,3.3
+17-01-2015 03:00,landslide,rain,large,deforested_slope,0,0,CN,Guizhou Sheng,0,108.6966,28.0878,7.6,63,11.6
+21-02-2015 23:00,mudslide,snowfall_snowmelt,medium,natural_slope,0,0,US,Kentucky,3255,-82.7982,37.6251,2.8,85,18.4
+01-08-2015 00:00,landslide,continuous_rain,small,below_road,0,0,IN,Manipur,223523,94.2156,24.954,20.8,100,4.7
+28-12-1998 00:00,rock_fall,downpour,small,above_river,0,0,US,Oregon,1035,-123.8107,45.2811,10.8,95,30.9
+27-06-2014 09:00,mudslide,rain,small,above_road,0,0,US,Minnesota,1325,-91.9607,43.7638,20.7,91,12.7
+13-03-2014 00:00,landslide,continuous_rain,medium,above_road,0,0,US,Ohio,4368,-84.5284,39.1396,0.1,76,20.5
+19-11-2014 00:00,landslide,downpour,medium,above_road,0,0,PE,Ancash,0,-77.1255,-9.3884,12.7,72,3
+03-06-2016 11:30,mudslide,dam_embankment_collapse,medium,mine,2,0,US,Mississippi,5044,-90.29507589,31.93184108,22.3,94,10.7
+09-09-2015 00:00,rock_fall,rain,small,above_road,0,0,US,Pennsylvania,3744,-79.9908,40.4747,27.8,54,6.3
+01-09-2014 00:00,mudslide,downpour,medium,above_road,0,0,US,Washington,1191,-120.9298,46.815,23.8,25,12.2
+01-08-2016 04:00,landslide,rain,medium,above_road,0,0,NP,Central Region,44632,84.9005,27.805,27.4,93,3
+08-03-2015 00:00,mudslide,mining,large,mine,50,0,MM,Kachin,90894,96.2964,25.6183,16,76,5.4
+21-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Kashmir,37475,77.7652,33.616,7.7,87,1
+27-09-2016 00:00,mudslide,rain,medium,above_road,0,0,US,Minnesota,13394,-94.0658,44.1527,17.7,29,22.7
+01-04-2015 00:00,landslide,continuous_rain,medium,urban,0,0,PK,Gilgit-Baltistan,2100,75.6394,35.2817,6.2,84,2.2
+16-07-2016 00:00,mudslide,downpour,medium,above_road,1,0,IN,Arunachal Pradesh,26912,93.804,27.3034,23.3,97,2.6
+01-01-2016 23:00,landslide,rain,medium,above_road,0,0,GB,Scotland,1296,-4.8568,56.2266,3.7,88,20.4
+02-06-2015 00:00,mudslide,downpour,large,natural_slope,1,0,GE,Chechnya,2922,45.2472,42.5676,4.1,74,3.5
+10-06-2014 00:00,landslide,rain,small,below_road,0,0,US,Minnesota,11071,-93.1627,44.885,21.6,47,3.7
+03-03-2015 18:30,landslide,freeze_thaw,small,above_road,0,0,US,Washington,1872,-121.0704,46.9484,1.1,44,5.2
+05-07-2016 06:00,mudslide,downpour,large,above_road,0,0,US,Texas,216290,-96.8975,32.834,27,75,22.3
+19-06-2014 00:00,mudslide,continuous_rain,small,above_road,0,0,US,Minnesota,6661,-93.7933,44.6474,26.6,62,15.9
+14-06-2016 23:00,landslide,mining,medium,mine,2,0,CI,Lacs,67349,-4.7287,6.6794,24,94,8.3
+10-08-2015 00:00,mudslide,downpour,medium,above_river,0,0,MY,Sabah,19294,116.6443,5.9551,22.6,89,4.3
+18-03-2016 00:00,landslide,rain,medium,above_road,0,0,CN,Hunan,0,112.3174,28.5299,12.3,93,2.3
+07-08-2016 00:00,unknown,tropical_cyclone,medium,above_road,0,0,MX,Hidalgo,0,-98.1654,20.4475,21.4,90,6.8
+04-08-2014 23:00,complex,downpour,medium,above_road,0,0,IN,Haryana,32162,76.9834,30.709,25,87,6.4
+18-01-2015 08:00,landslide,downpour,small,urban,0,0,US,Washington,19355,-122.4333,45.6,13.6,96,26.8
+28-12-1998 00:00,debris_flow,downpour,small,above_road,0,0,US,Oregon,4584,-123.5356,44.4311,10.8,96,31.2
+26-07-2015 09:00,rock_fall,rain,small,above_road,0,0,CA,British Columbia,10600,-123.1671,49.9392,13.3,89,1.9
+06-10-2014 12:20,mudslide,rain,small,above_road,0,0,GB,Scotland,1296,-4.8841,56.2456,10.7,83,16.6
+14-09-2016 00:00,landslide,downpour,medium,above_road,0,0,AU,Victoria,1777,143.8953,-38.6326,10,91,13.6
+14-03-2016 00:00,mudslide,continuous_rain,medium,natural_slope,0,0,US,California,16016,-122.1239,37.844,14.5,85,16.8
+03-09-2014 23:00,mudslide,rain,small,mine,0,0,US,Georgia,189885,-84.9289,32.4981,27.4,71,3
+06-02-2015 15:00,mudslide,downpour,medium,above_road,0,0,CR,San José,0,-83.9822,10.0757,17.2,95,5.5
+06-03-2016 00:00,mudslide,rain,small,above_road,0,0,US,California,1094,-120.5597,38.376,13.5,87,23.5
+27-03-2013 03:45,landslide,rain,medium,bluff,0,1,US,Washington,14202,-122.6011,48.1393,7.5,78,10.3
+25-06-2016 00:00,rock_fall,downpour,medium,above_road,0,10,DE,Hesse,1053,7.863,50.0006,20.2,90,6.5
+27-05-2014 16:00,mudslide,rain,small,above_road,0,0,US,Colorado,1079,-105.8961,39.632,8.4,49,9.6
+14-02-2015 00:00,landslide,mining,small,mine,1,2,IN,Assam,13917,91.6469,26.1468,16.2,92,8.9
+11-06-2015 00:00,landslide,rain,medium,above_road,0,0,HN,Choluteca,1164,-86.9101,13.5807,26.2,87,2.3
+28-05-2016 00:00,rock_fall,downpour,medium,natural_slope,0,0,US,Missouri,29526,-94.5226,38.9913,23.1,72,3.1
+19-02-2015 23:00,landslide,mining,medium,mine,2,1,IN,Assam,31031,92.562,24.6108,14.7,97,4.1
+20-07-2016 14:30,mudslide,downpour,medium,above_road,0,0,US,Colorado,1320,-108.0164,37.9926,16.7,77,3.1
+16-10-2016 00:00,landslide,rain,medium,above_road,0,0,PH,Cordillera,0,121.3014,16.9959,21.3,100,26.6
+28-09-2015 12:00,rock_fall,rain,medium,natural_slope,0,0,US,Kentucky,2231,-83.3614,37.5513,18.5,92,7.2
+20-07-2016 14:30,mudslide,downpour,medium,above_road,0,0,US,Colorado,1320,-108.0372,38.0021,17.1,77,3.1
+14-07-2015 00:00,mudslide,continuous_rain,small,above_road,0,0,US,West Virginia,1227,-81.3494,38.4875,23.8,85,11.8
+05-02-2015 00:00,rock_fall,freeze_thaw,medium,above_road,0,0,US,Washington,2758,-121.5568,46.7496,8.5,84,8.2
+21-03-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Kashmir,20553,75.8103,33.1754,8.9,40,4.9
+12-10-2016 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Sikkim,1147,88.2891,27.2676,22.4,95,4.7
+04-06-2015 09:00,landslide,downpour,small,above_road,0,0,NZ,Auckland,417910,174.7821,-36.8631,13.4,82,26.7
+24-05-2016 12:00,mudslide,downpour,medium,above_road,0,0,US,Montana,4688,-113.9591,48.5431,6.6,96,2.1
+18-02-2015 00:00,other,snowfall_snowmelt,medium,below_road,0,0,CA,British Columbia,1706,-118.1103,49.8785,6.1,62,1.8
+30-05-2016 00:00,landslide,continuous_rain,medium,above_road,0,0,JM,Saint Ann,3319,-77.0984,18.2443,23.9,86,4.5
+21-08-2015 04:00,landslide,tropical_cyclone,medium,above_road,2,0,PH,Cordillera,0,120.7678,16.7515,15.8,96,19.6
+19-03-2016 00:00,landslide,downpour,medium,above_road,8,0,PK,Balochist?n,0,68.1831,31.7655,3.4,67,14.7
+07-06-2016 00:00,landslide,mining,medium,mine,3,0,CI,Woroba,27504,-7.5724,8.2341,25.2,86,8.8
+27-08-2015 00:00,landslide,downpour,medium,urban,0,0,IN,Mizoram,265331,92.7265,23.7269,22.7,97,2.2
+04-04-2014 18:30,landslide,rain,medium,below_road,5,0,ID,West Java,0,108.2401,-7.3397,25.1,93,3.9
+16-12-2015 23:00,mudslide,rain,medium,above_road,1,3,PH,Mimaropa,3695,121.6171,14.7171,24.4,92,30
+04-03-2014 00:00,mudslide,continuous_rain,large,above_road,0,0,US,Kentucky,81,-83.4771,37.3486,-8.4,81,10.7
+04-03-2015 21:00,other,rain,medium,above_road,0,0,US,West Virginia,1638,-81.3669,38.1935,6.2,97,5.4
+15-08-2015 00:00,riverbank_collapse,downpour,medium,above_river,0,0,VN,Ha N?i,0,105.7341,20.8404,29.5,85,5.9
+22-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Manipur,92113,94.0926,25.3908,20.7,96,2.8
+18-07-2016 00:00,rock_fall,snowfall_snowmelt,medium,natural_slope,0,1,US,Washington,2224,-121.4788,46.2078,4.1,66,1.6
+05-03-2014 08:30,mudslide,continuous_rain,medium,above_road,0,0,US,Washington,10674,-122.4372,47.4067,9.7,93,3.4
+26-08-2015 15:00,landslide,rain,small,above_road,0,0,GB,England,22500,0.4411,52.0722,18.7,80,27.4
+03-11-2014 00:00,landslide,rain,medium,above_road,0,0,CR,San José,0,-83.9673,10.127,20,93,6.5
+06-02-2015 09:00,mudslide,rain,medium,above_road,0,0,US,Washington,20254,-122.2842,47.9536,12.6,86,26.4
+11-06-2007 10:00,landslide,monsoon,very_large,urban,128,150,BD,Chittagong,3920222,91.8205,22.3555,26.6,93,20.6
+22-07-2010 02:00,landslide,continuous_rain,medium,urban,0,0,IN,Maharashtra,609617,72.88274367,19.17377751,26.3,94,14.7
+17-03-2015 00:00,rock_fall,rain,medium,above_road,0,0,BG,Lovech,42211,24.7312,43.0659,2.4,86,7.3
+31-05-2015 09:00,mudslide,downpour,small,below_road,0,0,ZA,Western Cape,6922,18.3534,-34.0947,13.6,81,17.7
+18-02-2014 17:00,landslide,continuous_rain,medium,above_road,0,0,US,Oregon,2255,-121.5602,45.6516,6.3,91,4.2
+14-01-2014 15:00,landslide,downpour,medium,urban,0,0,US,Alaska,8881,-135.3489024,57.0676052,9.6,100,24.6
+06-07-2015 00:00,landslide,downpour,small,above_road,0,0,CR,San José,0,-83.9436,10.1495,23.2,97,1.8
+10-04-2015 00:00,landslide,continuous_rain,medium,natural_slope,0,0,US,Ohio,1526,-80.7942,39.9582,19.2,93,15.5
+20-03-2014 09:00,mudslide,continuous_rain,small,above_road,0,0,US,Connecticut,51384,-73.1157,41.2008,5,97,11.6
+22-05-2013 01:13,rock_fall,rain,medium,bluff,2,2,US,Minnesota,19540,-93.1255,44.9179,12.2,89,14.8
+15-10-2009 09:00,landslide,tropical_cyclone,medium,above_road,0,0,PH,Cordillera Administrative Region,6371,120.6524,16.4946,19.9,84,5.9
+13-07-2015 00:00,landslide,rain,medium,natural_slope,1,3,PK,Khyber Pakhtunkhwa,36150,71.0525,33.53,22.6,91,4.9
+04-12-2014 00:00,debris_flow,rain,small,burned_area,0,0,US,California,143911,-117.1375,33.0938,17.9,98,8
+12-05-2015 00:00,landslide,earthquake,medium,natural_slope,28,10,NP,Central Region,1600,86.1636,27.7368,18.9,88,3.2
+23-01-2016 00:00,mudslide,rain,small,above_road,0,0,US,California,1205,-124.1109,41.0321,16.3,50,22.1
+26-02-2014 12:00,mudslide,downpour,large,above_road,0,0,US,California,50073,-117.8406,34.148,13.2,75,4.8
+07-12-2015 09:00,rock_fall,rain,small,above_road,0,1,US,Washington,1191,-120.7902,46.749,5.3,85,10
+02-07-2016 09:00,rock_fall,downpour,medium,above_road,1,4,IN,Himachal Pradesh,40283,77.09003076,30.89221723,19.4,98,7.1
+19-05-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,US,Colorado,3582,-105.0973,38.5514,7.8,76,12.8
+22-09-2014 00:00,landslide,rain,small,urban,1,0,IN,Assam,2000,91.7747,26.1097,25.8,95,6
+13-10-2014 23:00,rock_fall,earthquake,small,above_road,0,0,SV,San Miguel,6393,-88.1253,13.2817,26.4,86,3.8
+27-09-2014 00:00,landslide,downpour,medium,below_road,0,0,GT,Huehuetenango,1713,-91.9955,15.3975,22.6,87,2.4
+12-03-2015 00:00,landslide,downpour,medium,urban,0,2,LB,Liban-Nord,20000,35.9814,34.2451,12.1,77,6.1
+07-11-2015 18:00,unknown,rain,large,above_road,0,0,MY,Pahang,12346,101.8881,3.3902,24.2,93,1.8
+14-04-2015 00:00,mudslide,downpour,small,above_road,0,0,US,Kentucky,4456,-83.2128,37.2859,22.4,72,6.7
+05-01-2015 00:00,landslide,downpour,medium,above_road,0,0,US,Washington,8726,-123.8719,46.9797,10.6,96,19.8
+23-08-2015 15:00,landslide,downpour,medium,mine,8,0,ID,Papua,0,139.3635,-3.765,25,94,1.1
+19-07-2015 00:00,debris_flow,downpour,medium,natural_slope,0,0,US,California,193365,-117.2564,33.9805,20.2,83,5.2
+01-09-2015 00:00,debris_flow,flooding,small,above_road,0,0,US,West Virginia,2499,-80.72112486,40.09289035,27.1,65,5.5
+21-07-2015 00:00,landslide,downpour,small,above_road,0,0,US,West Virginia,1638,-81.3139,38.1838,27.8,80,8.4
+19-07-2015 00:00,landslide,continuous_rain,medium,above_road,0,0,IN,Uttarakhand,17123,78.4378,30.73,23.2,92,1
+19-10-2015 00:00,landslide,rain,medium,above_road,0,0,GT,Suchitepeque,2680,-91.1789,14.3855,24.8,89,3.1
+02-10-2016 23:00,landslide,downpour,small,above_road,0,0,AU,Tasmania,19972,145.8772,-41.0443,11,87,25.6
+04-01-2015 23:00,landslide,downpour,medium,bluff,0,0,US,Washington,8726,-123.8671,46.9785,10.3,96,17.7
+02-10-2016 00:00,landslide,downpour,medium,above_road,0,0,NZ,Waikato,1502,175.4632,-36.9322,16.3,91,24
+19-12-2015 00:00,landslide,rain,small,natural_slope,0,0,MY,Selangor,60000,101.5769,3.0039,23.8,93,5.7
+14-01-2014 00:00,landslide,downpour,large,above_road,0,1,ID,North Sulawesi,27624,124.8317,1.3659,23.1,87,9.4
+19-07-2016 00:00,landslide,downpour,medium,above_road,0,0,IN,Arunachal Pradesh,18425,94.9612,28.235,25.1,94,2.3
+16-10-2015 00:00,mudslide,flooding,large,above_road,0,0,US,California,19015,-118.5561,34.5784,23.9,64,6
+21-10-2015 00:00,rock_fall,downpour,small,above_road,0,0,US,Utah,5046,-109.6312,38.5624,17.2,66,4.3
+08-10-2015 00:00,landslide,rain,small,above_road,0,0,PA,Bocas del Toro,0,-82.2996,9.1261,25.5,85,6.4
+17-09-2015 00:00,landslide,rain,medium,deforested_slope,6,0,MX,Veracruz,1005,-97.1317,19.1331,15,93,2.9
+05-03-2014 00:00,mudslide,downpour,medium,above_road,0,0,US,Washington,10540,-122.1952,48.4878,9,92,8
+31-08-2014 19:15,mudslide,downpour,small,above_road,0,0,CA,British Columbia,14708,-132.4149,53.3319,14.3,93,21.1
+06-07-2015 00:00,landslide,downpour,small,above_road,0,0,CR,San José,1355,-84.0033,10.0678,19.5,90,2.8
+22-11-2014 01:00,landslide,continuous_rain,medium,deforested_slope,5,0,ID,North Sumatra,0,99.5577,1.9345,24.9,96,1.3
+19-07-2015 00:00,landslide,monsoon,small,urban,1,0,PH,Ilocos,2178,119.887,16.2814,26.4,85,17.1
+17-11-2015 00:00,landslide,rain,medium,above_road,0,0,US,Washington,1982,-122.889,46.2567,7.4,92,24.2
+14-03-2015 23:00,rock_fall,snowfall_snowmelt,medium,above_road,0,0,BG,Plovdiv,3258,24.8,41.9126,2.7,91,7.6
+29-06-2016 00:00,landslide,downpour,medium,above_road,0,0,IN,Uttarakhand,2000,79.3206,30.3299,25.5,91,2.3
+15-09-2015 00:00,rock_fall,construction,medium,mine,0,0,US,North Carolina,1171,-83.0948,35.7755,18.4,61,6.2
+27-09-2015 00:00,landslide,rain,medium,urban,0,0,GT,Guatemala,994938,-90.5119,14.6219,18.7,93,3.8
+18-01-2015 09:30,landslide,downpour,medium,below_road,0,0,MY,Sarawak,570407,110.2726,1.1188,24.1,92,7.2
+22-04-2016 23:00,landslide,rain,small,mine,3,0,PH,Davao,10672,126.1736,8.504,26.3,87,2.3
+17-12-2009 00:00,rock_fall,rain,medium,above_road,0,0,GR,Thessaly,2113,22.5703077,39.87523711,11.7,90,7.1
+22-08-2015 19:00,rock_fall,rain,medium,above_road,12,0,CN,Yunnan,0,105.7794,23.6244,21.9,86,4.8
+10-08-2014 10:00,rock_fall,rain,small,above_road,0,0,CR,Alajuela,14448,-84.4693,9.9189,23.1,90,2.3
+05-10-2016 10:00,landslide,rain,medium,above_road,0,0,US,Vermont,2101,-72.6672,44.1292,9.8,89,6.1
+21-06-2015 09:00,landslide,rain,small,above_road,0,0,PA,Bocas del Toro,993,-82.1867,8.907,25.7,86,7.4
+11-04-2016 00:00,creep,downpour,medium,bluff,0,0,GB,England,50253,-2.4461,50.6221,10,94,23.3
+24-07-2015 00:00,landslide,continuous_rain,small,above_road,0,0,IN,Uttarakhand,25753,78.1045,30.4528,18.2,82,1.9
+05-03-2015 09:00,mudslide,rain,small,above_road,0,0,US,West Virginia,1344,-81.2565,37.7028,-0.9,95,14.3
+02-12-2014 00:00,debris_flow,rain,medium,burned_area,0,0,US,California,3249,-118.9858,34.1946,17.8,73,3.3
+24-10-2016 23:00,rock_fall,construction,medium,mine,0,2,CA,British Columbia,4038,-116.4362,51.4197,3.9,81,4.3
+16-11-2015 09:00,landslide,downpour,medium,natural_slope,0,0,MY,Kuala Lumpur,1453975,101.7036,3.1497,27.4,82,3.7
+20-01-2015 00:00,landslide,downpour,medium,mine,2,3,PK,Balochist?n,7630,67.3799,30.6218,2,78,7
